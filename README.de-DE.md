@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 Prompt-Sammlung
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Stern auf GitHub vergeben](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![Stern auf GitHub vergeben](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![Code & Originaldokumentation: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![Validierungs-CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![Validierungs-CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![Beiträge willkommen](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 Eine kuratierte Sammlung kreativer Prompts und visueller Beispiele für GPT Image 2.6.
 
-> ⚠️ **Urheberrechtshinweis**: Diese Sammlung enthält Prompts und Beispiele aus öffentlich zugänglichen Quellen sowie unabhängig generierte Bilder und dient ausschließlich Bildungszwecken. Wenn du der Meinung bist, dass Inhalte deine Rechte verletzen, [öffne bitte ein Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), und wir werden sie umgehend entfernen.
+> ⚠️ **Urheberrechtshinweis**: Diese Sammlung enthält Prompts und Beispiele aus öffentlich zugänglichen Quellen sowie unabhängig generierte Bilder und dient ausschließlich Bildungszwecken. Wenn du der Meinung bist, dass Inhalte deine Rechte verletzen, [öffne bitte ein Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml), und wir werden sie umgehend entfernen.
 
 ---
 
@@ -6388,9 +6388,9 @@ Vielen Dank an OpenAI und die auf jeder Beispielseite genannten ursprünglichen 
 
 ## ⭐ Verlauf der Sterne
 
-[Verlauf der Sterne](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [Personen ansehen, die einen Stern vergeben haben](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[Verlauf der Sterne](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [Personen ansehen, die einen Stern vergeben haben](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[Diesem Repository einen Stern geben / folgen](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[Diesem Repository einen Stern geben / folgen](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ Nach oben](#top)
 

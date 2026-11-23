@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 प्रॉम्प्ट संग्रह
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub पर स्टार दें](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![GitHub पर स्टार दें](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![कोड और मूल दस्तावेज़: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![सत्यापन CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![सत्यापन CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![योगदान का स्वागत है](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 GPT Image 2.6 के लिए रचनात्मक प्रॉम्प्ट और दृश्य उदाहरणों का चुना हुआ संग्रह।
 
-> ⚠️ **कॉपीराइट सूचना**: इस संग्रह में सार्वजनिक स्रोतों से लिए गए प्रॉम्प्ट और उदाहरणों के साथ स्वतंत्र रूप से जनरेट की गई छवियाँ शामिल हैं, और यह सारी सामग्री केवल शैक्षिक उद्देश्यों के लिए है। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक इश्यू खोलें](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), और हम उसे तुरंत हटा देंगे।
+> ⚠️ **कॉपीराइट सूचना**: इस संग्रह में सार्वजनिक स्रोतों से लिए गए प्रॉम्प्ट और उदाहरणों के साथ स्वतंत्र रूप से जनरेट की गई छवियाँ शामिल हैं, और यह सारी सामग्री केवल शैक्षिक उद्देश्यों के लिए है। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक इश्यू खोलें](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml), और हम उसे तुरंत हटा देंगे।
 
 ---
 
@@ -6388,9 +6388,9 @@ OpenAI और हर उदाहरण के पेज पर श्रेय 
 
 ## ⭐ स्टार इतिहास
 
-[स्टार इतिहास](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [स्टार देने वाले लोग देखें](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[स्टार इतिहास](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [स्टार देने वाले लोग देखें](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[इस रिपॉज़िटरी को स्टार दें / फ़ॉलो करें](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[इस रिपॉज़िटरी को स्टार दें / फ़ॉलो करें](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ शीर्ष पर वापस जाएँ](#top)
 

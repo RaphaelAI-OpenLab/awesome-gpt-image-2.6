@@ -1,6 +1,6 @@
 # ailingqu: 38 licensed GIF task groups
 
-Historical audit dated November 8, 2026. The credited prompts and GIFs were replaced in the active collection on November 23. [Repository revision with the archived GIF files](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6/tree/1c3b4c0dd582550c33cc17407a2106e15c00302a/assets/examples).
+Historical audit dated November 8, 2026. The credited prompts and GIFs were replaced in the active collection on November 23. [Repository revision with the archived GIF files](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/tree/1c3b4c0dd582550c33cc17407a2106e15c00302a/assets/examples).
 
 Source: [ailingqu / awesome-ai-gif-prompts at 2672b8fe04e75275de70a8d5d2992da6271ce8f5](https://github.com/ailingqu/awesome-ai-gif-prompts/tree/2672b8fe04e75275de70a8d5d2992da6271ce8f5).
 

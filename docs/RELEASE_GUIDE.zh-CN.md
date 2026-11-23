@@ -8,7 +8,7 @@
 
 | 项目 | 建议值或操作 |
 | --- | --- |
-| Repository name | `awesome-gpt-image-2-6` |
+| Repository name | `awesome-gpt-image-2.6-prompts` |
 | Description | `GPT Image 2.6 prompts, visual examples, and original sources. An open collection by Raphael.` |
 | Topics | `gpt-image-2-6`, `image-generation`, `prompts`, `prompt-library`, `openai`, `design`, `raphael` |
 | Default branch | `main` |

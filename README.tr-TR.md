@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 İstem Koleksiyonu
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub'da yıldız verin](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![GitHub'da yıldız verin](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![Kod ve özgün belgeler: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![Doğrulama CI'ı](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![Doğrulama CI'ı](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![Katkılarınızı bekliyoruz](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 GPT Image 2.6 için özenle seçilmiş yaratıcı istemler ve görsel örneklerden oluşan bir koleksiyon.
 
-> ⚠️ **Telif hakkı bildirimi**: Bu koleksiyon, herkese açık kaynaklardan alınan istemleri ve örnekleri, ayrıca bağımsız olarak oluşturulan görselleri içerir ve yalnızca eğitim amaçlıdır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız lütfen [bir sorun kaydı açın](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), içeriği de hemen kaldıracağız.
+> ⚠️ **Telif hakkı bildirimi**: Bu koleksiyon, herkese açık kaynaklardan alınan istemleri ve örnekleri, ayrıca bağımsız olarak oluşturulan görselleri içerir ve yalnızca eğitim amaçlıdır. Herhangi bir içeriğin haklarınızı ihlal ettiğini düşünüyorsanız lütfen [bir sorun kaydı açın](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml), içeriği de hemen kaldıracağız.
 
 ---
 
@@ -6388,9 +6388,9 @@ OpenAI'a ve her örnek sayfasında atıfta bulunulan özgün üreticilere teşek
 
 ## ⭐ Yıldız geçmişi
 
-[Yıldız geçmişi](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [Yıldız verenleri görüntüleyin](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[Yıldız geçmişi](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [Yıldız verenleri görüntüleyin](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[Bu depoya yıldız verin / takip edin](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[Bu depoya yıldız verin / takip edin](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ Başa dön](#top)
 

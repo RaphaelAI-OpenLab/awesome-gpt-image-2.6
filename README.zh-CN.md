@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 提示词大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![在 GitHub 点 Star](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![在 GitHub 点 Star](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![代码与原创文档: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![自动校验](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![自动校验](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![欢迎贡献](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 GPT Image 2.6 创意提示词与案例精选合集。
 
-> ⚠️ **版权声明**：本仓库收录公开来源的提示词与案例，以及独立生成的图片，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)，我们将立即移除。
+> ⚠️ **版权声明**：本仓库收录公开来源的提示词与案例，以及独立生成的图片，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml)，我们将立即移除。
 
 ---
 
@@ -6384,9 +6384,9 @@ README 结构参考并改编自 YouMind OpenLab 的 awesome-nano-banana-pro-prom
 
 ## ⭐ Star 历史
 
-[Star 历史](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [查看 Star 用户](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[Star 历史](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [查看 Star 用户](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[Star / 关注本仓库](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[Star / 关注本仓库](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ 返回顶部](#top)
 

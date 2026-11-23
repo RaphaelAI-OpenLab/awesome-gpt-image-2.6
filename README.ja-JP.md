@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 プロンプト集
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub でスターを付ける](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![GitHub でスターを付ける](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![コードと独自ドキュメント: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![検証 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![検証 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![貢献を歓迎します](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 GPT Image 2.6 のクリエイティブなプロンプトと作例を厳選したコレクション。
 
-> ⚠️ **著作権に関するお知らせ**: このコレクションでは、公開されている情報源から収集したプロンプトと作例、および独自に生成した画像を、教育目的に限り掲載しています。権利を侵害する内容が含まれているとお考えの場合は、 [Issue を作成してください](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)。直ちに削除いたします。
+> ⚠️ **著作権に関するお知らせ**: このコレクションでは、公開されている情報源から収集したプロンプトと作例、および独自に生成した画像を、教育目的に限り掲載しています。権利を侵害する内容が含まれているとお考えの場合は、 [Issue を作成してください](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml)。直ちに削除いたします。
 
 ---
 
@@ -6388,9 +6388,9 @@ OpenAI と、各事例ページにクレジットを記載したオリジナル�
 
 ## ⭐ スター履歴
 
-[スター履歴](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [スターを付けたユーザーを見る](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[スター履歴](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [スターを付けたユーザーを見る](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[このリポジトリにスターを付ける / フォローする](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[このリポジトリにスターを付ける / フォローする](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ ページの先頭に戻る](#top)
 

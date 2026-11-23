@@ -18,7 +18,7 @@ Thanks for helping build this collection. A useful entry includes the actual pro
 
 ## Suggest a source case / 推荐来源案例
 
-Use the [case suggestion form](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=submit-case.yml) for examples with or without a public prompt. Keep missing prompts explicit and include source/model evidence.
+Use the [case suggestion form](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=submit-case.yml) for examples with or without a public prompt. Keep missing prompts explicit and include source/model evidence.
 
 有无公开提示词的案例均可通过案例表单提交，请提供准确原作链接与模型依据。
 

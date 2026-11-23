@@ -68,7 +68,7 @@ class CollectionTests(unittest.TestCase):
     def test_displayed_images_are_local_except_approved_identity_badges(self):
         approved_badges = {
             'https://awesome.re/badge.svg',
-            'https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social',
+            'https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social',
             'https://img.shields.io/badge/License-MIT-lightgrey.svg',
             repo_url(self.config) + '/actions/workflows/validate.yml/badge.svg?branch=main',
             'https://img.shields.io/badge/PRs-welcome-brightgreen.svg',

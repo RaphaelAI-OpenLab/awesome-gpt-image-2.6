@@ -164,7 +164,7 @@ class PresentationTests(unittest.TestCase):
         badges=repo_badges(self.config,'en')
         self.assertNotIn('passing',badges.lower())
         self.assertIn('https://awesome.re/badge.svg',badges)
-        self.assertIn('https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social',badges)
+        self.assertIn('https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social',badges)
         self.assertIn(repo_url(self.config)+'/actions/workflows/validate.yml/badge.svg?branch=main',badges)
         self.assertIn('https://img.shields.io/badge/License-MIT-lightgrey.svg',badges)
         self.assertNotIn('YouMind-OpenLab',badges)

@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 提示詞大全
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![在 GitHub 加星號](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![在 GitHub 加星號](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![程式碼與原創文件: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![驗證 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![驗證 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![歡迎貢獻](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 GPT Image 2.6 創意提示詞與案例精選合集。
 
-> ⚠️ **著作權聲明**: 本合集收錄公開來源的提示詞與案例，以及獨立生成的圖片，僅供教育用途。若您認為任何內容侵害您的權利，請 [提出 Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml)，我們將立即移除。
+> ⚠️ **著作權聲明**: 本合集收錄公開來源的提示詞與案例，以及獨立生成的圖片，僅供教育用途。若您認為任何內容侵害您的權利，請 [提出 Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml)，我們將立即移除。
 
 ---
 
@@ -6388,9 +6388,9 @@ README 結構依 CC BY 4.0 授權改編自 YouMind OpenLab 的 awesome-nano-bana
 
 ## ⭐ 星號歷史
 
-[星號歷史](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [查看加星號的使用者](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[星號歷史](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [查看加星號的使用者](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[為此儲存庫加星號 / 追蹤](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[為此儲存庫加星號 / 追蹤](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ 回到頁首](#top)
 

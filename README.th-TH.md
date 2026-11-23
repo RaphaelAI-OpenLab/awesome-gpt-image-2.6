@@ -7,14 +7,14 @@
 # 🚀 รวมพรอมป์ต์ GPT Image 2.6
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![กดดาวบน GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![กดดาวบน GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![โค้ดและเอกสารที่เขียนขึ้นเอง: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![CI สำหรับตรวจสอบความถูกต้อง](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![CI สำหรับตรวจสอบความถูกต้อง](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![ยินดีรับการร่วมพัฒนา](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 คอลเลกชันพรอมป์ต์สร้างสรรค์และตัวอย่างภาพที่คัดสรรสำหรับ GPT Image 2.6
 
-> ⚠️ **ประกาศลิขสิทธิ์**: คอลเลกชันนี้ประกอบด้วยพรอมป์ต์และตัวอย่างจากแหล่งข้อมูลสาธารณะ รวมถึงภาพที่สร้างขึ้นอย่างอิสระ โดยทั้งหมดมีไว้เพื่อการศึกษาเท่านั้น หากคุณเห็นว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิด Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml) แล้วเราจะนำเนื้อหานั้นออกทันที
+> ⚠️ **ประกาศลิขสิทธิ์**: คอลเลกชันนี้ประกอบด้วยพรอมป์ต์และตัวอย่างจากแหล่งข้อมูลสาธารณะ รวมถึงภาพที่สร้างขึ้นอย่างอิสระ โดยทั้งหมดมีไว้เพื่อการศึกษาเท่านั้น หากคุณเห็นว่าเนื้อหาใดละเมิดสิทธิ์ของคุณ โปรด [เปิด Issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml) แล้วเราจะนำเนื้อหานั้นออกทันที
 
 ---
 
@@ -6388,9 +6388,9 @@ The complete source prompt was used unchanged without source images. Evidence an
 
 ## ⭐ ประวัติดาว
 
-[ประวัติดาว](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [ดูผู้ที่กดดาว](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[ประวัติดาว](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [ดูผู้ที่กดดาว](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[กดดาว / ติดตามคลังโค้ดนี้](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[กดดาว / ติดตามคลังโค้ดนี้](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ กลับด้านบน](#top)
 

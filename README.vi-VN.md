@@ -7,14 +7,14 @@
 # 🚀 Bộ sưu tập câu lệnh GPT Image 2.6
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Gắn sao trên GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![Gắn sao trên GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![Mã nguồn và tài liệu gốc: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![CI kiểm tra hợp lệ](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![CI kiểm tra hợp lệ](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![Hoan nghênh đóng góp](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 Bộ sưu tập chọn lọc các câu lệnh sáng tạo và ví dụ trực quan cho GPT Image 2.6.
 
-> ⚠️ **Thông báo bản quyền**: Bộ sưu tập này bao gồm các câu lệnh và ví dụ từ các nguồn công khai cùng những hình ảnh được tạo độc lập, tất cả chỉ nhằm mục đích giáo dục. Nếu bạn cho rằng bất kỳ nội dung nào xâm phạm quyền của mình, vui lòng [mở một báo cáo vấn đề](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), và chúng tôi sẽ gỡ bỏ ngay lập tức.
+> ⚠️ **Thông báo bản quyền**: Bộ sưu tập này bao gồm các câu lệnh và ví dụ từ các nguồn công khai cùng những hình ảnh được tạo độc lập, tất cả chỉ nhằm mục đích giáo dục. Nếu bạn cho rằng bất kỳ nội dung nào xâm phạm quyền của mình, vui lòng [mở một báo cáo vấn đề](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml), và chúng tôi sẽ gỡ bỏ ngay lập tức.
 
 ---
 
@@ -6388,9 +6388,9 @@ Xin cảm ơn OpenAI và các tác giả gốc được ghi công trên từng t
 
 ## ⭐ Lịch sử sao
 
-[Lịch sử sao](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [Xem người gắn sao](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[Lịch sử sao](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [Xem người gắn sao](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[Gắn sao / theo dõi kho mã này](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[Gắn sao / theo dõi kho mã này](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ Về đầu trang](#top)
 

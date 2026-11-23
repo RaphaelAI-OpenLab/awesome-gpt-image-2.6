@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "Awesome GPT Image 2.6",
-    "repository_slug": "awesome-gpt-image-2-6",
+    "repository_slug": "awesome-gpt-image-2.6-prompts",
     "repository_owner": "RaphaelAI-OpenLab",
     "default_branch": "main",
     "model_family": "GPT Image 2.6",

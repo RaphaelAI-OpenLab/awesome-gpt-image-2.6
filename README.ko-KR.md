@@ -7,14 +7,14 @@
 # 🚀 GPT Image 2.6 프롬프트 모음
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![GitHub에서 스타 누르기](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![GitHub에서 스타 누르기](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![코드 및 자체 작성 문서: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![검증 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![검증 CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![기여를 환영합니다](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 GPT Image 2.6의 창의적인 프롬프트와 시각적 예시를 엄선한 모음입니다.
 
-> ⚠️ **저작권 안내**: 이 모음집은 공개 출처의 프롬프트와 사례, 독립적으로 생성한 이미지를 포함하며 교육 목적으로만 제공됩니다. 권리를 침해하는 콘텐츠가 있다고 생각하시면 [이슈를 등록해 주세요](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml). 즉시 삭제하겠습니다.
+> ⚠️ **저작권 안내**: 이 모음집은 공개 출처의 프롬프트와 사례, 독립적으로 생성한 이미지를 포함하며 교육 목적으로만 제공됩니다. 권리를 침해하는 콘텐츠가 있다고 생각하시면 [이슈를 등록해 주세요](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml). 즉시 삭제하겠습니다.
 
 ---
 
@@ -6388,9 +6388,9 @@ OpenAI와 각 사례 페이지에 표시된 원작자들께 감사드립니다.
 
 ## ⭐ 스타 기록
 
-[스타 기록](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [스타를 누른 사용자 보기](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[스타 기록](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [스타를 누른 사용자 보기](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[이 저장소에 스타 누르기 / 팔로우하기](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[이 저장소에 스타 누르기 / 팔로우하기](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ 맨 위로](#top)
 

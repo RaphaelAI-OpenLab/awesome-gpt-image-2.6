@@ -1,6 +1,6 @@
 # ailingqu GIF and prompt attribution
 
-This attribution covers the historical collection. The paths in the per-output mapping refer to the [archived repository revision](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6/tree/1c3b4c0dd582550c33cc17407a2106e15c00302a).
+This attribution covers the historical collection. The paths in the per-output mapping refer to the [archived repository revision](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/tree/1c3b4c0dd582550c33cc17407a2106e15c00302a).
 
 Creator: **ailingqu / awesome-ai-gif-prompts**.
 Source: https://github.com/ailingqu/awesome-ai-gif-prompts

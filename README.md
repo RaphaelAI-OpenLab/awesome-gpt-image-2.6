@@ -7,14 +7,14 @@
 # 🚀 Awesome GPT Image 2.6 Prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Star on GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2-6?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[![Star on GitHub](https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 [![Code & original docs: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
-[![Validation CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/actions/workflows/validate.yml)
+[![Validation CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![Contributions welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > 🎨 A curated collection of creative prompts and visual examples for GPT Image 2.6.
 
-> ⚠️ **Copyright notice**: This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please [open an issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/issues/new?template=report-problem.yml), and we will remove it immediately.
+> ⚠️ **Copyright notice**: This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please [open an issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml), and we will remove it immediately.
 
 ---
 
@@ -6384,9 +6384,9 @@ Thanks to OpenAI and the original creators credited on each case page.
 
 ## ⭐ Star history
 
-[Star history](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2-6&Date) · [View stargazers](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6/stargazers)
+[Star history](https://star-history.com/#RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts&Date) · [View stargazers](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/stargazers)
 
-[Star / follow this repository](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2-6)
+[Star / follow this repository](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts)
 
 [↑ Back to top](#top)
 
