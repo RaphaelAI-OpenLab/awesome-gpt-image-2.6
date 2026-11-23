@@ -1,0 +1,1 @@
+A round apricot button with a simple cream checkmark presses inward, rebounds, and sends five flat confetti diamonds outward before they fade. Keep the icon centered and readable, photographed as nothing: this is a flat two-dimensional microinteraction on pale lavender, with no labels. Return to the unpressed button in a loop.

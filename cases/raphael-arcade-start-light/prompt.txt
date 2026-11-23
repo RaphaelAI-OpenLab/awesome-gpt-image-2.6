@@ -1,0 +1,1 @@
+A low-resolution arcade starting-light animation: three bright red bulbs above a navy track turn off in order, one lime bulb lights, and two little racers launch from either side. A brisk scan-line wipe resets the scene on the last beat. Original 16-bit pixel art, no lettering, no borrowed game UI.

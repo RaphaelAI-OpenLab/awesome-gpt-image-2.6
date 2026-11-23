@@ -288,6 +288,8 @@ def media_mime(data: bytes) -> str | None:
 
 
 def validate_source_cases(config, cases, prompts, errors):
+    from source_cases import is_supported_source
+
     ids = {item['id'] for item in prompts if item.get('id')}
     categories = {item['id'] for item in config['categories']}
     for index, item in enumerate(cases):
@@ -297,7 +299,13 @@ def validate_source_cases(config, cases, prompts, errors):
         ids.add(item['id'])
         if item['category'] not in categories:
             errors.append(f'{name}.category: unknown category')
-        if not is_https_url(item['source']['url']):
+        original = item['source']['type'] == 'original'
+        if original:
+            if not is_supported_source(item):
+                errors.append(f'{name}.source.url: expected the case generation record')
+            else:
+                check_asset(item['source']['url'], f'{name}.source.url', errors, allow_remote=False)
+        elif not is_https_url(item['source']['url']):
             errors.append(f'{name}.source.url: expected original HTTPS source')
         if not item['source']['author'].strip():
             errors.append(f'{name}.source.author: missing author')
@@ -314,18 +322,25 @@ def validate_source_cases(config, cases, prompts, errors):
         for field in ('added_at', 'verified_at'):
             if not is_date(item[field]):
                 errors.append(f'{name}.{field}: expected ISO date')
-        if item['prompt']['status'] == 'source-only':
+        prompt_status = item['prompt']['status']
+        if original != (prompt_status == 'original'):
+            errors.append(f'{name}.prompt.status: original cases require original prompts')
+        if prompt_status == 'source-only':
             if not is_https_url(item['prompt']['url']):
                 errors.append(f'{name}.prompt.url: required for public source prompt')
         elif item['prompt']['url'] is not None:
             errors.append(f"{name}.prompt.url: {item['prompt']['status']} prompts must not have a prompt URL")
         entries = item['prompt'].get('entries')
-        if entries is not None:
-            if item['prompt']['status'] != 'source-only' or not entries:
-                errors.append(f'{name}.prompt.entries: original text requires a public source prompt and at least one entry')
-            for pindex, entry in enumerate(entries):
-                if not entry['text'].strip() or not is_https_url(entry['url']):
-                    errors.append(f'{name}.prompt.entries[{pindex}]: original text and HTTPS source are required')
+        if entries is not None or original:
+            if prompt_status not in ('original', 'source-only') or not entries:
+                errors.append(f'{name}.prompt.entries: at least one published prompt is required')
+            for pindex, entry in enumerate(entries or []):
+                if not entry['text'].strip():
+                    errors.append(f'{name}.prompt.entries[{pindex}]: prompt text is required')
+                if original and (entry.get('url') is not None or not entry.get('path')):
+                    errors.append(f'{name}.prompt.entries[{pindex}]: original prompts require a local text file')
+                if not original and not is_https_url(entry.get('url')):
+                    errors.append(f'{name}.prompt.entries[{pindex}]: HTTPS prompt source is required')
                 if not all(entry['title'][lang].strip() for lang in ('en', 'zh-CN')):
                     errors.append(f'{name}.prompt.entries[{pindex}].title: bilingual title required')
                 if 'path' in entry:
@@ -352,7 +367,10 @@ def validate_source_cases(config, cases, prompts, errors):
                 errors.append(f'{name}.access.media_status: archived requires all recorded media files locally')
         for mindex, media in enumerate(item['media']):
             mname = f'{name}.media[{mindex}]'
-            if not is_https_url(media['source_url']):
+            if original:
+                if media['source_url'] != media['path'] or media['rights']['status'] != 'original' or media['rights']['evidence_url'] != item['source']['url']:
+                    errors.append(f'{mname}: original media requires a local file and the case generation record')
+            elif not is_https_url(media['source_url']):
                 errors.append(f'{mname}.source_url: expected original HTTPS asset URL')
             if urlsplit(media['source_url']).path.lower().endswith('.mp4') and media['kind'] != 'video':
                 errors.append(f'{mname}.kind: MP4 sources must be labelled video, not GIF/image')
@@ -501,9 +519,9 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
     from source_cases import is_supported_source
     for item in cases:
         if not is_supported_source(item):
-            errors.append(f"{item['id']}: 本仓库仅收录官方、社媒与论坛、内容发布社区及 GitHub 来源")
+            errors.append(f"{item['id']}: 本仓库仅收录原创生成、官方、社媒与论坛、内容发布社区及 GitHub 来源")
     validate_prompts(config, prompts, errors, warnings, release=release)
-    for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/website/gpt-image-2-6-prompts-20261113.jpg", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
+    for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)
     if release:
         if not published(prompts):

@@ -29,12 +29,6 @@
 
 ## 🌐 在网页图库中查看
 
-<div align="center">
-
-[![在 Raphael 浏览完整效果合集 ↗](assets/website/gpt-image-2-6-prompts-20261113.jpg)](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=gallery_preview&utm_term=zh-CN)
-
-</div>
-
 **[👉 浏览 Raphael GPT Image 2.6 提示词图库](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=top_cta&utm_term=zh-CN)**
 
 **[📝 完整提示词](#collection)**
@@ -93,7 +87,7 @@ OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与
 | --- | --- |
 | 📝 提示词总数 | **156** |
 | ⭐ 精选 | **12** |
-| 🔄 最后更新 | **2026年11月13日星期五 UTC 05:44:40** |
+| 🔄 最后更新 | **2026年11月23日星期一 UTC 09:59:39** |
 
 <a id="featured"></a>
 
@@ -153,31 +147,28 @@ Recolor the armor to ivory white with rich gold trim, replace emerald gemstones 
 
 ---
 
-<a id="featured-case-ailingqu-four-seasons-tree"></a>
+<a id="featured-case-raphael-observatory-weather-cycle"></a>
 
-### 95. [一棵树的四季](#source-case-ailingqu-four-seasons-tree)
+### 95. [天文台的四种天空](#source-case-raphael-observatory-weather-cycle)
 
 <div align="center">
-<a href="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif"><img src="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif" alt="一棵树的四季" width="700" /></a><br /><sub>一棵树的四季</sub>
+<a href="assets/examples/raphael-observatory-weather-cycle/observatory-weather-cycle.gif"><img src="assets/examples/raphael-observatory-weather-cycle/observatory-weather-cycle.gif" alt="天文台的四种天空" width="700" /></a><br /><sub>天文台的四种天空</sub>
 </div>
 
 **原始提示词**
 
 ```text
-The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A small red-domed observatory on a rocky bluff against a locked circular composition, illustrated as colored pencil over paper. Clouds give way to a shower, dawn rainbow, clear starry sky and then back to drifting clouds. Preserve the building and horizon in every frame. Soft weather transitions in a short square loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-observatory-weather-cycle/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-four-seasons-tree/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-observatory-weather-cycle/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-observatory-weather-cycle&utm_term=zh-CN)**
 
 ---
 
@@ -201,31 +192,28 @@ Animate it as a short, smooth, seamlessly looping GIF with clear motion between 
 
 ---
 
-<a id="featured-case-ailingqu-window-day-to-night"></a>
+<a id="featured-case-raphael-greenhouse-day-to-night"></a>
 
-### 97. [窗边读书·白天到夜晚](#source-case-ailingqu-window-day-to-night)
+### 97. [玻璃温室从清晨到深夜](#source-case-raphael-greenhouse-day-to-night)
 
 <div align="center">
-<a href="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif"><img src="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="700" /></a><br /><sub>窗边读书·白天到夜晚</sub>
+<a href="assets/examples/raphael-greenhouse-day-to-night/greenhouse-day-to-night.gif"><img src="assets/examples/raphael-greenhouse-day-to-night/greenhouse-day-to-night.gif" alt="玻璃温室从清晨到深夜" width="700" /></a><br /><sub>玻璃温室从清晨到深夜</sub>
 </div>
 
 **原始提示词**
 
 ```text
-A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+Seen from outside, a tiny steel-framed desert greenhouse holds several tall cacti. Pink dawn sweeps into turquoise afternoon glass, then deep violet night with a single interior grow lamp and back to dawn. Fixed wide composition and architecture, softly textured gouache, smooth light changes in a brief ambient loop, no text.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-greenhouse-day-to-night/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-window-day-to-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-greenhouse-day-to-night/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-greenhouse-day-to-night&utm_term=zh-CN)**
 
 ---
 
@@ -255,31 +243,28 @@ A cinematic, ultra-realistic close-up portrait of a young woman with wet, tousle
 
 ---
 
-<a id="featured-case-ailingqu-goldfish-bowl"></a>
+<a id="featured-case-raphael-moon-jelly-aquarium"></a>
 
-### 100. [鱼缸里的金鱼](#source-case-ailingqu-goldfish-bowl)
+### 100. [月亮水母玻璃缸](#source-case-raphael-moon-jelly-aquarium)
 
 <div align="center">
-<a href="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif"><img src="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="700" /></a><br /><sub>鱼缸里的金鱼</sub>
+<a href="assets/examples/raphael-moon-jelly-aquarium/moon-jelly-aquarium.gif"><img src="assets/examples/raphael-moon-jelly-aquarium/moon-jelly-aquarium.gif" alt="月亮水母玻璃缸" width="700" /></a><br /><sub>月亮水母玻璃缸</sub>
 </div>
 
 **原始提示词**
 
 ```text
-A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A pair of tiny moon jellies drift in a tall cylindrical aquarium, backlit in pale aqua and lavender against indigo. Their bells pulse in a gently offset rhythm and fine suspended specks drift upward as the two jellyfish return to their original arrangement. Macro photography look, camera locked, no type, ambient loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-moon-jelly-aquarium/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-goldfish-bowl/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-moon-jelly-aquarium/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-moon-jelly-aquarium&utm_term=zh-CN)**
 
 ---
 
@@ -320,31 +305,28 @@ Use the same style from the input image and generate a man riding a motorcycle o
 
 ---
 
-<a id="featured-case-ailingqu-doodle-monster"></a>
+<a id="featured-case-raphael-sketchbook-bicycle"></a>
 
-### 108. [涂鸦小怪兽活了](#source-case-ailingqu-doodle-monster)
+### 108. [速写本里的单车转了起来](#source-case-raphael-sketchbook-bicycle)
 
 <div align="center">
-<a href="assets/examples/ailingqu-doodle-monster/doodle-monster.gif"><img src="assets/examples/ailingqu-doodle-monster/doodle-monster.gif" alt="涂鸦小怪兽活了" width="700" /></a><br /><sub>涂鸦小怪兽活了</sub>
+<a href="assets/examples/raphael-sketchbook-bicycle/sketchbook-bicycle.gif"><img src="assets/examples/raphael-sketchbook-bicycle/sketchbook-bicycle.gif" alt="速写本里的单车转了起来" width="700" /></a><br /><sub>速写本里的单车转了起来</sub>
 </div>
 
 **原始提示词**
 
 ```text
-A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A sketchbook close-up with a simple cobalt pen doodle of a tiny bicycle. The wheels start spinning and a pennant flutters, then the bicycle rides in one small circle on the page and returns to its original outline. Keep the paper and camera fixed, no hands or text, whimsical looping animation.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-sketchbook-bicycle/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-doodle-monster/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-sketchbook-bicycle/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-sketchbook-bicycle&utm_term=zh-CN)**
 
 ---
 
@@ -380,31 +362,28 @@ Place the UI mockup in an iPhone frame.
 
 ---
 
-<a id="featured-case-ailingqu-pixel-campfire"></a>
+<a id="featured-case-raphael-pixel-greenhouse-sprinkler"></a>
 
-### 109. [像素风篝火](#source-case-ailingqu-pixel-campfire)
+### 109. [像素温室的喷淋装置](#source-case-raphael-pixel-greenhouse-sprinkler)
 
 <div align="center">
-<a href="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif"><img src="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif" alt="像素风篝火" width="700" /></a><br /><sub>像素风篝火</sub>
+<a href="assets/examples/raphael-pixel-greenhouse-sprinkler/pixel-greenhouse-sprinkler.gif"><img src="assets/examples/raphael-pixel-greenhouse-sprinkler/pixel-greenhouse-sprinkler.gif" alt="像素温室的喷淋装置" width="700" /></a><br /><sub>像素温室的喷淋装置</sub>
 </div>
 
 **原始提示词**
 
 ```text
-A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A cozy pixel-art greenhouse at dusk: mint roof panes, terra-cotta pots and a tiny sprinkler rotating above a shelf of seedlings. The sprinkler sprays a few bright pixels in two directions and returns to its first angle. Stable scene, limited 16-bit palette, crisp square pixels, no text, seamless loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-pixel-greenhouse-sprinkler/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-campfire/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-pixel-greenhouse-sprinkler/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-pixel-greenhouse-sprinkler&utm_term=zh-CN)**
 
 ---
 
@@ -3044,1176 +3023,1062 @@ Polished kawaii chibi 3D toy-like style, bright celebratory pastel lighting, fun
 
 ---
 
-<a id="source-case-ailingqu-jelly-bear-wobble"></a>
+<a id="source-case-raphael-ceramic-octopus-stretch"></a>
 
-#### 80. Q 弹果冻熊摇晃
+#### 80. 陶瓷章鱼伸懒腰
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif"><img src="assets/examples/ailingqu-jelly-bear-wobble/jelly-bear-wobble.gif" alt="Q 弹果冻熊摇晃" width="700" /></a><br /><sub>Q 弹果冻熊摇晃</sub></td>
+<td align="center"><a href="assets/examples/raphael-ceramic-octopus-stretch/ceramic-octopus-stretch.gif"><img src="assets/examples/raphael-ceramic-octopus-stretch/ceramic-octopus-stretch.gif" alt="陶瓷章鱼伸懒腰" width="700" /></a><br /><sub>陶瓷章鱼伸懒腰</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A chubby round cartoon bear with a soft jelly-like body and stubby arms, squishing down and springing back up while wobbling side to side, cheeks jiggling on every bounce. Thick clean outlines, flat pastel colors, centered on a plain solid mint-green background that contrasts strongly with the bear.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A short square animated sticker of a glossy orange ceramic octopus with eight rubber-hose arms on a flat cobalt backdrop. It compresses like an accordion, stretches tall to fan its arms with a delighted expression, then settles into the original crouch. Smooth pose-to-pose motion, centered silhouette, locked camera, clean side light, no lettering. Loop back naturally to the opening pose.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-ceramic-octopus-stretch/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-jelly-bear-wobble/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-ceramic-octopus-stretch/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-jelly-bear-wobble&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-ceramic-octopus-stretch&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-bunny-reaction-set"></a>
+<a id="source-case-raphael-teapot-reactions"></a>
 
-#### 81. 白兔表情贴纸组
+#### 81. 茶壶反应贴纸三连
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-thumbs-up.gif" alt="兔兔点赞" width="360" /></a><br /><sub>兔兔点赞</sub></td>
-<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-laughing.gif" alt="兔兔笑出眼泪" width="360" /></a><br /><sub>兔兔笑出眼泪</sub></td>
+<td align="center"><a href="assets/examples/raphael-teapot-reactions/teapot-approval.gif"><img src="assets/examples/raphael-teapot-reactions/teapot-approval.gif" alt="茶壶伸出赞" width="360" /></a><br /><sub>茶壶伸出赞</sub></td>
+<td align="center"><a href="assets/examples/raphael-teapot-reactions/teapot-giggle.gif"><img src="assets/examples/raphael-teapot-reactions/teapot-giggle.gif" alt="茶壶笑到冒泡" width="360" /></a><br /><sub>茶壶笑到冒泡</sub></td>
 </tr>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif"><img src="assets/examples/ailingqu-bunny-reaction-set/bunny-sleepy.gif" alt="兔兔犯困" width="360" /></a><br /><sub>兔兔犯困</sub></td>
+<td align="center"><a href="assets/examples/raphael-teapot-reactions/teapot-snooze.gif"><img src="assets/examples/raphael-teapot-reactions/teapot-snooze.gif" alt="茶壶打瞌睡" width="360" /></a><br /><sub>茶壶打瞌睡</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
-**兔兔点赞**
+**茶壶伸出赞**
 
 ```text
-A small white cartoon bunny with long floppy ears and a pink nose, giving an enthusiastic thumbs-up with one paw, the paw pumping forward twice while the ears bounce. Chibi sticker style, bold outline, plain warm yellow background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A butter-yellow teapot character with a purple lid and small mitten hands stands against soft lilac. It lifts one mitten in a decisive thumbs-up as the lid pops once, then lowers the hand and settles. Bold screen-printed edges, a few accent rays, fixed square composition. Seamless sticker loop, no letters.
 ```
 
-**兔兔笑出眼泪**
+[原始提示词 (.txt)](cases/raphael-teapot-reactions/prompt-teapot-approval.txt)
+
+**茶壶笑到冒泡**
 
 ```text
-A small white cartoon bunny with long floppy ears and a pink nose, laughing so hard it rocks back and forth, eyes squeezed shut and two little tears flying out. Chibi sticker style, bold outline, plain warm yellow background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A yellow teapot with a purple lid and mitten hands chuckles on a flat lilac field. Its belly rocks twice while two little puffs curl out of the spout, vanish, and leave the pot back in its first pose. Textured screen-print sticker, fixed camera, keep the design consistent, no letters, continuous loop.
 ```
 
-**兔兔犯困**
+[原始提示词 (.txt)](cases/raphael-teapot-reactions/prompt-teapot-giggle.txt)
+
+**茶壶打瞌睡**
 
 ```text
-A small white cartoon bunny with long floppy ears and a pink nose, sitting and nodding off, head slowly drooping then jerking back up, a small bubble swelling and shrinking from its nose. Chibi sticker style, bold outline, plain warm yellow background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A sleepy butter-yellow teapot with a purple lid on lilac. The lid droops like an eyelid and a single round steam bubble swells above the spout, quietly pops, and the character settles back into its starting pose. Screen-printed sticker with thick outlines, fixed framing, no typography, gentle GIF loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-teapot-reactions/prompt-teapot-snooze.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-bunny-reaction-set/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-teapot-reactions/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bunny-reaction-set&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-teapot-reactions&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-cat-waving-hello"></a>
+<a id="source-case-raphael-mailbox-hello"></a>
 
-#### 82. 卡通猫挥手打招呼
+#### 82. 邮筒挥手打招呼
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif"><img src="assets/examples/ailingqu-cat-waving-hello/cat-waving-hello.gif" alt="卡通猫挥手打招呼" width="700" /></a><br /><sub>卡通猫挥手打招呼</sub></td>
+<td align="center"><a href="assets/examples/raphael-mailbox-hello/mailbox-hello.gif"><img src="assets/examples/raphael-mailbox-hello/mailbox-hello.gif" alt="邮筒挥手打招呼" width="700" /></a><br /><sub>邮筒挥手打招呼</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A cheerful cartoon cat waving hello.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A squat seafoam mailbox with red gumboots greets the viewer by raising its little hinged flag and waving an envelope like a hand. Put it on a coral background with a dark offset print shadow. The flag and envelope return to rest. Centered looping sticker, linocut texture, no words, static camera.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-mailbox-hello/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-waving-hello/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-mailbox-hello/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-waving-hello&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-mailbox-hello&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-shiba-head-tilt"></a>
+<a id="source-case-raphael-meerkat-double-take"></a>
 
-#### 83. 柴犬歪头疑惑
+#### 83. 狐獴愣了一下
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif"><img src="assets/examples/ailingqu-shiba-head-tilt/shiba-head-tilt.gif" alt="柴犬歪头疑惑" width="700" /></a><br /><sub>柴犬歪头疑惑</sub></td>
+<td align="center"><a href="assets/examples/raphael-meerkat-double-take/meerkat-double-take.gif"><img src="assets/examples/raphael-meerkat-double-take/meerkat-double-take.gif" alt="狐獴愣了一下" width="700" /></a><br /><sub>狐獴愣了一下</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A fluffy orange shiba inu puppy tilting its head to one side and back again, ears twitching, a small question mark popping above its head. Chibi sticker style, bold outline, plain light blue background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A felted meerkat with a turquoise scarf peers from a terracotta burrow against a peach studio background. Its ears perk, it glances right, then snaps its gaze back with wide eyes before relaxing into the opening pose. Handcrafted wool fibers, medium close-up, no question marks or captions, short looping reaction GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-meerkat-double-take/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-shiba-head-tilt/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-meerkat-double-take/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-shiba-head-tilt&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-meerkat-double-take&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-cat-typing-laptop"></a>
+<a id="source-case-raphael-raccoon-radio-repair"></a>
 
-#### 84. 猫猫疯狂打字
+#### 84. 浣熊抢修收音机
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif"><img src="assets/examples/ailingqu-cat-typing-laptop/cat-typing-laptop.gif" alt="猫猫疯狂打字" width="700" /></a><br /><sub>猫猫疯狂打字</sub></td>
+<td align="center"><a href="assets/examples/raphael-raccoon-radio-repair/raccoon-radio-repair.gif"><img src="assets/examples/raphael-raccoon-radio-repair/raccoon-radio-repair.gif" alt="浣熊抢修收音机" width="700" /></a><br /><sub>浣熊抢修收音机</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A grey tabby cat sitting at a tiny laptop and typing furiously with both front paws, paws blurring, little speed lines and sweat drops flying off. Flat cartoon sticker style, bold outline, plain pale pink background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A tiny raccoon mechanic in red overalls flips two toggles on a retro tabletop radio; the amber dial flickers, a spring pops up, and the raccoon catches it and resets. Risograph grain with violet shadows and acid-yellow highlights. Static square framing, one readable burst of activity, no lettering, short looping GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-raccoon-radio-repair/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-typing-laptop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-raccoon-radio-repair/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-typing-laptop&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-raccoon-radio-repair&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-frog-heart-bubble"></a>
+<a id="source-case-raphael-moth-moon-postcard"></a>
 
-#### 85. 青蛙吹出爱心
+#### 85. 飞蛾寄来一轮月亮
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif"><img src="assets/examples/ailingqu-frog-heart-bubble/frog-heart-bubble.gif" alt="青蛙吹出爱心" width="700" /></a><br /><sub>青蛙吹出爱心</sub></td>
+<td align="center"><a href="assets/examples/raphael-moth-moon-postcard/moth-moon-postcard.gif"><img src="assets/examples/raphael-moth-moon-postcard/moth-moon-postcard.gif" alt="飞蛾寄来一轮月亮" width="700" /></a><br /><sub>飞蛾寄来一轮月亮</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A round green cartoon frog puffing its cheeks and blowing a pink heart-shaped bubble that floats up and pops into tiny sparkles. Cute flat sticker style, bold outline, plain cream background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A small lavender luna moth in a navy envelope opens its wings, releases one tiny gold crescent charm, then folds back into the envelope as the charm disappears behind the flap. Flat midnight-blue field, gold-foil accents, paper-cut sticker, fixed camera, no text, seamless short animation.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-moth-moon-postcard/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-frog-heart-bubble/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-moth-moon-postcard/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-frog-heart-bubble&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-moth-moon-postcard&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-penguin-facepalm"></a>
+<a id="source-case-raphael-heron-umbrella-mishap"></a>
 
-#### 86. 企鹅捂脸
+#### 86. 苍鹭的雨伞翻面了
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif"><img src="assets/examples/ailingqu-penguin-facepalm/penguin-facepalm.gif" alt="企鹅捂脸" width="700" /></a><br /><sub>企鹅捂脸</sub></td>
+<td align="center"><a href="assets/examples/raphael-heron-umbrella-mishap/heron-umbrella-mishap.gif"><img src="assets/examples/raphael-heron-umbrella-mishap/heron-umbrella-mishap.gif" alt="苍鹭的雨伞翻面了" width="700" /></a><br /><sub>苍鹭的雨伞翻面了</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A chubby cartoon penguin slowly raising one flipper and slapping it onto its forehead, then shaking its head in disbelief. Chibi sticker style, bold outline, plain light grey background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A blue heron wearing yellow rain boots and holding a tiny red umbrella on a mint backdrop. A gust flips the umbrella inside out, the heron freezes in embarrassment for one beat, then flicks it open again and takes the opening stance. Bold cut-paper sticker, fixed framing, no captions, repeating GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-heron-umbrella-mishap/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-penguin-facepalm/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-heron-umbrella-mishap/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-penguin-facepalm&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-heron-umbrella-mishap&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-basketball-shot-sticker"></a>
+<a id="source-case-raphael-arcade-claw-victory"></a>
 
-#### 87. 投篮命中庆祝
+#### 87. 抓娃娃机抓到了月亮
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif"><img src="assets/examples/ailingqu-basketball-shot-sticker/basketball-shot-sticker.gif" alt="投篮命中庆祝" width="700" /></a><br /><sub>投篮命中庆祝</sub></td>
+<td align="center"><a href="assets/examples/raphael-arcade-claw-victory/arcade-claw-victory.gif"><img src="assets/examples/raphael-arcade-claw-victory/arcade-claw-victory.gif" alt="抓娃娃机抓到了月亮" width="700" /></a><br /><sub>抓娃娃机抓到了月亮</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A chibi kid in a red jersey jumps and shoots a basketball, the ball swishes through the hoop, then the kid lands and pumps a fist in celebration before returning to the starting pose. Bold-outline sticker style, plain light orange background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+View a chunky arcade claw through the glass of a miniature candy-colored cabinet. It descends to pick up one plush crescent, carries it toward the prize chute, and reappears overhead for a loop. Peach and blue toy-brick palette, locked front camera, distinct claw motion, blank cabinet panels, no text.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-arcade-claw-victory/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-basketball-shot-sticker/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-arcade-claw-victory/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-basketball-shot-sticker&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-arcade-claw-victory&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-cat-chef-fried-rice"></a>
+<a id="source-case-raphael-otter-pancake-flip"></a>
 
-#### 88. 猫厨师颠勺炒饭
+#### 88. 水獭翻松饼
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif"><img src="assets/examples/ailingqu-cat-chef-fried-rice/cat-chef-fried-rice.gif" alt="猫厨师颠勺炒饭" width="700" /></a><br /><sub>猫厨师颠勺炒饭</sub></td>
+<td align="center"><a href="assets/examples/raphael-otter-pancake-flip/otter-pancake-flip.gif"><img src="assets/examples/raphael-otter-pancake-flip/otter-pancake-flip.gif" alt="水獭翻松饼" width="700" /></a><br /><sub>水獭翻松饼</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A white cat chef in a tall chef hat tossing fried rice in a wok, the rice flies up in a little arc and lands back in the pan, a puff of steam rising each time. Comic cartoon style, warm kitchen background kept still.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A claymation river otter in a blue gingham apron flips a miniature pancake from a cast-iron skillet at a sunflower-yellow breakfast counter. The pancake makes one visible airborne turn, lands back in the pan, and the otter resets its wrist. Stable medium shot, chunky crafted forms, no text, looping GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-otter-pancake-flip/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-chef-fried-rice/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-otter-pancake-flip/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-chef-fried-rice&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-otter-pancake-flip&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-black-cat-punch"></a>
+<a id="source-case-raphael-sea-lion-ball-save"></a>
 
-#### 89. 黑猫出拳
+#### 89. 海狮顶回球
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif"><img src="assets/examples/ailingqu-black-cat-punch/black-cat-punch.gif" alt="黑猫出拳" width="700" /></a><br /><sub>黑猫出拳</sub></td>
+<td align="center"><a href="assets/examples/raphael-sea-lion-ball-save/sea-lion-ball-save.gif"><img src="assets/examples/raphael-sea-lion-ball-save/sea-lion-ball-save.gif" alt="海狮顶回球" width="700" /></a><br /><sub>海狮顶回球</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A round black cat with big yellow eyes throwing a quick one-two punch toward the viewer with its front paws, little impact stars popping, then settling back into a boxing stance. Chibi sticker style, bold outline, plain pastel purple background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A round blue sea lion in a tangerine swim cap stands on a pink pool deck. A striped beach ball drops into frame, taps its nose, and rebounds out along the same path while the seal dips and rises. Glossy inflatable toy aesthetic, strong silhouette, no captions, square reaction loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-sea-lion-ball-save/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-black-cat-punch/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-sea-lion-ball-save/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-black-cat-punch&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-sea-lion-ball-save&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-office-cat-workday-set"></a>
+<a id="source-case-raphael-desk-plant-workday"></a>
 
-#### 90. 打工猫上下班表情组
+#### 90. 办公盆栽的上班与下班
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif"><img src="assets/examples/ailingqu-office-cat-workday-set/office-cat-exhausted.gif" alt="打工猫：累瘫" width="360" /></a><br /><sub>打工猫：累瘫</sub></td>
-<td align="center"><a href="assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif"><img src="assets/examples/ailingqu-office-cat-workday-set/office-cat-clock-out.gif" alt="打工猫：下班啦" width="360" /></a><br /><sub>打工猫：下班啦</sub></td>
+<td align="center"><a href="assets/examples/raphael-desk-plant-workday/desk-plant-low-battery.gif"><img src="assets/examples/raphael-desk-plant-workday/desk-plant-low-battery.gif" alt="办公桌上的盆栽累趴了" width="360" /></a><br /><sub>办公桌上的盆栽累趴了</sub></td>
+<td align="center"><a href="assets/examples/raphael-desk-plant-workday/desk-plant-clock-out.gif"><img src="assets/examples/raphael-desk-plant-workday/desk-plant-clock-out.gif" alt="盆栽打卡下班" width="360" /></a><br /><sub>盆栽打卡下班</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
-**打工猫：累瘫**
+**办公桌上的盆栽累趴了**
 
 ```text
-A chubby orange tabby cat office worker with a tiny blue tie and an employee badge slumps face-down onto a pile of papers on its desk, ears drooping, a tiny ghost of a sigh floating up, then twitches one paw. Flat cartoon sticker style, bold outline, plain pale grey background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A tiny lilac potted cactus with two button eyes sits beside a blank stack of papers on a mint desk. Its arms sag, face sinks briefly behind the rim, then it straightens to neutral. Studio-lit polymer clay, static front view, readable silhouette, no type, looping reaction GIF.
 ```
 
-**打工猫：下班啦**
+[原始提示词 (.txt)](cases/raphael-desk-plant-workday/prompt-desk-plant-low-battery.txt)
+
+**盆栽打卡下班**
 
 ```text
-A chubby orange tabby cat office worker with a tiny blue tie and an employee badge tosses its badge in the air, grabs a tiny backpack and does a happy little hop toward the door, tail swishing. Flat cartoon sticker style, bold outline, plain pale yellow background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A tiny lilac potted cactus with button eyes in a home office hops into a red rolling desk chair and scoots toward the right. A quick circular wipe returns to the original setup as the pot sits down again. Mint desk, polymer-clay aesthetic, playful lettering-free loop with legible motions.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-desk-plant-workday/prompt-desk-plant-clock-out.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-office-cat-workday-set/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-desk-plant-workday/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-office-cat-workday-set&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-desk-plant-workday&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-roaring-duck"></a>
+<a id="source-case-raphael-opera-pufferfish"></a>
 
-#### 91. 咆哮的小黄鸭
+#### 91. 河豚开嗓
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-roaring-duck/roaring-duck.gif"><img src="assets/examples/ailingqu-roaring-duck/roaring-duck.gif" alt="咆哮的小黄鸭" width="700" /></a><br /><sub>咆哮的小黄鸭</sub></td>
+<td align="center"><a href="assets/examples/raphael-opera-pufferfish/opera-pufferfish.gif"><img src="assets/examples/raphael-opera-pufferfish/opera-pufferfish.gif" alt="河豚开嗓" width="700" /></a><br /><sub>河豚开嗓</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A small round yellow duck suddenly opening its beak wide and roaring like a lion, feathers blown back, the screen shaking slightly, then it calmly closes its beak. Cute cartoon sticker style, bold outline, plain sky-blue background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A lemon-yellow pufferfish floats just above a lilac opera stage, wearing a tiny velvet bow tie. It takes a breath, puffs into a ball, opens its mouth for a silent high note and settles back to its small size. Glossy hand-painted clay, blue spotlight, fixed camera, no typography, loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-opera-pufferfish/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-roaring-duck/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-opera-pufferfish/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-roaring-duck&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-opera-pufferfish&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-flower-macro-flash"></a>
+<a id="source-case-raphael-citrus-macro-rhythm"></a>
 
-#### 92. 花卉微距快闪
+#### 92. 柑橘微距快切
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif"><img src="assets/examples/ailingqu-flower-macro-flash/flower-macro-flash.gif" alt="花卉微距快闪" width="700" /></a><br /><sub>花卉微距快闪</sub></td>
+<td align="center"><a href="assets/examples/raphael-citrus-macro-rhythm/citrus-macro-rhythm.gif"><img src="assets/examples/raphael-citrus-macro-rhythm/citrus-macro-rhythm.gif" alt="柑橘微距快切" width="700" /></a><br /><sub>柑橘微距快切</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A fast flash-cut sequence of eight different flower photographs, one per frame, each filling the whole frame: a red poppy shot from above with light glowing through its petals, a creamy gardenia in soft side light, blue delphinium against a deep blue background, a golden marigold macro, a pink peony from a high angle, a dark purple iris close-up, an orange lily with curled petals, and pale green hydrangea with dew drops. Realistic botanical fashion photography, each frame with a different color, distance and composition.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+An editorial rapid-cut GIF of blood-orange pulp, grapefruit membranes and yuzu peel at extreme macro scale. Match each cut along the same diagonal ridge, alternating ruby, blush and ochre in a fixed graphic rhythm. Sharp analog flash and fine film grain. Match the final red frame to the opening; no type.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-citrus-macro-rhythm/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-flower-macro-flash/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-citrus-macro-rhythm/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-flower-macro-flash&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-citrus-macro-rhythm&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-cat-brand-reel"></a>
+<a id="source-case-raphael-soap-launch-loop"></a>
 
-#### 93. 猫头 Logo 品牌快闪
+#### 93. 海盐手工皂产品短片
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif"><img src="assets/examples/ailingqu-cat-brand-reel/cat-brand-reel.gif" alt="猫头 Logo 品牌快闪" width="700" /></a><br /><sub>猫头 Logo 品牌快闪</sub></td>
+<td align="center"><a href="assets/examples/raphael-soap-launch-loop/soap-launch-loop.gif"><img src="assets/examples/raphael-soap-launch-loop/soap-launch-loop.gif" alt="海盐手工皂产品短片" width="700" /></a><br /><sub>海盐手工皂产品短片</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A quick-cut brand reel for a fictional cat food brand called "MEOWBITE". The same flat dark-brown cat-head logo — round face, two short pointed ears, cream almond eyes, short whiskers — stays fixed at the center of every frame while everything around it changes: an orange full-bleed poster, a pink pouch of cat food, a blue ceramic cat bowl seen from above, a kraft shipping box, a round sticker, and a final dark frame with the word MEOWBITE in big cream letters. Bold graphic design, flat colors, citrus orange, cream and dark brown palette.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A pale blue rectangular bar of unbranded sea-salt soap turns slowly on a sand-colored terrazzo plinth. Cut on the rotation through three matching views: wet blue tiles, frosted glass, then the original terrazzo. Hard directional light brings out salt crystals, tactile premium product styling, clean geometry, no lettering or logos, rhythmically looped.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-soap-launch-loop/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-brand-reel/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-soap-launch-loop/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-brand-reel&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-soap-launch-loop&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-sneaker-colorway-flash"></a>
+<a id="source-case-raphael-trail-bottle-colorways"></a>
 
-#### 94. 球鞋配色快闪
+#### 94. 户外水壶配色快切
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif"><img src="assets/examples/ailingqu-sneaker-colorway-flash/sneaker-colorway-flash.gif" alt="球鞋配色快闪" width="700" /></a><br /><sub>球鞋配色快闪</sub></td>
+<td align="center"><a href="assets/examples/raphael-trail-bottle-colorways/trail-bottle-colorways.gif"><img src="assets/examples/raphael-trail-bottle-colorways/trail-bottle-colorways.gif" alt="户外水壶配色快切" width="700" /></a><br /><sub>户外水壶配色快切</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A fast flash-cut in a square frame: the same chunky sneaker seen from the side, centered and the same size in every frame, while its colorway and the full-bleed solid background change each frame: white and red on blue, black and lime on pink, cream and brown on orange, purple and silver on yellow, all-white on black. Clean studio product photography, the background fills the whole frame edge to edge.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A compact ribbed aluminum trail bottle centered on a stationary plinth. Flash from persimmon to ultramarine to chalk to moss while each background shifts to a complementary flat tone. Keep cap, bottle silhouette, camera, scale and shadows aligned across all cuts. Editorial product GIF, no labels or text, cycle to orange.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-trail-bottle-colorways/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-sneaker-colorway-flash/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-trail-bottle-colorways/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sneaker-colorway-flash&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-trail-bottle-colorways&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-four-seasons-tree"></a>
+<a id="source-case-raphael-observatory-weather-cycle"></a>
 
-#### 95. 一棵树的四季
+#### 95. 天文台的四种天空
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif"><img src="assets/examples/ailingqu-four-seasons-tree/four-seasons-tree.gif" alt="一棵树的四季" width="700" /></a><br /><sub>一棵树的四季</sub></td>
+<td align="center"><a href="assets/examples/raphael-observatory-weather-cycle/observatory-weather-cycle.gif"><img src="assets/examples/raphael-observatory-weather-cycle/observatory-weather-cycle.gif" alt="天文台的四种天空" width="700" /></a><br /><sub>天文台的四种天空</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-The same lone round tree on a small hill, framed identically in every frame, cycling through the four seasons: pink spring blossoms, lush green summer, orange autumn leaves falling, bare branches in winter snow. Soft flat illustration with a matching sky color for each season.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A small red-domed observatory on a rocky bluff against a locked circular composition, illustrated as colored pencil over paper. Clouds give way to a shower, dawn rainbow, clear starry sky and then back to drifting clouds. Preserve the building and horizon in every frame. Soft weather transitions in a short square loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-observatory-weather-cycle/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-four-seasons-tree/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-observatory-weather-cycle/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-four-seasons-tree&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-observatory-weather-cycle&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-magazine-panels-pop"></a>
+<a id="source-case-raphael-sound-garden-risograph"></a>
 
-#### 96. 杂志拼贴逐格弹出
+#### 96. 声波花园拼贴动效
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif"><img src="assets/examples/ailingqu-magazine-panels-pop/magazine-panels-pop.gif" alt="杂志拼贴逐格弹出" width="700" /></a><br /><sub>杂志拼贴逐格弹出</sub></td>
+<td align="center"><a href="assets/examples/raphael-sound-garden-risograph/sound-garden-risograph.gif"><img src="assets/examples/raphael-sound-garden-risograph/sound-garden-risograph.gif" alt="声波花园拼贴动效" width="700" /></a><br /><sub>声波花园拼贴动效</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A fashion-magazine collage layout where photo panels pop in one by one — a flower, a pair of sunglasses, a coffee cup, a city skyline — each with a small bounce, and finally a bold title bar reading "WEEKEND" slides in. Clean editorial design, cream background, coral and navy accents.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A screen-printed collage of a lime record, a cobalt ficus leaf and a vermilion metronome, arranged like an art-school editorial on ivory stock. Small blocks slide outward in sequence to reveal the objects, then glide back together. Sharp risograph registration, playful layering, fixed page boundaries, no readable type, looping GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-sound-garden-risograph/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-magazine-panels-pop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-sound-garden-risograph/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-magazine-panels-pop&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-sound-garden-risograph&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-window-day-to-night"></a>
+<a id="source-case-raphael-greenhouse-day-to-night"></a>
 
-#### 97. 窗边读书·白天到夜晚
+#### 97. 玻璃温室从清晨到深夜
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif"><img src="assets/examples/ailingqu-window-day-to-night/window-day-to-night.gif" alt="窗边读书·白天到夜晚" width="700" /></a><br /><sub>窗边读书·白天到夜晚</sub></td>
+<td align="center"><a href="assets/examples/raphael-greenhouse-day-to-night/greenhouse-day-to-night.gif"><img src="assets/examples/raphael-greenhouse-day-to-night/greenhouse-day-to-night.gif" alt="玻璃温室从清晨到深夜" width="700" /></a><br /><sub>玻璃温室从清晨到深夜</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A girl with a short bob reading a book on a cushion by a big window, seen from the side. Outside the window the sky cycles from bright morning blue to orange sunset to a starry night and back to morning, while the room light warms up and a desk lamp switches on at night. Soft flat illustration, calm and cozy.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+Seen from outside, a tiny steel-framed desert greenhouse holds several tall cacti. Pink dawn sweeps into turquoise afternoon glass, then deep violet night with a single interior grow lamp and back to dawn. Fixed wide composition and architecture, softly textured gouache, smooth light changes in a brief ambient loop, no text.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-greenhouse-day-to-night/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-window-day-to-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-greenhouse-day-to-night/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-window-day-to-night&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-greenhouse-day-to-night&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-steaming-coffee"></a>
+<a id="source-case-raphael-ginger-tea-steam"></a>
 
-#### 98. 冒热气的咖啡
+#### 98. 姜茶冒热气
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif"><img src="assets/examples/ailingqu-steaming-coffee/steaming-coffee.gif" alt="冒热气的咖啡" width="700" /></a><br /><sub>冒热气的咖啡</sub></td>
+<td align="center"><a href="assets/examples/raphael-ginger-tea-steam/ginger-tea-steam.gif"><img src="assets/examples/raphael-ginger-tea-steam/ginger-tea-steam.gif" alt="姜茶冒热气" width="700" /></a><br /><sub>姜茶冒热气</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A steaming cup of coffee on a small wooden table, steam curling and drifting upward, a tiny spoon wobbling on the saucer. Cozy flat illustration with warm colors.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A low glass cup of ginger tea on a deep-red lacquer tray, seen from the side in a close studio shot. Two translucent strands of steam slowly uncurl and fade while the cup, sliced ginger and reflected daylight remain still. Cozy shallow depth of field, no text, quiet repeating cinemagraph GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-ginger-tea-steam/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-steaming-coffee/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-ginger-tea-steam/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-steaming-coffee&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-ginger-tea-steam&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-rain-on-window"></a>
+<a id="source-case-raphael-raindrops-bus-shelter"></a>
 
-#### 99. 雨窗与绿植
+#### 99. 雨滴滑过公交站玻璃
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-rain-on-window/rain-on-window.gif"><img src="assets/examples/ailingqu-rain-on-window/rain-on-window.gif" alt="雨窗与绿植" width="700" /></a><br /><sub>雨窗与绿植</sub></td>
+<td align="center"><a href="assets/examples/raphael-raindrops-bus-shelter/raindrops-bus-shelter.gif"><img src="assets/examples/raphael-raindrops-bus-shelter/raindrops-bus-shelter.gif" alt="雨滴滑过公交站玻璃" width="700" /></a><br /><sub>雨滴滑过公交站玻璃</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A rainy window at dusk with a small potted plant on the sill, raindrops sliding down the glass and blurry city lights twinkling outside. Soft muted blue palette, lo-fi illustration style.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+Blue-hour rain on the slanted glass of an empty bus shelter, lit by distant violet and amber traffic bokeh. Two sharp drops meet and glide down the foreground pane while new beads gather higher up. Stationary composition, no people, signs or lettering, muted photographic palette, looping cinemagraph.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-raindrops-bus-shelter/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-rain-on-window/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-raindrops-bus-shelter/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-rain-on-window&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-raindrops-bus-shelter&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-goldfish-bowl"></a>
+<a id="source-case-raphael-moon-jelly-aquarium"></a>
 
-#### 100. 鱼缸里的金鱼
+#### 100. 月亮水母玻璃缸
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif"><img src="assets/examples/ailingqu-goldfish-bowl/goldfish-bowl.gif" alt="鱼缸里的金鱼" width="700" /></a><br /><sub>鱼缸里的金鱼</sub></td>
+<td align="center"><a href="assets/examples/raphael-moon-jelly-aquarium/moon-jelly-aquarium.gif"><img src="assets/examples/raphael-moon-jelly-aquarium/moon-jelly-aquarium.gif" alt="月亮水母玻璃缸" width="700" /></a><br /><sub>月亮水母玻璃缸</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A round glass fishbowl on a windowsill with one orange goldfish swimming a slow circle, tail fluttering, tiny bubbles rising to the surface. Soft watercolor-style illustration, gentle light.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A pair of tiny moon jellies drift in a tall cylindrical aquarium, backlit in pale aqua and lavender against indigo. Their bells pulse in a gently offset rhythm and fine suspended specks drift upward as the two jellyfish return to their original arrangement. Macro photography look, camera locked, no type, ambient loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-moon-jelly-aquarium/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-goldfish-bowl/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-moon-jelly-aquarium/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-goldfish-bowl&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-moon-jelly-aquarium&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-lighthouse-night"></a>
+<a id="source-case-raphael-red-train-in-fog"></a>
 
-#### 101. 夜晚的灯塔
+#### 101. 晨雾中的红色列车
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif"><img src="assets/examples/ailingqu-lighthouse-night/lighthouse-night.gif" alt="夜晚的灯塔" width="700" /></a><br /><sub>夜晚的灯塔</sub></td>
+<td align="center"><a href="assets/examples/raphael-red-train-in-fog/red-train-in-fog.gif"><img src="assets/examples/raphael-red-train-in-fog/red-train-in-fog.gif" alt="晨雾中的红色列车" width="700" /></a><br /><sub>晨雾中的红色列车</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A white lighthouse on a rocky shore at night, its beam sweeping slowly across a dark blue sky, waves rolling and splashing against the rocks below. Flat illustration with a deep navy and warm yellow palette.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A little ruby funicular crosses an alpine viaduct at dawn; mist parts as its warm windows pass between two black pines. Let a dense bank of fog obscure the track at the end and reopen onto the starting view. Charcoal and gouache, textured cool palette, no signage, wide locked camera, short loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-red-train-in-fog/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lighthouse-night/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-red-train-in-fog/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lighthouse-night&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-red-train-in-fog&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-cat-by-fireplace"></a>
+<a id="source-case-raphael-sheep-in-a-cabin"></a>
 
-#### 102. 壁炉边睡觉的猫
+#### 102. 木屋里打盹的小羊
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif"><img src="assets/examples/ailingqu-cat-by-fireplace/cat-by-fireplace.gif" alt="壁炉边睡觉的猫" width="700" /></a><br /><sub>壁炉边睡觉的猫</sub></td>
+<td align="center"><a href="assets/examples/raphael-sheep-in-a-cabin/sheep-in-a-cabin.gif"><img src="assets/examples/raphael-sheep-in-a-cabin/sheep-in-a-cabin.gif" alt="木屋里打盹的小羊" width="700" /></a><br /><sub>木屋里打盹的小羊</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A ginger cat curled up asleep on a rug in front of a crackling fireplace, its body gently rising and falling with each breath, flames flickering and casting warm light. Cozy flat illustration, warm orange and brown tones.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A hand-sewn felt sheep sleeps in a wicker chair beneath a teal quilt, beside a small iron stove. Breathe life into the quilt with slow rises and falls and let a warm stove glow flicker gently. Still camera at floor level, real felt texture, no typography, subtle square looping GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-sheep-in-a-cabin/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cat-by-fireplace/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-sheep-in-a-cabin/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cat-by-fireplace&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-sheep-in-a-cabin&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-lantern-monkey-snow"></a>
+<a id="source-case-raphael-hare-under-aurora"></a>
 
-#### 103. 雪林提灯的小猴子
+#### 103. 极光下的白兔
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif"><img src="assets/examples/ailingqu-lantern-monkey-snow/lantern-monkey-snow.gif" alt="雪林提灯的小猴子" width="700" /></a><br /><sub>雪林提灯的小猴子</sub></td>
+<td align="center"><a href="assets/examples/raphael-hare-under-aurora/hare-under-aurora.gif"><img src="assets/examples/raphael-hare-under-aurora/hare-under-aurora.gif" alt="极光下的白兔" width="700" /></a><br /><sub>极光下的白兔</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A small monkey in an olive-green hooded coat standing in a snowy pine forest at dusk, lifting a glowing amber paper lantern, looking up and blinking, then lowering the lantern back to where it started. Snow falls gently and a tiny cabin glows in the background. Soft storybook illustration, locked camera.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A white arctic hare beside frosted spruce seedlings turns its head upward while a ribbon of green aurora passes behind it. Its ears pick up, relax, then sink back to the first pose as slow snowflakes drift. Tactile paper-layer diorama, purple night, stationary scene, no words, ambient repeat.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-hare-under-aurora/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lantern-monkey-snow/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-hare-under-aurora/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lantern-monkey-snow&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-hare-under-aurora&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-sleepy-fox-rock"></a>
+<a id="source-case-raphael-pocket-dragon-snooze"></a>
 
-#### 104. 苔石上打盹的小狐狸
+#### 104. 口袋小龙打盹
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif"><img src="assets/examples/ailingqu-sleepy-fox-rock/sleepy-fox-rock.gif" alt="苔石上打盹的小狐狸" width="700" /></a><br /><sub>苔石上打盹的小狐狸</sub></td>
+<td align="center"><a href="assets/examples/raphael-pocket-dragon-snooze/pocket-dragon-snooze.gif"><img src="assets/examples/raphael-pocket-dragon-snooze/pocket-dragon-snooze.gif" alt="口袋小龙打盹" width="700" /></a><br /><sub>口袋小龙打盹</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A small orange fox curled up asleep on a mossy rock, its tail gently swaying and ears twitching. Soft storybook illustration, locked camera.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A tiny moss-green dragon sleeps curled inside an empty walnut shell, with both wings folded and one little horn visible. Its side rises and falls and a firefly circles just above it once. Make it feel like a macro photograph of a handmade miniature. No text or camera drift. Short quiet loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-pocket-dragon-snooze/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-sleepy-fox-rock/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-pocket-dragon-snooze/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-sleepy-fox-rock&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-pocket-dragon-snooze&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-lofi-study-loop"></a>
+<a id="source-case-raphael-late-night-print-room"></a>
 
-#### 105. Lo-fi 学习循环
+#### 105. 深夜版画工作室
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif"><img src="assets/examples/ailingqu-lofi-study-loop/lofi-study-loop.gif" alt="Lo-fi 学习循环" width="700" /></a><br /><sub>Lo-fi 学习循环</sub></td>
+<td align="center"><a href="assets/examples/raphael-late-night-print-room/late-night-print-room.gif"><img src="assets/examples/raphael-late-night-print-room/late-night-print-room.gif" alt="深夜版画工作室" width="700" /></a><br /><sub>深夜版画工作室</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A girl with headphones writing in a notebook at a desk at night, her pencil moving, steam rising from a mug, rain sliding down the window behind her and a desk lamp glowing. Lo-fi anime illustration, muted purple and blue palette, locked camera.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A quiet illustration of a late-night printmaker in striped sleeves rolling turquoise ink onto a small block at a cluttered desk. The roller rocks forward and back, a warm pendant light stays centered, and a few leaves move behind the studio window. Pastel pencils and blue shadows, fixed frame, no text, loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-late-night-print-room/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-lofi-study-loop/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-late-night-print-room/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-lofi-study-loop&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-late-night-print-room&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-cafe-cinemagraph"></a>
+<a id="source-case-raphael-laundromat-cinemagraph"></a>
 
-#### 106. 街角咖啡馆动态照片
+#### 106. 蓝调时刻的自助洗衣店
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif"><img src="assets/examples/ailingqu-cafe-cinemagraph/cafe-cinemagraph.gif" alt="街角咖啡馆动态照片" width="700" /></a><br /><sub>街角咖啡馆动态照片</sub></td>
+<td align="center"><a href="assets/examples/raphael-laundromat-cinemagraph/laundromat-cinemagraph.gif"><img src="assets/examples/raphael-laundromat-cinemagraph/laundromat-cinemagraph.gif" alt="蓝调时刻的自助洗衣店" width="700" /></a><br /><sub>蓝调时刻的自助洗衣店</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A cinemagraph of a quiet street café terrace in the morning: everything is perfectly still except the steam curling from a cup on the table and a striped awning flag fluttering in the breeze. Realistic photography, soft warm light, locked camera.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+An empty neighborhood laundromat at blue hour, photographed from the sidewalk through a wide front window. Only the drum of one teal washing machine turns slowly, revealing a small orange garment once per rotation. Quiet reflected lights, locked camera, no pedestrians or legible signs, subtle repeating GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-laundromat-cinemagraph/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-cafe-cinemagraph/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-laundromat-cinemagraph/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-cafe-cinemagraph&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-laundromat-cinemagraph&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-ink-wash-horse"></a>
+<a id="source-case-raphael-ink-crane-bows"></a>
 
-#### 107. 水墨奔马
+#### 107. 水墨仙鹤俯首
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif"><img src="assets/examples/ailingqu-ink-wash-horse/ink-wash-horse.gif" alt="水墨奔马" width="700" /></a><br /><sub>水墨奔马</sub></td>
+<td align="center"><a href="assets/examples/raphael-ink-crane-bows/ink-crane-bows.gif"><img src="assets/examples/raphael-ink-crane-bows/ink-crane-bows.gif" alt="水墨仙鹤俯首" width="700" /></a><br /><sub>水墨仙鹤俯首</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A racehorse with a jockey galloping to the right in a loose Chinese ink-wash painting style, legs cycling through a full gallop stride, the jockey bobbing up and down, ink splashes kicking up behind the hooves. Rice-paper background, black ink with a touch of red.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A black ink-wash crane with a vermilion crown bows once at a reed-fringed pond, sending one ring of ink outward. The ripples fade into the textured ivory paper as the crane straightens. Reserve empty paper above the bird, retain expressive brush edges, no seals or calligraphy, looping locked scene.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-ink-crane-bows/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-ink-wash-horse/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-ink-crane-bows/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-ink-wash-horse&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-ink-crane-bows&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-doodle-monster"></a>
+<a id="source-case-raphael-sketchbook-bicycle"></a>
 
-#### 108. 涂鸦小怪兽活了
+#### 108. 速写本里的单车转了起来
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-doodle-monster/doodle-monster.gif"><img src="assets/examples/ailingqu-doodle-monster/doodle-monster.gif" alt="涂鸦小怪兽活了" width="700" /></a><br /><sub>涂鸦小怪兽活了</sub></td>
+<td align="center"><a href="assets/examples/raphael-sketchbook-bicycle/sketchbook-bicycle.gif"><img src="assets/examples/raphael-sketchbook-bicycle/sketchbook-bicycle.gif" alt="速写本里的单车转了起来" width="700" /></a><br /><sub>速写本里的单车转了起来</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A crude crayon doodle of a little purple blob monster with two eyes on wobbly stalks and three stubby legs, drawn on lined notebook paper, comes alive: its eye-stalks blink and sway, it waves its tiny arms and hops in place, keeping the wobbly hand-drawn lines and odd proportions. The notebook paper stays still.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A sketchbook close-up with a simple cobalt pen doodle of a tiny bicycle. The wheels start spinning and a pennant flutters, then the bicycle rides in one small circle on the page and returns to its original outline. Keep the paper and camera fixed, no hands or text, whimsical looping animation.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-sketchbook-bicycle/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-doodle-monster/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-sketchbook-bicycle/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-doodle-monster&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-sketchbook-bicycle&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-pixel-campfire"></a>
+<a id="source-case-raphael-pixel-greenhouse-sprinkler"></a>
 
-#### 109. 像素风篝火
+#### 109. 像素温室的喷淋装置
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif"><img src="assets/examples/ailingqu-pixel-campfire/pixel-campfire.gif" alt="像素风篝火" width="700" /></a><br /><sub>像素风篝火</sub></td>
+<td align="center"><a href="assets/examples/raphael-pixel-greenhouse-sprinkler/pixel-greenhouse-sprinkler.gif"><img src="assets/examples/raphael-pixel-greenhouse-sprinkler/pixel-greenhouse-sprinkler.gif" alt="像素温室的喷淋装置" width="700" /></a><br /><sub>像素温室的喷淋装置</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A pixel art campfire at night in a small forest clearing, flames flickering, sparks rising and fading, two logs glowing orange. 16-bit retro game style, dark blue night sky with a few stars.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A cozy pixel-art greenhouse at dusk: mint roof panes, terra-cotta pots and a tiny sprinkler rotating above a shelf of seedlings. The sprinkler sprays a few bright pixels in two directions and returns to its first angle. Stable scene, limited 16-bit palette, crisp square pixels, no text, seamless loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-pixel-greenhouse-sprinkler/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-campfire/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-pixel-greenhouse-sprinkler/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-campfire&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-pixel-greenhouse-sprinkler&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-bouncing-dots-loader"></a>
+<a id="source-case-raphael-paper-plane-loader"></a>
 
-#### 110. 弹跳圆点加载动画
+#### 110. 纸飞机加载动效
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif"><img src="assets/examples/ailingqu-bouncing-dots-loader/bouncing-dots-loader.gif" alt="弹跳圆点加载动画" width="700" /></a><br /><sub>弹跳圆点加载动画</sub></td>
+<td align="center"><a href="assets/examples/raphael-paper-plane-loader/paper-plane-loader.gif"><img src="assets/examples/raphael-paper-plane-loader/paper-plane-loader.gif" alt="纸飞机加载动效" width="700" /></a><br /><sub>纸飞机加载动效</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A minimal loading animation: three rounded dots in coral, violet and teal bouncing up and down one after another in a wave, with soft squash on landing. Flat vector style on a plain off-white background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A clean microinteraction on pale cream. A tiny indigo paper airplane follows a dotted figure-eight path, banking gently at the center, while its tail dots appear and disappear in sequence. Use flat two-color vector-like shapes, generous margins and a stable camera. Seamless square GIF; no type or UI chrome.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-paper-plane-loader/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-bouncing-dots-loader/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-paper-plane-loader/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-bouncing-dots-loader&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-paper-plane-loader&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-pixel-knight-run"></a>
+<a id="source-case-raphael-pixel-courier-cycle"></a>
 
-#### 111. 像素骑士跑步循环
+#### 111. 像素邮差骑行循环
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif"><img src="assets/examples/ailingqu-pixel-knight-run/pixel-knight-run.gif" alt="像素骑士跑步循环" width="700" /></a><br /><sub>像素骑士跑步循环</sub></td>
+<td align="center"><a href="assets/examples/raphael-pixel-courier-cycle/pixel-courier-cycle.gif"><img src="assets/examples/raphael-pixel-courier-cycle/pixel-courier-cycle.gif" alt="像素邮差骑行循环" width="700" /></a><br /><sub>像素邮差骑行循环</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A pixel art knight with a blue cape and a small sword running to the right in a side view run cycle, cape flapping, on a plain dark background. 16-bit retro game sprite style, crisp pixels.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A side-view pixel sprite of a teal-clad courier on a small orange bicycle, pedaling in place with a satchel bouncing behind the shoulder. Show a clean leg and wheel cycle on a single solid dark-plum field. Retro handheld game palette, crisp pixels, a fixed center point, no platform, UI or type; loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-pixel-courier-cycle/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-knight-run/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-pixel-courier-cycle/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-knight-run&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-pixel-courier-cycle&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-like-heart-burst"></a>
+<a id="source-case-raphael-confetti-stamp-feedback"></a>
 
-#### 112. 点赞爱心爆开
+#### 112. 确认印章与彩纸反馈
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif"><img src="assets/examples/ailingqu-like-heart-burst/like-heart-burst.gif" alt="点赞爱心爆开" width="700" /></a><br /><sub>点赞爱心爆开</sub></td>
+<td align="center"><a href="assets/examples/raphael-confetti-stamp-feedback/confetti-stamp-feedback.gif"><img src="assets/examples/raphael-confetti-stamp-feedback/confetti-stamp-feedback.gif" alt="确认印章与彩纸反馈" width="700" /></a><br /><sub>确认印章与彩纸反馈</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A rounded outline heart icon that fills with red, pops bigger with a bounce and bursts into small colorful confetti dots around it, then settles back. Flat vector UI animation on a plain white background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A round apricot button with a simple cream checkmark presses inward, rebounds, and sends five flat confetti diamonds outward before they fade. Keep the icon centered and readable, photographed as nothing: this is a flat two-dimensional microinteraction on pale lavender, with no labels. Return to the unpressed button in a loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-confetti-stamp-feedback/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-like-heart-burst/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-confetti-stamp-feedback/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-like-heart-burst&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-confetti-stamp-feedback&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-hourglass-flip"></a>
+<a id="source-case-raphael-compass-needle-reset"></a>
 
-#### 113. 沙漏加载
+#### 113. 指南针回正
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif"><img src="assets/examples/ailingqu-hourglass-flip/hourglass-flip.gif" alt="沙漏加载" width="700" /></a><br /><sub>沙漏加载</sub></td>
+<td align="center"><a href="assets/examples/raphael-compass-needle-reset/compass-needle-reset.gif"><img src="assets/examples/raphael-compass-needle-reset/compass-needle-reset.gif" alt="指南针回正" width="700" /></a><br /><sub>指南针回正</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A simple flat hourglass icon with sand pouring from the top to the bottom, then the hourglass flips over and starts again. Minimal vector style, teal frame and golden sand on a plain off-white background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A minimal overhead view of a brass pocket compass with four clean ticks on forest green. The cream and coral needle makes a single springy swing past north and settles into the original alignment; the brass casing remains still. Paper-textured diagram, no letters or numerals, seamless GIF.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-compass-needle-reset/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-hourglass-flip/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-compass-needle-reset/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-hourglass-flip&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-compass-needle-reset&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-arcade-vs-screen"></a>
+<a id="source-case-raphael-arcade-start-light"></a>
 
-#### 114. 街机对战 VS 画面
+#### 114. 街机开跑信号灯
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif"><img src="assets/examples/ailingqu-arcade-vs-screen/arcade-vs-screen.gif" alt="街机对战 VS 画面" width="700" /></a><br /><sub>街机对战 VS 画面</sub></td>
+<td align="center"><a href="assets/examples/raphael-arcade-start-light/arcade-start-light.gif"><img src="assets/examples/raphael-arcade-start-light/arcade-start-light.gif" alt="街机开跑信号灯" width="700" /></a><br /><sub>街机开跑信号灯</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A retro arcade versus screen: on the left a chubby panda wrestler in a yellow cape, on the right a lanky girl skateboarder with a green ponytail and a hoodie, both slide in from the edges, a huge "VS" slams into the center with lightning flashes, then both strike a pose. 16-bit pixel art, bold colors.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A low-resolution arcade starting-light animation: three bright red bulbs above a navy track turn off in order, one lime bulb lights, and two little racers launch from either side. A brisk scan-line wipe resets the scene on the last beat. Original 16-bit pixel art, no lettering, no borrowed game UI.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-arcade-start-light/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-arcade-vs-screen/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-arcade-start-light/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-arcade-vs-screen&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-arcade-start-light&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-pixel-slime-boss"></a>
+<a id="source-case-raphael-pixel-mushroom-guardian"></a>
 
-#### 115. 8-bit 史莱姆 Boss 战
+#### 115. 像素蘑菇守卫
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif"><img src="assets/examples/ailingqu-pixel-slime-boss/pixel-slime-boss.gif" alt="8-bit 史莱姆 Boss 战" width="700" /></a><br /><sub>8-bit 史莱姆 Boss 战</sub></td>
+<td align="center"><a href="assets/examples/raphael-pixel-mushroom-guardian/pixel-mushroom-guardian.gif"><img src="assets/examples/raphael-pixel-mushroom-guardian/pixel-mushroom-guardian.gif" alt="像素蘑菇守卫" width="700" /></a><br /><sub>像素蘑菇守卫</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-An 8-bit boss battle: a giant green slime boss with a tiny crown bounces and squishes in the center of a dungeon arena, its health bar at the top flashing, while a small pixel hero on the left raises a shield. Retro NES pixel art, dark stone background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A side-on pixel sprite of a squat mushroom guardian wearing an acorn-shell helmet, on a solid midnight field. It crouches, springs upward, releases a ring of three amber spore pixels and lands in its starting stance. Limited jade and gold palette, consistent scale, crisp edges, no game interface, square loop.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-pixel-mushroom-guardian/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-pixel-slime-boss/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-pixel-mushroom-guardian/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-pixel-slime-boss&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-pixel-mushroom-guardian&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-love-burst-skill"></a>
+<a id="source-case-raphael-starlight-shield-loop"></a>
 
-#### 116. 爱心爆发技能动画
+#### 116. 像素星光护盾
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif"><img src="assets/examples/ailingqu-love-burst-skill/love-burst-skill.gif" alt="爱心爆发技能动画" width="700" /></a><br /><sub>爱心爆发技能动画</sub></td>
+<td align="center"><a href="assets/examples/raphael-starlight-shield-loop/starlight-shield-loop.gif"><img src="assets/examples/raphael-starlight-shield-loop/starlight-shield-loop.gif" alt="像素星光护盾" width="700" /></a><br /><sub>像素星光护盾</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A chibi magical girl with a pink bob raises her wand and casts a "love burst" skill: a ring of glowing pink hearts explodes outward from her and fades, then she returns to her idle pose. Game skill-card style animation, sparkly effects, dark purple background.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A small cyan diamond crystal hovers at the center of a dark plum field. Four pixel sparks draw an octagonal ring of starlight around it, flash once, then retract into the diamond. Keep the center locked, sharp 16-bit sprite effect, high-contrast silhouette, seamless looping GIF, no text.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-starlight-shield-loop/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-love-burst-skill/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-starlight-shield-loop/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-love-burst-skill&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-starlight-shield-loop&utm_term=zh-CN)**
 
 ---
 
-<a id="source-case-ailingqu-junkyard-robot-walk"></a>
+<a id="source-case-raphael-clockwork-crab-walk"></a>
 
-#### 117. 废品场机器人行走
+#### 117. 发条螃蟹横移循环
 
 <table>
 <tr>
-<td align="center"><a href="assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif"><img src="assets/examples/ailingqu-junkyard-robot-walk/junkyard-robot-walk.gif" alt="废品场机器人行走" width="700" /></a><br /><sub>废品场机器人行走</sub></td>
+<td align="center"><a href="assets/examples/raphael-clockwork-crab-walk/clockwork-crab-walk.gif"><img src="assets/examples/raphael-clockwork-crab-walk/clockwork-crab-walk.gif" alt="发条螃蟹横移循环" width="700" /></a><br /><sub>发条螃蟹横移循环</sub></td>
 </tr>
 </table>
 
 **原始提示词**
 
 ```text
-A rusty little scrap-metal robot with one antenna and a mismatched arm walking to the right in a side-view walk cycle, bolts jiggling, a puff of dust at each step. Pixel art game sprite on a plain dark background, crisp pixels.
-
-Animate it as a short, smooth, seamlessly looping GIF with clear motion between frames.
+A toy clockwork crab assembled from copper tin and turquoise enamel takes four sideways steps on a dark blue tabletop. Its little wind-up key turns and alternating leg pairs lift visibly. Use a side silhouette, fixed camera and an invisible moving-belt effect to keep it centered. Clean mechanical loop, no words.
 ```
 
-按来源记录的两个换行符拼接提示词正文与通用循环指令，保留原文措辞。这是来源公开的配方，不代表独立观察了实际模型请求。
+[原始提示词 (.txt)](cases/raphael-clockwork-crab-walk/prompt.txt)
 
-[原提示词见来源](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/data/prompts.json)
 
-**作者**: [ailingqu / awesome-ai-gif-prompts](https://github.com/ailingqu)
+**作者**: Raphael
 
-**原始来源**: [作者自报模型](https://github.com/ailingqu/awesome-ai-gif-prompts/blob/2672b8fe04e75275de70a8d5d2992da6271ce8f5/README.md) · [来源详情](cases/ailingqu-junkyard-robot-walk/README.zh-CN.md) · [CC BY 4.0](docs/ailingqu-2037/ATTRIBUTION.md)
+[来源详情](cases/raphael-clockwork-crab-walk/README.zh-CN.md)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_ailingqu-junkyard-robot-walk&utm_term=zh-CN)**
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_raphael-clockwork-crab-walk&utm_term=zh-CN)**
 
 ---
 

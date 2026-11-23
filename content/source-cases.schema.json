@@ -70,7 +70,8 @@
             "enum": [
               "official-docs",
               "official-launch",
-              "community"
+              "community",
+              "original"
             ]
           }
         }
@@ -131,6 +132,7 @@
             "type": "string",
             "enum": [
               "source-only",
+              "original",
               "not-public",
               "unverified"
             ]
@@ -147,8 +149,7 @@
               "type": "object",
               "required": [
                 "title",
-                "text",
-                "url"
+                "text"
               ],
               "additionalProperties": false,
               "properties": {

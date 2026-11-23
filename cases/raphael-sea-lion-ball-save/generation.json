@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-sea-lion-ball-save",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-sea-lion-ball-save/prompt.txt",
+      "prompt_sha256": "098ea7ffbc2959f5f798da9aee4a6de618e5ae9b0d493edc7374b5c5550ac2fe",
+      "provider_task_id": "task-unified-1795427740-7a0vcbn9",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-sea-lion-ball-save/sea-lion-ball-save.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 661288,
+      "sha256": "f16ae2ca41edd3ee4cd31f4395c3cf27d39a894509cc1d7dabe0ad0572a48413"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "All nine frames decode and four sampled frames were visually checked.",
+      "zh-CN": "9 帧均通过解码检查，并逐个 GIF 抽查 4 帧画面。"
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "case_id": "raphael-teapot-reactions",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-teapot-reactions/prompt-teapot-approval.txt",
+      "prompt_sha256": "d54cf74e2e7625d5dc9f0b9f87cdf15156bf3a6aae25c5f8d5e64a08b113a562",
+      "provider_task_id": "task-unified-1795427718-a7qkfu8i",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-teapot-reactions/teapot-approval.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 551616,
+      "sha256": "afcaa803a15767f6906e9115720ecc9fa6f562cb407ffa5d49b64455e0be571f"
+    },
+    {
+      "prompt_path": "cases/raphael-teapot-reactions/prompt-teapot-giggle.txt",
+      "prompt_sha256": "9265ec5d799b3ee788d2e2699c4fee6dd39163cf481cccbe2b35fc4d1284608d",
+      "provider_task_id": "task-unified-1795427718-nm0ofddn",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-teapot-reactions/teapot-giggle.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 1287602,
+      "sha256": "091c3131f406a27e0f4ae6f59fd6db2925aa06bec97b241c72312fe5a1090357"
+    },
+    {
+      "prompt_path": "cases/raphael-teapot-reactions/prompt-teapot-snooze.txt",
+      "prompt_sha256": "61bbeb16835939779b12f76e0936fc255504bf03eee79ec691dbfeb5dc295545",
+      "provider_task_id": "task-unified-1795427717-721qyi1d",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-teapot-reactions/teapot-snooze.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 564323,
+      "sha256": "e08d3d714463b2c37d5c1e1a1dc4a83123afcd6fe7f14b4cac427285766e89dc"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "Three separately generated stickers share the same colors and visual brief. Small details, such as the lid and hands, vary across the set.",
+      "zh-CN": "三张贴纸独立生成，共用配色与风格设定，壶盖、手套等细节有变化。"
+    }
+  }
+}
