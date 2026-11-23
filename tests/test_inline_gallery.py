@@ -21,14 +21,31 @@ class InlineGalleryTests(unittest.TestCase):
         cls.config, _ = load_data()
         cls.cases = visible(read_cases())
 
-    def test_all_public_prompts_have_text_and_ailingqu_matches_retained_originals(self):
-        by_id = {item['id']: item for item in self.cases}
+    def test_all_public_prompts_have_text(self):
         for item in self.cases:
-            if item['prompt']['status'] == 'source-only':
+            if item['prompt']['status'] in ('source-only', 'original'):
                 self.assertTrue(item['prompt'].get('entries'), item['id'])
-        for original in read_json('docs/ailingqu-2037/verified-prompts.json'):
-            entries = by_id[original['case_id']]['prompt']['entries']
-            self.assertIn(original['complete_submitted_prompt_as_documented'], [entry['text'] for entry in entries])
+
+    def test_historical_gifs_and_prompts_are_absent_from_active_gallery(self):
+        archive = read_json('docs/ailingqu-2037/verified-prompts.json')
+        historical_ids = {item['case_id'] for item in archive}
+        historical_prompts = {item['complete_submitted_prompt_as_documented'] for item in archive}
+        historical_assets = {item['output_sha256'] for item in archive}
+        for item in self.cases:
+            with self.subTest(case=item['id']):
+                self.assertNotIn(item['id'], historical_ids)
+                self.assertTrue(historical_prompts.isdisjoint(entry['text'] for entry in item['prompt'].get('entries', [])))
+                self.assertTrue(historical_assets.isdisjoint(media.get('sha256') for media in item['media']))
+
+    def test_original_gif_cases_display_a_local_recipe_and_generation_record(self):
+        examples = [item for item in self.cases if item['source']['type'] == 'original']
+        self.assertTrue(examples)
+        for item in examples:
+            with self.subTest(case=item['id']):
+                detail = (ROOT / 'cases' / item['id'] / 'README.md').read_text()
+                self.assertIn('**Original generation**', detail)
+                self.assertIn('[Generation record](../../' + item['source']['url'] + ')', detail)
+                self.assertIn('[Original prompt (.txt)](../../', detail)
 
     def test_all_languages_show_each_output_prompt_and_bottom_credit(self):
         for language in LANGUAGES:

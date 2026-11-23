@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-citrus-macro-rhythm",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-citrus-macro-rhythm/prompt.txt",
+      "prompt_sha256": "f82dc2a2e27b371fae56137ff23f134dbb854e3a374d41bc04598ebdef03f614",
+      "provider_task_id": "task-unified-1795427740-b38ybb5h",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-citrus-macro-rhythm/citrus-macro-rhythm.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 1295396,
+      "sha256": "c17d254f0b6a28f94013483040fe48385a28a4ecf801b367ef0892bab6bc5e97"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "The red-to-gold cut is visible. The loop boundary makes a deliberate hard cut back to red.",
+      "zh-CN": "红色到金黄色的果肉切换清晰，循环接缝以硬切返回红色。"
+    }
+  }
+}

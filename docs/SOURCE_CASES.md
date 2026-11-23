@@ -6,7 +6,9 @@
 
 ### 收录范围
 
-来源案例仅收录官方、社媒与论坛、内容发布社区及 GitHub 示例，统一写入 `content/source-cases.json`，中英文详情页位于 `cases/<id>/README*.md`。
+图库案例收录 Raphael 原创生成，以及来自官方、社媒与论坛、内容发布社区和 GitHub 的示例，统一写入 `content/source-cases.json`。中英文详情页位于 `cases/<id>/README*.md`。
+
+原创生成使用 `source.type: original`，将 `source.url` 指向本案例的 `cases/<id>/generation.json`。提示词使用 `prompt.status: original`，逐条保存实际发送的文本文件。原创输出的 `media.source_url` 与 `media.path` 均填写本地素材路径，`rights.status` 填写 `original`，权利依据指向生成记录。生成记录包含执行平台、实际回报模型、请求参数和文件核对结果。
 
 生成器维护案例索引与详情页；校验器检查数据、素材、重复 ID、本地链接和直接来源范围。其他独立网站的原始案例、原图及专属报告保留在同级 `gpt-image-2-6-external-materials-20261112/`，不搬回来源案例集。
 

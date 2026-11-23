@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-observatory-weather-cycle",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-observatory-weather-cycle/prompt.txt",
+      "prompt_sha256": "537d1c4ce277dcd30098eb43112e030b65b544dbfcd2213bb0df21d502371a8b",
+      "provider_task_id": "task-unified-1795427741-7353lao9",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-observatory-weather-cycle/observatory-weather-cycle.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 1579914,
+      "sha256": "cf00b50fd9fa2f634fc24ac8192bd920ad6a1c3edd989f4d28e38cd4df1e15d5"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "Clouds, a shower and a night sky are clearly visible in the same composition. The rainbow is subtle.",
+      "zh-CN": "固定构图里可见多云、阵雨和夜空，彩虹不明显。"
+    }
+  }
+}

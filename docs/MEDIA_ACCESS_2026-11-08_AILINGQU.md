@@ -1,5 +1,7 @@
 # ailingqu: 38 licensed GIF task groups
 
+Historical audit dated November 8, 2026. The credited prompts and GIFs were replaced in the active collection on November 23. [Repository revision with the archived GIF files](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6/tree/1c3b4c0dd582550c33cc17407a2106e15c00302a/assets/examples).
+
 Source: [ailingqu / awesome-ai-gif-prompts at 2672b8fe04e75275de70a8d5d2992da6271ce8f5](https://github.com/ailingqu/awesome-ai-gif-prompts/tree/2672b8fe04e75275de70a8d5d2992da6271ce8f5).
 
 On 8 November 2026, the pinned README, LICENSE, data/prompts.json and data/results.json were retrieved again and checked against retained local records. The README explicitly licenses prompts and example GIFs under CC BY 4.0. The full licence matches the retained copy; all 41 prompt bodies, shared suffixes and result metadata match the pinned source. [Attribution and changes](ailingqu-2037/ATTRIBUTION.md), [licence and disclaimer](ailingqu-2037/LICENSE.txt), and [per-output prompt provenance](ailingqu-2037/verified-prompts.json) accompany this batch.

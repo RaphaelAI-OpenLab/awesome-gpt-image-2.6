@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-starlight-shield-loop",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-starlight-shield-loop/prompt.txt",
+      "prompt_sha256": "e28355a43a7c2687d57f77e9350701c4247272110b1cd00bd49fa17c373a8bb3",
+      "provider_task_id": "task-unified-1795427797-m14dv9za",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-starlight-shield-loop/starlight-shield-loop.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 420934,
+      "sha256": "9e9592468ff75f8fcd262e96b32f47867bc0658bb039b2bf7fd8ac1a32d72d6a"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "All nine frames decode and four sampled frames were visually checked.",
+      "zh-CN": "9 帧均通过解码检查，并逐个 GIF 抽查 4 帧画面。"
+    }
+  }
+}

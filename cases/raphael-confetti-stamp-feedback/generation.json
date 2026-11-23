@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-confetti-stamp-feedback",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-confetti-stamp-feedback/prompt.txt",
+      "prompt_sha256": "3b701d8c625b765db7c26f5fe8ff1105f591eaff9efde903b1ec59c0f038f0a8",
+      "provider_task_id": "task-unified-1795427784-tfec4zx7",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-confetti-stamp-feedback/confetti-stamp-feedback.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 187136,
+      "sha256": "94ae97f47821d3b7ad54742052bd421d30c05606c3855820a8895e5eeb71da41"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "All nine frames decode and four sampled frames were visually checked.",
+      "zh-CN": "9 帧均通过解码检查，并逐个 GIF 抽查 4 帧画面。"
+    }
+  }
+}

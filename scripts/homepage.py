@@ -27,9 +27,6 @@ def render_home(config, prompts, language, render_prompt):
     if language not in DETAIL_LANGUAGES:
         lines += [c('This language edition translates the repository interface. Full case details are currently available in English and Simplified Chinese.', '本语言版本翻译仓库界面；完整案例详情目前提供英文与简体中文。'), '', c('Case titles, descriptions and detail pages are shown in English when a translation is not available. Original prompts and source quotations are not translated.', '案例标题、描述与详情缺少对应译文时明确使用英文；原始提示词与来源引文不翻译。'), '']
     lines += heading('gallery', '🌐 View in Web Gallery', '🌐 在网页图库中查看')
-    lines += ['<div align="center">', '',
-              f'[![{md_text(c("Browse the visual collection on {brand} ↗", "在 {brand} 浏览完整效果合集 ↗").format(brand=brand["name"]))}](assets/website/gpt-image-2-6-prompts-20261113.jpg)]({tracked_url(gallery_url, "gallery_preview", language, config)})', '',
-              '</div>', '']
     lines += ['**' + md_link('👉 ' + c('Browse the {brand} {model} prompt gallery', '浏览 {brand} {model} 提示词图库').format(brand=brand['name'], model=config['project']['model_family']), tracked_url(gallery_url, 'top_cta', language, config)) + '**', '']
     if full:
         lines += ['**' + md_link('📝 ' + c('Full prompts', '完整提示词'), '#collection') + '**', '']

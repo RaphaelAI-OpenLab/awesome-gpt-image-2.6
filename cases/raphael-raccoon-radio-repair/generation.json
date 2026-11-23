@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-raccoon-radio-repair",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-raccoon-radio-repair/prompt.txt",
+      "prompt_sha256": "db5f657bb2281697f63516a6d2ff3f91f6fd1e788701bf1c7db907e745f113a6",
+      "provider_task_id": "task-unified-1795427717-gdxrjggi",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-raccoon-radio-repair/raccoon-radio-repair.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 1704446,
+      "sha256": "09b2ecee3fa3859914b8900fdddb2f0554e42a9917a77697cfdc2a23fa35460d"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "All nine frames decode and four sampled frames were visually checked.",
+      "zh-CN": "9 帧均通过解码检查，并逐个 GIF 抽查 4 帧画面。"
+    }
+  }
+}

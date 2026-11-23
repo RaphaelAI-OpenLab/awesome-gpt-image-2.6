@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-raindrops-bus-shelter",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-raindrops-bus-shelter/prompt.txt",
+      "prompt_sha256": "6d4f8678e40a77998eb8047a41e84598ac3a3a1fc29092b423feb21efdae4e65",
+      "provider_task_id": "task-unified-1795427762-cu9jvuzp",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-raindrops-bus-shelter/raindrops-bus-shelter.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 1107816,
+      "sha256": "0fe7f000c8de0a0e15c2a95973dbe37ac367c5a2ea60e18ec85df04a106c540f"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "All nine frames decode and four sampled frames were visually checked.",
+      "zh-CN": "9 帧均通过解码检查，并逐个 GIF 抽查 4 帧画面。"
+    }
+  }
+}

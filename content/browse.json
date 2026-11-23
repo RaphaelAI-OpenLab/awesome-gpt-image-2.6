@@ -44,31 +44,6 @@
           "community-boxing-tiger",
           "community-hummingbird-variants",
           "community-rosebud-animation",
-          "ailingqu-jelly-bear-wobble",
-          "ailingqu-bunny-reaction-set",
-          "ailingqu-cat-waving-hello",
-          "ailingqu-shiba-head-tilt",
-          "ailingqu-cat-typing-laptop",
-          "ailingqu-frog-heart-bubble",
-          "ailingqu-penguin-facepalm",
-          "ailingqu-basketball-shot-sticker",
-          "ailingqu-cat-chef-fried-rice",
-          "ailingqu-black-cat-punch",
-          "ailingqu-office-cat-workday-set",
-          "ailingqu-roaring-duck",
-          "ailingqu-flower-macro-flash",
-          "ailingqu-four-seasons-tree",
-          "ailingqu-magazine-panels-pop",
-          "ailingqu-window-day-to-night",
-          "ailingqu-steaming-coffee",
-          "ailingqu-rain-on-window",
-          "ailingqu-goldfish-bowl",
-          "ailingqu-lighthouse-night",
-          "ailingqu-cat-by-fireplace",
-          "ailingqu-sleepy-fox-rock",
-          "ailingqu-lofi-study-loop",
-          "ailingqu-cafe-cinemagraph",
-          "ailingqu-ink-wash-horse",
           "community-ozan-robin-wink-hat",
           "community-mirochill-ram-altman-animation",
           "community-struggle-cat-programmer",
@@ -95,7 +70,32 @@
           "social-cat-spinning-gif",
           "social-summer-garden-water-gun",
           "social-orange-office-cat-expression-grid",
-          "social-line-dog-heart-loop"
+          "social-line-dog-heart-loop",
+          "raphael-ceramic-octopus-stretch",
+          "raphael-teapot-reactions",
+          "raphael-mailbox-hello",
+          "raphael-meerkat-double-take",
+          "raphael-raccoon-radio-repair",
+          "raphael-moth-moon-postcard",
+          "raphael-heron-umbrella-mishap",
+          "raphael-arcade-claw-victory",
+          "raphael-otter-pancake-flip",
+          "raphael-sea-lion-ball-save",
+          "raphael-desk-plant-workday",
+          "raphael-opera-pufferfish",
+          "raphael-citrus-macro-rhythm",
+          "raphael-observatory-weather-cycle",
+          "raphael-sound-garden-risograph",
+          "raphael-greenhouse-day-to-night",
+          "raphael-ginger-tea-steam",
+          "raphael-raindrops-bus-shelter",
+          "raphael-moon-jelly-aquarium",
+          "raphael-red-train-in-fog",
+          "raphael-sheep-in-a-cabin",
+          "raphael-pocket-dragon-snooze",
+          "raphael-late-night-print-room",
+          "raphael-laundromat-cinemagraph",
+          "raphael-ink-crane-bows"
         ]
       },
       {
@@ -109,11 +109,12 @@
           "docs-toy-package",
           "launch-sable",
           "launch-travel",
-          "ailingqu-sneaker-colorway-flash",
           "community-hn-watchmaker",
           "community-struggle-aurora-perfume",
           "nyle-skincare-ad",
-          "social-perfume-dancer-light-trails"
+          "social-perfume-dancer-light-trails",
+          "raphael-trail-bottle-colorways",
+          "raphael-soap-launch-loop"
         ]
       },
       {
@@ -126,8 +127,8 @@
           "docs-bakery-svg",
           "docs-bakery-raster",
           "community-bear-svg-comparison",
-          "ailingqu-cat-brand-reel",
-          "community-struggle-code-lightning-svg"
+          "community-struggle-code-lightning-svg",
+          "raphael-soap-launch-loop"
         ]
       },
       {
@@ -184,10 +185,10 @@
           "launch-owl",
           "launch-picsart",
           "community-malfoid",
-          "ailingqu-lantern-monkey-snow",
-          "ailingqu-doodle-monster",
           "community-struggle-sailor-dance",
-          "social-basketball-storyboard-to-gif"
+          "social-basketball-storyboard-to-gif",
+          "raphael-hare-under-aurora",
+          "raphael-sketchbook-bicycle"
         ]
       },
       {
@@ -198,12 +199,6 @@
         },
         "case_ids": [
           "launch-higgsfield",
-          "ailingqu-pixel-campfire",
-          "ailingqu-pixel-knight-run",
-          "ailingqu-arcade-vs-screen",
-          "ailingqu-pixel-slime-boss",
-          "ailingqu-love-burst-skill",
-          "ailingqu-junkyard-robot-walk",
           "community-mirochill-anime-dialogue-prototype",
           "community-temae-pixel-love-swimming-sheet",
           "community-kiki-tanjiro-pixel-loop",
@@ -213,7 +208,13 @@
           "social-dwarf-360-turntable",
           "social-sword-360-turntable",
           "social-motorbike-360-turntable",
-          "social-gray-blender-hallway-draft"
+          "social-gray-blender-hallway-draft",
+          "raphael-pixel-greenhouse-sprinkler",
+          "raphael-pixel-courier-cycle",
+          "raphael-arcade-start-light",
+          "raphael-pixel-mushroom-guardian",
+          "raphael-starlight-shield-loop",
+          "raphael-clockwork-crab-walk"
         ]
       },
       {
@@ -224,10 +225,10 @@
         },
         "case_ids": [
           "docs-market-ui",
-          "ailingqu-bouncing-dots-loader",
-          "ailingqu-like-heart-burst",
-          "ailingqu-hourglass-flip",
-          "social-web-summary-interaction-loop"
+          "social-web-summary-interaction-loop",
+          "raphael-paper-plane-loader",
+          "raphael-confetti-stamp-feedback",
+          "raphael-compass-needle-reset"
         ]
       },
       {
@@ -299,7 +300,14 @@
           "social-kimono-door-peephole-portrait",
           "social-keor-elevator-mirror-portrait",
           "social-japanese-office-short-prompts",
-          "social-summer-garden-water-gun"
+          "social-summer-garden-water-gun",
+          "raphael-citrus-macro-rhythm",
+          "raphael-soap-launch-loop",
+          "raphael-trail-bottle-colorways",
+          "raphael-ginger-tea-steam",
+          "raphael-raindrops-bus-shelter",
+          "raphael-moon-jelly-aquarium",
+          "raphael-laundromat-cinemagraph"
         ]
       },
       {
@@ -346,27 +354,20 @@
           "docs-lantern-gif",
           "community-malfoid",
           "community-flare-day-dusk-edit",
-          "ailingqu-jelly-bear-wobble",
-          "ailingqu-bunny-reaction-set",
-          "ailingqu-cat-waving-hello",
-          "ailingqu-shiba-head-tilt",
-          "ailingqu-cat-typing-laptop",
-          "ailingqu-frog-heart-bubble",
-          "ailingqu-penguin-facepalm",
-          "ailingqu-basketball-shot-sticker",
-          "ailingqu-cat-chef-fried-rice",
-          "ailingqu-black-cat-punch",
-          "ailingqu-office-cat-workday-set",
-          "ailingqu-roaring-duck",
-          "ailingqu-four-seasons-tree",
-          "ailingqu-lantern-monkey-snow",
-          "ailingqu-sleepy-fox-rock",
-          "ailingqu-lofi-study-loop",
-          "ailingqu-doodle-monster",
           "social-dancing-frog-top-hat",
           "social-diligent-bee-daily-checkin-gif",
           "social-character-wave-laugh",
-          "social-orange-office-cat-expression-grid"
+          "social-orange-office-cat-expression-grid",
+          "raphael-teapot-reactions",
+          "raphael-mailbox-hello",
+          "raphael-raccoon-radio-repair",
+          "raphael-moth-moon-postcard",
+          "raphael-heron-umbrella-mishap",
+          "raphael-observatory-weather-cycle",
+          "raphael-sound-garden-risograph",
+          "raphael-hare-under-aurora",
+          "raphael-late-night-print-room",
+          "raphael-sketchbook-bicycle"
         ]
       },
       {
@@ -381,7 +382,11 @@
           "social-dwarf-360-turntable",
           "social-sword-360-turntable",
           "social-motorbike-360-turntable",
-          "social-gray-blender-hallway-draft"
+          "social-gray-blender-hallway-draft",
+          "raphael-ceramic-octopus-stretch",
+          "raphael-otter-pancake-flip",
+          "raphael-desk-plant-workday",
+          "raphael-opera-pufferfish"
         ]
       },
       {
@@ -392,11 +397,7 @@
         },
         "case_ids": [
           "social-blue-hair-chibi-eating-rice-gif",
-          "social-chibi-cheongsam-girl-gif",
-          "ailingqu-jelly-bear-wobble",
-          "ailingqu-bunny-reaction-set",
-          "ailingqu-shiba-head-tilt",
-          "ailingqu-penguin-facepalm"
+          "social-chibi-cheongsam-girl-gif"
         ]
       },
       {
@@ -408,16 +409,15 @@
         "case_ids": [
           "docs-pixel-style",
           "nyle-sunburst-style-gallery",
-          "ailingqu-pixel-campfire",
-          "ailingqu-pixel-knight-run",
-          "ailingqu-arcade-vs-screen",
-          "ailingqu-pixel-slime-boss",
-          "ailingqu-love-burst-skill",
-          "ailingqu-junkyard-robot-walk",
           "community-temae-pixel-love-swimming-sheet",
           "community-kiki-tanjiro-pixel-loop",
           "social-pixel-purple-lightning-bolts",
-          "social-pixel-hero-glowing-sword"
+          "social-pixel-hero-glowing-sword",
+          "raphael-pixel-greenhouse-sprinkler",
+          "raphael-pixel-courier-cycle",
+          "raphael-arcade-start-light",
+          "raphael-pixel-mushroom-guardian",
+          "raphael-starlight-shield-loop"
         ]
       },
       {
@@ -427,10 +427,10 @@
           "zh-CN": "水墨 / 中国风"
         },
         "case_ids": [
-          "ailingqu-ink-wash-horse",
           "social-ink-history-timeline-loop",
           "social-moonlit-lake-hanfu-portrait",
-          "social-seated-hanfu-woman-lotus-pond"
+          "social-seated-hanfu-woman-lotus-pond",
+          "raphael-ink-crane-bows"
         ]
       },
       {
@@ -443,7 +443,9 @@
           "nyle-sunburst-style-gallery",
           "social-golden-gate-gouache-loop",
           "social-colosseum-gouache-loop",
-          "social-fuji-gouache-loop"
+          "social-fuji-gouache-loop",
+          "raphael-greenhouse-day-to-night",
+          "raphael-red-train-in-fog"
         ]
       },
       {
@@ -455,10 +457,10 @@
         "case_ids": [
           "docs-holiday-card",
           "docs-historical-crowd",
-          "ailingqu-arcade-vs-screen",
           "social-90s-film-snapshot-woman",
           "social-heisei-flip-phone-decomail-gif",
-          "social-tifa-lockhart-peeling-poster"
+          "social-tifa-lockhart-peeling-poster",
+          "raphael-arcade-start-light"
         ]
       },
       {
@@ -472,10 +474,10 @@
           "docs-bakery-raster",
           "community-bear-svg-comparison",
           "community-struggle-code-lightning-svg",
-          "ailingqu-bouncing-dots-loader",
-          "ailingqu-like-heart-burst",
-          "ailingqu-hourglass-flip",
-          "social-line-dog-heart-loop"
+          "social-line-dog-heart-loop",
+          "raphael-paper-plane-loader",
+          "raphael-confetti-stamp-feedback",
+          "raphael-compass-needle-reset"
         ]
       },
       {
@@ -486,8 +488,11 @@
         },
         "case_ids": [
           "docs-complexity",
-          "ailingqu-magazine-panels-pop",
-          "social-tifa-lockhart-peeling-poster"
+          "social-tifa-lockhart-peeling-poster",
+          "raphael-moth-moon-postcard",
+          "raphael-heron-umbrella-mishap",
+          "raphael-sound-garden-risograph",
+          "raphael-hare-under-aurora"
         ]
       }
     ]
@@ -528,7 +533,9 @@
           "social-snowy-yard-wood-chopping",
           "social-standing-backflip-complexity",
           "social-summer-garden-water-gun",
-          "social-basketball-storyboard-to-gif"
+          "social-basketball-storyboard-to-gif",
+          "raphael-late-night-print-room",
+          "raphael-pixel-courier-cycle"
         ]
       },
       {
@@ -548,22 +555,6 @@
           "community-bear-svg-comparison",
           "community-boxing-tiger",
           "community-hummingbird-variants",
-          "ailingqu-jelly-bear-wobble",
-          "ailingqu-bunny-reaction-set",
-          "ailingqu-cat-waving-hello",
-          "ailingqu-shiba-head-tilt",
-          "ailingqu-cat-typing-laptop",
-          "ailingqu-frog-heart-bubble",
-          "ailingqu-penguin-facepalm",
-          "ailingqu-cat-chef-fried-rice",
-          "ailingqu-black-cat-punch",
-          "ailingqu-office-cat-workday-set",
-          "ailingqu-roaring-duck",
-          "ailingqu-goldfish-bowl",
-          "ailingqu-cat-by-fireplace",
-          "ailingqu-lantern-monkey-snow",
-          "ailingqu-sleepy-fox-rock",
-          "ailingqu-ink-wash-horse",
           "community-ozan-robin-wink-hat",
           "community-flare-day-dusk-edit",
           "community-struggle-cat-programmer",
@@ -574,7 +565,20 @@
           "social-pelican-riding-bicycle",
           "social-line-dog-heart-loop",
           "social-cat-spinning-gif",
-          "social-orange-office-cat-expression-grid"
+          "social-orange-office-cat-expression-grid",
+          "raphael-ceramic-octopus-stretch",
+          "raphael-meerkat-double-take",
+          "raphael-raccoon-radio-repair",
+          "raphael-moth-moon-postcard",
+          "raphael-heron-umbrella-mishap",
+          "raphael-otter-pancake-flip",
+          "raphael-sea-lion-ball-save",
+          "raphael-opera-pufferfish",
+          "raphael-moon-jelly-aquarium",
+          "raphael-sheep-in-a-cabin",
+          "raphael-hare-under-aurora",
+          "raphael-ink-crane-bows",
+          "raphael-clockwork-crab-walk"
         ]
       },
       {
@@ -595,7 +599,10 @@
           "social-sword-360-turntable",
           "social-motorbike-360-turntable",
           "social-falling-apple-frame-comparison",
-          "social-paper-boat-water-loop"
+          "social-paper-boat-water-loop",
+          "raphael-soap-launch-loop",
+          "raphael-trail-bottle-colorways",
+          "raphael-compass-needle-reset"
         ]
       },
       {
@@ -607,13 +614,14 @@
         "case_ids": [
           "docs-coffee-diagram",
           "docs-market-ui",
-          "ailingqu-cat-chef-fried-rice",
-          "ailingqu-steaming-coffee",
           "community-flare-slogan-comparison",
           "nyle-sunburst-style-gallery",
           "social-blue-hair-chibi-eating-rice-gif",
           "social-woman-holding-tea-mug",
-          "social-robot-pouring-coffee"
+          "social-robot-pouring-coffee",
+          "raphael-citrus-macro-rhythm",
+          "raphael-otter-pancake-flip",
+          "raphael-ginger-tea-steam"
         ]
       },
       {
@@ -625,7 +633,6 @@
         "case_ids": [
           "docs-streetwear",
           "docs-outfit",
-          "ailingqu-sneaker-colorway-flash",
           "community-marco-mushroom-fashion-portrait",
           "social-streetwear-cap-headphones-portrait",
           "social-kimono-door-peephole-portrait",
@@ -645,11 +652,15 @@
           "community-sunburst-dust-detail",
           "community-marco-reference-photo-board",
           "community-marco-sunburst-courtyard-comparison",
-          "ailingqu-window-day-to-night",
-          "ailingqu-cat-by-fireplace",
-          "ailingqu-cafe-cinemagraph",
           "social-osaka-castle-construction",
-          "social-gray-blender-hallway-draft"
+          "social-gray-blender-hallway-draft",
+          "raphael-observatory-weather-cycle",
+          "raphael-greenhouse-day-to-night",
+          "raphael-raindrops-bus-shelter",
+          "raphael-sheep-in-a-cabin",
+          "raphael-late-night-print-room",
+          "raphael-laundromat-cinemagraph",
+          "raphael-pixel-greenhouse-sprinkler"
         ]
       },
       {
@@ -662,18 +673,16 @@
           "docs-lantern-gif",
           "community-hummingbird-variants",
           "community-rosebud-animation",
-          "ailingqu-flower-macro-flash",
-          "ailingqu-four-seasons-tree",
-          "ailingqu-rain-on-window",
-          "ailingqu-goldfish-bowl",
-          "ailingqu-lighthouse-night",
-          "ailingqu-lantern-monkey-snow",
-          "ailingqu-sleepy-fox-rock",
           "social-moonlit-lake-hanfu-portrait",
           "social-seated-hanfu-woman-lotus-pond",
           "social-sunset-beach-look-back",
           "social-paper-boat-water-loop",
-          "social-fuji-gouache-loop"
+          "social-fuji-gouache-loop",
+          "raphael-citrus-macro-rhythm",
+          "raphael-observatory-weather-cycle",
+          "raphael-moon-jelly-aquarium",
+          "raphael-red-train-in-fog",
+          "raphael-hare-under-aurora"
         ]
       },
       {
@@ -686,7 +695,6 @@
           "docs-billboard",
           "docs-snow-edit",
           "launch-travel",
-          "ailingqu-cafe-cinemagraph",
           "nyle-sunburst-style-gallery",
           "social-heisei-flip-phone-decomail-gif",
           "social-osaka-castle-construction",
@@ -704,10 +712,6 @@
         "case_ids": [
           "launch-higgsfield",
           "community-malfoid",
-          "ailingqu-pixel-knight-run",
-          "ailingqu-pixel-slime-boss",
-          "ailingqu-love-burst-skill",
-          "ailingqu-junkyard-robot-walk",
           "community-mirochill-anime-dialogue-prototype",
           "community-struggle-sailor-dance",
           "community-kiki-tanjiro-pixel-loop",
@@ -717,7 +721,9 @@
           "social-pixel-purple-lightning-bolts",
           "social-pixel-hero-glowing-sword",
           "social-anime-floating-orb-control",
-          "social-dwarf-360-turntable"
+          "social-dwarf-360-turntable",
+          "raphael-pocket-dragon-snooze",
+          "raphael-pixel-mushroom-guardian"
         ]
       },
       {

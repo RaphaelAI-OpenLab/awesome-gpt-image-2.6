@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-red-train-in-fog",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-red-train-in-fog/prompt.txt",
+      "prompt_sha256": "45c5bb1e9fdbc6dda3cac9237d0f1ac606293eaeb27b43e3fc2b78c1ae15bfe8",
+      "provider_task_id": "task-unified-1795427762-kypm1gm6",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-red-train-in-fog/red-train-in-fog.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 1358324,
+      "sha256": "fe2c970e6ac3828e23917fe32e2bf3916d713155787116ff390596695da9dbb9"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "The train moves across the viaduct while fog thickens. It reappears on the next loop.",
+      "zh-CN": "列车驶过高架桥时雾逐渐变浓，进入下一轮后列车重新出现。"
+    }
+  }
+}

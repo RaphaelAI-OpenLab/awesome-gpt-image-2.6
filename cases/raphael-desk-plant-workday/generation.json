@@ -1,0 +1,85 @@
+{
+  "case_id": "raphael-desk-plant-workday",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-desk-plant-workday/prompt-desk-plant-low-battery.txt",
+      "prompt_sha256": "6549d044325769e327161278167245cabbec4c2eb44770913a768f75fa65afb8",
+      "provider_task_id": "task-unified-1795427740-iiv3sewq",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-desk-plant-workday/desk-plant-low-battery.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 729030,
+      "sha256": "54587b79cec34a72dcf1f0b1fa855d38a246df0f2e07001191b80de86998eca5"
+    },
+    {
+      "prompt_path": "cases/raphael-desk-plant-workday/prompt-desk-plant-clock-out.txt",
+      "prompt_sha256": "5e78ab924740a6052c05f35b68a3323fcf348b817fd2a2936436ec6fe430e185",
+      "provider_task_id": "task-unified-1795427740-17n6ndrs",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-desk-plant-workday/desk-plant-clock-out.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 774700,
+      "sha256": "51cedd3d420294808c3437f0b139c0739e1cd025513c9ed87d80dc8e542f030f"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "The cactus droops in the first GIF and hops onto a rolling chair in the second. Each clip was generated independently.",
+      "zh-CN": "第一张展示仙人掌累趴，第二张展示它跳上办公椅。两段动画分别生成。"
+    }
+  }
+}

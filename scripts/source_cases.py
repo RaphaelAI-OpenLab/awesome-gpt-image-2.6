@@ -37,6 +37,8 @@ SUPPORTED_SOURCE_HOSTS = {
 
 
 def is_supported_source(item):
+    if item['source'].get('type') == 'original':
+        return item['source']['url'] == f"cases/{item['id']}/generation.json"
     host = (urlsplit(item['source']['url']).hostname or '').removeprefix('www.')
     return host in SUPPORTED_SOURCE_HOSTS
 
@@ -79,7 +81,8 @@ def render_original_prompt(item, language, *, prefix=''):
                 lines += [md_link(c('Original prompt', '原始提示词') + ' (.txt)', image_path(entry['path'], prefix)), '']
         if prompt.get('note'):
             lines += [md_text(localized(prompt['note'], language)), '']
-        lines += [md_link(c('Original prompt at source', '原提示词见来源'), prompt['url'])]
+        if prompt['status'] == 'source-only':
+            lines += [md_link(c('Original prompt at source', '原提示词见来源'), prompt['url'])]
     elif prompt['status'] == 'source-only':
         lines += [md_link(label('source-only', language), prompt['url'])]
     elif prompt['status'] == 'unverified':
@@ -142,15 +145,16 @@ def render_inline_case(item, language, number, config, *, featured=False):
         lines += [''] if featured else ['', '</details>', '']
     lines += ['**' + c('Original prompt', '原始提示词') + '**', '', render_original_prompt(item, language), '']
     source = item['source']
-    url = urlsplit(source['url'])
-    author_url = source['url']
-    if url.hostname in ('x.com', 'twitter.com', 'github.com'):
-        author_url = 'https://' + url.hostname + '/' + url.path.strip('/').split('/')[0]
-    lines += ['**' + c('Author', '作者') + '**: ' + md_link(source['author'], author_url), '',
-              '**' + c('Original source', '原始来源') + '**: ' + md_link(label(source['type'], language), source['url']) +
-              ' · ' + md_link(c('Source details', '来源详情'), page_path(item, language))]
-    if item['id'].startswith('ailingqu-'):
-        lines[-1] += ' · ' + md_link('CC BY 4.0', 'docs/ailingqu-2037/ATTRIBUTION.md')
+    details = md_link(c('Source details', '来源详情'), page_path(item, language))
+    if source['type'] == 'original':
+        lines += ['**' + c('Author', '作者') + '**: ' + md_text(source['author']), '', details]
+    else:
+        url = urlsplit(source['url'])
+        author_url = source['url']
+        if url.hostname in ('x.com', 'twitter.com', 'github.com'):
+            author_url = 'https://' + url.hostname + '/' + url.path.strip('/').split('/')[0]
+        lines += ['**' + c('Author', '作者') + '**: ' + md_link(source['author'], author_url), '',
+                  '**' + c('Original source', '原始来源') + '**: ' + md_link(label(source['type'], language), source['url']) + ' · ' + details]
     lines += ['', render_gallery_cta(config, language, item['id'])]
     return '\n'.join(lines) + '\n'
 
@@ -164,10 +168,13 @@ def render_detail(item, language):
     root_prefix = '../../'
     home = '../../README.zh-CN.md' if zh else '../../README.md'
     back_label = choose('← Back to all cases', '← 返回全部案例')
+    original = item['source']['type'] == 'original'
+    status = (choose('Original generation', '原创生成') if original else
+              label(item['source']['type'], language) + ' · ' + choose('Source-only; not independently reproduced', '仅核对来源；未独立复现'))
     lines = [GENERATED_MARKER, '', '# ' + md_text(localized(item['title'], language)), '',
              md_link(back_label, home + '#all-cases'), '']
     lines += [language_nav(language, prefix=root_prefix, detail=True), '',
-              '**' + label(item['source']['type'], language) + ' · ' + choose('Source-only; not independently reproduced', '仅核对来源；未独立复现') + '**', '',
+              '**' + status + '**', '',
               md_text(localized(item['notes'], language)), '',
               '## ' + media_heading, '']
     local_media = [m for m in item['media'] if m['path']]
@@ -185,7 +192,7 @@ def render_detail(item, language):
                 lines += [f"![{md_text(localized(media['alt'], language))}]({md_url(local_path)})", '']
             if media.get('role') == 'reference':
                 lines += ['**' + choose('Reference/input image, not a generated output.', '参考 / 输入图，不是生成结果。') + '**', '']
-        lines += ['- ' + md_link(localized(media['alt'], language), media['source_url']) + ' · ' + media['kind'],
+        lines += ['- ' + md_link(localized(media['alt'], language), image_path(media['source_url'], root_prefix)) + ' · ' + media['kind'],
                   '  - ' + choose('Credit: ', '署名：') + md_text(media['rights']['credit']),
                   '  - ' + choose('Reuse: ', '使用条件：') + media['rights']['status'] + '. ' + md_text(localized(media['rights']['note'], language))]
         if media['rights']['evidence_url']:
@@ -208,14 +215,17 @@ def render_detail(item, language):
                   choose('Public availability of the original prompt has not been verified. The original source is credited below.', '尚未核实原始提示词是否公开。原始来源见下方署名信息。')]
     else:
         lines += ['**' + choose('PLACEHOLDER: prompt not publicly provided.', '占位：原作者未公开提示词。') + '**']
+    source_label = choose('Generation record', '生成记录') if original else choose('Original source', '原始来源')
+    date_label = choose('Generation verified: ', '生成核验：') if original else choose('Source checked: ', '来源核对：')
     lines += ['', '## ' + choose('Attribution and verification', '来源与核对信息'), '',
               '- ID: ' + item['id'],
               '- ' + choose('Author: ', '作者：') + md_text(item['source']['author']),
-              '- ' + md_link(choose('Original source', '原始来源'), item['source']['url']),
+              '- ' + md_link(source_label, image_path(item['source']['url'], root_prefix)),
               '- ' + choose('Model: ', '模型：') + item['model']['family'],
               '- ' + choose('Variant: ', '版本：') + ' / '.join(label(v, language) if v == 'unspecified' else v.title() for v in item['model']['variants']),
               '- ' + choose('Evidence: ', '依据：') + md_text(localized(item['model']['evidence'], language)),
               '- ' + choose('Collected: ', '收录：') + item['added_at'] + ' (UTC)',
-              '- ' + choose('Source checked: ', '来源核对：') + item['verified_at'] + ' (UTC)', '',
-              choose('Attribution does not grant a media license. Repository MIT terms do not cover third-party outputs. Local files record provenance and reuse status; source-attributed does not mean open-licensed.', '标注来源不等于取得素材许可。仓库 MIT 协议不覆盖第三方输出；本地素材逐项记录来源与使用状态，source-attributed 不代表开放许可。'), '']
+              '- ' + date_label + item['verified_at'] + ' (UTC)', '']
+    if not original:
+        lines += [choose('Attribution does not grant a media license. Repository MIT terms do not cover third-party outputs. Local files record provenance and reuse status; source-attributed does not mean open-licensed.', '标注来源不等于取得素材许可。仓库 MIT 协议不覆盖第三方输出；本地素材逐项记录来源与使用状态，source-attributed 不代表开放许可。'), '']
     return '\n'.join(lines)

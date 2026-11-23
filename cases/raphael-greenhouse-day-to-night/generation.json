@@ -1,0 +1,58 @@
+{
+  "case_id": "raphael-greenhouse-day-to-night",
+  "credit": "Raphael",
+  "date": "2026-11-23",
+  "provider": "EvoLink",
+  "request": {
+    "model": "gpt-image-2.6-flare",
+    "size": "512x512",
+    "quality": "medium",
+    "complexity": "medium",
+    "output_format": "gif",
+    "n": 1,
+    "model_params": {
+      "frame_count": 9,
+      "frame_duration_ms": 160
+    }
+  },
+  "reference_images": [],
+  "outputs": [
+    {
+      "prompt_path": "cases/raphael-greenhouse-day-to-night/prompt.txt",
+      "prompt_sha256": "306fca7391c237ad50b11fa0b87e114b9b926a158950af6a08f7f333a4f941ee",
+      "provider_task_id": "task-unified-1795427753-wd06iw5i",
+      "provider_status": "completed",
+      "model_reported": "gpt-image-2.6-flare",
+      "gif_path": "assets/examples/raphael-greenhouse-day-to-night/greenhouse-day-to-night.gif",
+      "width": 512,
+      "height": 512,
+      "frames": 9,
+      "distinct_frames": 9,
+      "duration_ms": 1440,
+      "frame_durations_ms": [
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160,
+        160
+      ],
+      "loop": 0,
+      "bytes": 934062,
+      "sha256": "473746ac1fa5e9dd75774a89ad5a00aeb4ae74754acd3ed23a432ca3ea999c1d"
+    }
+  ],
+  "review": {
+    "method": {
+      "en": "Decoded every frame and inspected four frames per GIF. Loop metadata was checked; creative instructions may be partially realized.",
+      "zh-CN": "解码每一帧，每个 GIF 抽查 4 帧画面并核对循环标记。画面可能只满足部分创意指令。"
+    },
+    "notes": {
+      "en": "The locked composition shows dawn, daytime, night and a return to dawn.",
+      "zh-CN": "固定画面依次展示清晨、白天、夜晚，再回到清晨。"
+    }
+  }
+}
