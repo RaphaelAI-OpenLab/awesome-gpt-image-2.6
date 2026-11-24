@@ -7,6 +7,7 @@ import argparse
 import sys
 from pathlib import Path
 from i18n import DETAIL_LANGUAGES, detail_language, filename, ui
+from sync_cms_stats import CmsStats, read_cms_stats
 
 from common import (
     GENERATED_MARKER, LANGUAGES, ROOT, code_block, html_attr, image_path,
@@ -258,13 +259,14 @@ def render_case(item: dict, config: dict, language: str, *, standalone: bool = F
     return "\n".join(lines).rstrip() + "\n"
 
 
-def render_readme(config: dict, prompts: list[dict], language: str) -> str:
+def render_readme(config: dict, prompts: list[dict], language: str, cms_stats: CmsStats | None = None) -> str:
     from homepage import render_home
-    return render_home(config, prompts, language, render_case)
+    return render_home(config, prompts, language, render_case, cms_stats)
 
 
 def outputs(config: dict, prompts: list[dict]) -> dict[Path, str]:
-    result = {ROOT / filename(language): render_readme(config, prompts, language) for language in LANGUAGES}
+    cms_stats = read_cms_stats()
+    result = {ROOT / filename(language): render_readme(config, prompts, language, cms_stats) for language in LANGUAGES}
     if config["presentation"]["generate_case_pages"]:
         for item in published(prompts):
             for language in DETAIL_LANGUAGES:

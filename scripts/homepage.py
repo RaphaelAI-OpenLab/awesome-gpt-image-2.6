@@ -6,9 +6,10 @@ from presentation import language_nav, repo_badges
 from common import GENERATED_MARKER, localized, md_link, md_text, published, repo_url, tracked_url
 from source_cases import read_cases, render_inline_case, visible
 from browse import render_browse
+from sync_cms_stats import cms_rows, stats_marker
 
 
-def render_home(config, prompts, language, render_prompt):
+def render_home(config, prompts, language, render_prompt, cms_stats):
     c = lambda en, cn=None: ui(en, cn, language)
     cases = visible(read_cases())
     full = published(prompts)
@@ -66,18 +67,14 @@ def render_home(config, prompts, language, render_prompt):
     selected = selected[:config['presentation']['featured_limit']]
     case_numbers = {item['id']: number for number, item in enumerate(
         (item for category in config['categories'] for item in cases if item['category'] == category['id']), 1)}
-    updated = dt.datetime.fromisoformat(config['presentation']['updated_at']).astimezone(dt.timezone.utc)
-    if language in ('zh-CN', 'zh-TW'):
-        updated_label = f'{updated.year}年{updated.month}月{updated.day}日星期{"一二三四五六日"[updated.weekday()]} UTC {updated:%H:%M:%S}'
-    else:
-        updated_label = f'{updated:%Y-%m-%d} UTC {updated:%H:%M:%S}'
+    updated = dt.datetime.fromisoformat(config['presentation']['updated_at'])
     prompt_count = len(full) + sum(len(item['prompt'].get('entries', [])) for item in cases)
     lines += heading('statistics','📊 Statistics','📊 统计数据')
     lines += ['| **' + c('Metric', '指标') + '** | **' + c('Count', '数量') + '** |',
               '| --- | --- |',
               '| 📝 ' + c('Total prompts', '提示词总数') + f' | **{prompt_count}** |',
               '| ⭐ ' + c('Featured', '精选') + f' | **{len(selected)}** |',
-              '| 🔄 ' + c('Last updated', '最后更新') + f' | **{updated_label}** |', '']
+              *cms_rows(language, cms_stats, updated), '', stats_marker(cms_stats), '']
     lines += heading('featured','🔥 Featured cases','🔥 精选案例')
     if selected:
         for item in selected:

@@ -91,7 +91,10 @@ OpenAI giới thiệu Images 2.6 vào ngày 4 tháng 11 năm 2026. Bộ sưu t�
 | --- | --- |
 | 📝 Tổng số prompt | **156** |
 | ⭐ Nổi bật | **12** |
+| 🗂️ Tổng số tư liệu trong CMS | **—** |
 | 🔄 Cập nhật lần cuối | **2026-11-23 UTC 09:59:39** |
+
+<!-- cms-stats pending -->
 
 <a id="featured"></a>
 
