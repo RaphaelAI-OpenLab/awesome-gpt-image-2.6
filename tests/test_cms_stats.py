@@ -28,8 +28,9 @@ class CmsStatsTests(TestCase):
         )
 
     def test_no_count_is_not_treated_as_zero(self):
-        with patch("sync_cms_stats.urlopen", return_value=BytesIO(b'{"data":[{"count":{"id":"0"}}]}')):
+        with patch("sync_cms_stats.urlopen", return_value=BytesIO(b'{"data":[{"count":{"id":"0"}}]}')) as open_url:
             self.assertEqual(fetch_material_count("https://cms.example.com", "test-token"), 0)
+            self.assertEqual(open_url.call_args.args[0].get_header("User-agent"), "Raphael-CMS-Stats/1.0")
         with patch("sync_cms_stats.urlopen", return_value=BytesIO(b'{"data":[{"count":{}}]}')):
             with self.assertRaises(KeyError):
                 fetch_material_count("https://cms.example.com", "test-token")
