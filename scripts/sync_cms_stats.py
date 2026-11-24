@@ -80,7 +80,10 @@ def fetch_material_count(base_url: str, token: str) -> int:
     ):
         raise ValueError("Set CMS_BASE_URL to the HTTPS origin and configure CMS_READ_TOKEN.")
     query = urlencode({"aggregate[count]": "id"})
-    request = Request(f"{base_url.rstrip('/')}/items/materials?{query}", headers={"Accept": "application/json"})
+    request = Request(
+        f"{base_url.rstrip('/')}/items/materials?{query}",
+        headers={"Accept": "application/json", "User-Agent": "Raphael-CMS-Stats/1.0"},
+    )
     request.add_unredirected_header("Authorization", f"Bearer {token}")
     with urlopen(request, timeout=20) as response:
         rows = json.load(response)["data"]
