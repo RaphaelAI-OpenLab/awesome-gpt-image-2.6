@@ -92,9 +92,9 @@ OpenAI, Images 2.6'yı 4 Kasım 2026'da tanıttı. Bu koleksiyon Sunburst ve Fla
 | 📝 Toplam istem | **156** |
 | ⭐ Öne çıkanlar | **12** |
 | 🗂️ CMS materyal sayısı | **0** |
-| 🔄 Son güncelleme | **2026-11-24 UTC 10:52:55** |
+| 🔄 Son güncelleme | **2026-11-24 UTC 19:30:16** |
 
-<!-- cms-stats 0 2026-11-24T10:52:55Z -->
+<!-- cms-stats 0 2026-11-24T19:30:16Z -->
 
 <a id="featured"></a>
 
