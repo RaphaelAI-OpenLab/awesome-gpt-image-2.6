@@ -91,10 +91,10 @@ OpenAI hat Images 2.6 am 4. November 2026 vorgestellt. Diese Sammlung umfasst di
 | --- | --- |
 | 📝 Prompts insgesamt | **156** |
 | ⭐ Ausgewählt | **12** |
-| 🗂️ Materialien im CMS | **0** |
-| 🔄 Zuletzt aktualisiert | **2026-11-25 UTC 03:33:32** |
+| 🗂️ Materialien im CMS | **8** |
+| 🔄 Zuletzt aktualisiert | **2026-11-25 UTC 09:00:28** |
 
-<!-- cms-stats 0 2026-11-25T03:33:32Z -->
+<!-- cms-stats 8 2026-11-25T09:00:28Z -->
 
 <a id="featured"></a>
 
