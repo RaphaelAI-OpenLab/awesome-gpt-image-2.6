@@ -119,6 +119,8 @@ def render_html(config: dict, records: list[dict]) -> str:
   <meta property="og:url" content="{html.escape(pages_url)}" />
   <meta name="twitter:card" content="summary_large_image" />
   <script type="application/ld+json">{json_ld}</script>
+  <script defer data-domain="raphaelai-openlab.github.io" src="https://plau.colorepistle.com/js/script.outbound-links.js"></script>
+  <script>window.plausible = window.plausible || function() {{ (window.plausible.q = window.plausible.q || []).push(arguments); }};</script>
   <style>
     :root {{
       --bg: #fafafa;
@@ -493,6 +495,7 @@ with open("output.gif", "wb") as f:
       if (!rec) return;
       try {{
         await navigator.clipboard.writeText(rec.prompt);
+        if (window.plausible) window.plausible("Copy Prompt", {{ props: {{ case_id: rec.id, category: rec.category }} }});
         btn.textContent = "Copied ✓";
         setTimeout(() => btn.textContent = "Copy prompt", 1500);
       }} catch {{

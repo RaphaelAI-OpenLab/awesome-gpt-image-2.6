@@ -22,6 +22,10 @@ class PagesTests(unittest.TestCase):
             self.assertIn("gpt-image-2.6-flare", html_text)
             self.assertIn("gpt-image-2.6-sunburst", html_text)
             self.assertIn("https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts", html_text)
+            self.assertIn(
+                '<script defer data-domain="raphaelai-openlab.github.io" src="https://plau.colorepistle.com/js/script.outbound-links.js"></script>',
+                html_text,
+            )
             self.assertIn("https://raphaelai-openlab.github.io/awesome-gpt-image-2.6-prompts/sitemap.xml", robots)
             self.assertIn("<loc>https://raphaelai-openlab.github.io/awesome-gpt-image-2.6-prompts/</loc>", sitemap)
 
