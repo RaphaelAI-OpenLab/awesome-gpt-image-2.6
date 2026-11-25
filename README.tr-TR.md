@@ -155,10 +155,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Toplam istem | **156** |
 | ⭐ Öne çıkanlar | **12** |
-| 🗂️ CMS materyal sayısı | **10** |
-| 🔄 Son güncelleme | **2026-11-25 UTC 16:02:01** |
+| 🗂️ CMS materyal sayısı | **11** |
+| 🔄 Son güncelleme | **2026-11-25 UTC 20:01:33** |
 
-<!-- cms-stats 10 2026-11-25T16:02:01Z -->
+<!-- cms-stats 11 2026-11-25T20:01:33Z -->
 
 <a id="featured"></a>
 
