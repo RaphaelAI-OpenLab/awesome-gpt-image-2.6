@@ -9,10 +9,10 @@ from unittest.mock import patch
 from urllib.parse import parse_qs, urlsplit
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from browse import gallery_url_for_language, read_browse, read_web_gallery, render_browse, validate_browse, validate_web_gallery
+from browse import category_case_counts, gallery_url_for_language, read_browse, read_web_gallery, render_browse, render_web_gallery_browse, validate_browse, validate_web_gallery
 from build_readme import render_readme
-from common import load_data
-from i18n import LANGUAGES, ui
+from common import load_data, localized
+from i18n import DETAIL_LANGUAGES, LANGUAGES, ui
 from source_cases import read_cases, visible
 from validate import markdown_link_errors
 
@@ -47,18 +47,9 @@ class BrowseTests(unittest.TestCase):
             ('svg-design-assets', 3), ('interiors-architecture', 2),
         ])
 
-    def test_each_language_has_website_tags_counts_and_localized_tracked_routes(self):
-        prefixes = {
-            'en': '', 'zh-CN': 'zh', 'zh-TW': 'zh-Hant', 'ja-JP': 'ja',
-            'ko-KR': 'ko', 'th-TH': 'th', 'vi-VN': 'vi', 'hi-IN': 'hi',
-            'es-ES': 'es', 'es-419': 'es', 'de-DE': 'de', 'fr-FR': 'fr',
-            'it-IT': 'it', 'pt-BR': 'pt', 'pt-PT': 'pt', 'tr-TR': 'tr',
-        }
-        gallery = read_web_gallery()
-        expected = [('all', 'All', '全部', gallery['total'])] + [
-            (item['id'], item['label']['en'], item['label']['zh-CN'], item['count'])
-            for item in gallery['categories']
-        ]
+    def test_each_language_has_in_page_category_anchors_and_live_counts(self):
+        published_cases = visible(self.cases)
+        ordered = category_case_counts(self.config, published_cases)
         for language in LANGUAGES:
             with self.subTest(language=language):
                 text = render_readme(self.config, self.prompts, language)
@@ -68,19 +59,12 @@ class BrowseTests(unittest.TestCase):
                 self.assertNotIn('#source-case-', navigation)
                 links = re.findall(r'\[([^\]]+)\]\(([^)]+)\)', navigation)
                 self.assertEqual(len(links), 9)
-                prefix = '/' + prefixes[language] if prefixes[language] else ''
-                for (label, url), (category_id, english, chinese, count) in zip(links, expected):
-                    self.assertEqual(label, ui(english, chinese, language) + f' ({count})')
-                    parts = urlsplit(url)
-                    self.assertEqual(parts.scheme, 'https')
-                    self.assertEqual(parts.netloc, 'raphael.app')
-                    suffix = '' if category_id == 'all' else '/' + category_id
-                    self.assertEqual(parts.path, prefix + '/gpt-image-2-6-prompts' + suffix)
-                    query = parse_qs(parts.query)
-                    self.assertEqual(query, {
-                        **{key: [value] for key, value in self.config['tracking'].items()},
-                        'utm_content': ['category_' + category_id], 'utm_term': [language],
-                    })
+                prefix = '' if language in DETAIL_LANGUAGES else 'README.md'
+                expected = [(ui('All', '全部', language) + f' ({len(published_cases)})', f'{prefix}#all-cases')] + [
+                    (f"{localized(category['label'], language)} ({count})", f'{prefix}#category-{category["id"]}')
+                    for category, count in ordered
+                ]
+                self.assertEqual(links, expected)
 
     def test_unknown_duplicate_and_missing_case_assignments_are_rejected(self):
         for mutation in ('unknown', 'duplicate', 'missing'):
@@ -169,7 +153,7 @@ class BrowseTests(unittest.TestCase):
         self.assertEqual(localized, 'https://raphael.app/zh/gpt-image-2-6-prompts?view=cards&utm_source=old#tags')
         config = copy.deepcopy(self.config)
         config['brand']['gallery_url'] = url
-        text = render_browse(config, 'zh-CN')
+        text = render_web_gallery_browse(config, 'zh-CN')
         first_url = re.search(r'\]\(([^)]+)\)', text).group(1)
         parts = urlsplit(first_url)
         self.assertEqual(parts.fragment, 'tags')

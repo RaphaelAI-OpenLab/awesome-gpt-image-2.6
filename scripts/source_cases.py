@@ -92,12 +92,12 @@ def render_original_prompt(item, language, *, prefix=''):
     return '\n'.join(lines)
 
 
-def render_inline_case(item, language, number, config, *, featured=False):
+def render_inline_case(item, language, number, config, *, featured=False, case_anchor_prefix=''):
     """将来源案例的图片、原文与底部署名直接展开到 README。"""
     c = lambda en, cn: ui(en, cn, language)
     title = localized(item['title'], language)
     anchor = 'featured-case-' if featured else 'source-case-'
-    heading = f'### {number}. ' + md_link(title, '#source-case-' + item['id']) if featured else f'#### {number}. ' + md_text(title)
+    heading = f'### {number}. ' + md_link(title, case_anchor_prefix + '#source-case-' + item['id']) if featured else f'#### {number}. ' + md_text(title)
     lines = [f'<a id="{anchor}{item["id"]}"></a>', '', heading, '']
     outputs = [m for m in item['media'] if m['path'] and m.get('role', 'output') != 'reference']
     if outputs:

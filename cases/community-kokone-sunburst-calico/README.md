@@ -24,7 +24,7 @@ Only the November 5 calico-cat image is included. Earlier two cat examples in th
 - Checked: 2026-11-08 (UTC)
 - Original page: Accessible. The existing original article returned HTTP 200. The current first-person account and/or embedded per-work model labels establish creator-reported attribution for this exact case, not independent model execution.
 - Media: Archived locally. Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.
-- [Per-file attempts and results](../../docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

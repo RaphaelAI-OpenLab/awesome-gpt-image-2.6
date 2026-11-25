@@ -251,7 +251,7 @@ class CollectionTests(unittest.TestCase):
         self.assertIn('Original page:',text)
         self.assertIn('Media:',text)
         self.assertIn('No direct-media request was made',text)
-        self.assertIn('../../docs/MEDIA_ACCESS_2026-11-05.md',text)
+        self.assertIn('../../docs/SOURCE_CASES.md',text)
 
     def test_archived_access_status_requires_all_files(self):
         item=copy.deepcopy(next(x for x in self.cases if x.get('access',{}).get('media_status')=='archived'))

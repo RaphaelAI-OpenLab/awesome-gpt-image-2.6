@@ -24,7 +24,7 @@ One three-panel comparison, retained only as its original 1200 × 675 WebP video
 - Checked: 2026-11-08 (UTC)
 - Original page: Accessible. The exact already-known primary post returned HTTP200 with actual creator text and attachment markup. The relevant existing prompt/reply chain was checked. No new cases or restricted prior X posts were searched or opened.
 - Media: Archived locally. Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.
-- [Per-file attempts and results](../../docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

@@ -24,7 +24,7 @@ neom shares an exact test prompt and explicitly labels this link 2.6, alongside 
 - Checked: 2026-11-05 (UTC)
 - Original page: Accessible. Retained original page content collected on 2026-11-05 was rechecked offline on 2026-11-08. Historical redirect and preview mapping come from dated collection records; current availability was not tested.
 - Media: Archived locally. Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.
-- [Per-file attempts and results](../../docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

@@ -1,15 +1,6 @@
-Scope: This license covers the repository's code, templates, original documentation,
-and original decorative SVG assets. Third-party prompts, reference images, and
-example outputs added later retain their own rights and item-level terms; this
-license does not grant rights to those materials.
-
-README layout adaptation: see docs/ATTRIBUTION.md for the YouMind OpenLab
-CC BY 4.0 attribution and terms. This exception does not relicense third-party
-prompts or media.
-
 MIT License
 
-Copyright (c) 2026 Contributors to Awesome GPT Image 2.6
+Copyright (c) 2026 RaphaelAI-OpenLab and Contributors to Awesome GPT Image 2.6
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

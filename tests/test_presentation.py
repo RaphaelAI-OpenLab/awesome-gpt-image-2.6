@@ -102,11 +102,13 @@ class PresentationTests(unittest.TestCase):
         item = copy.deepcopy(self.cases[0])
         item['prompt'] = {'status': 'unverified', 'url': None}
         key = 'Prompt availability unverified'
+        config = copy.deepcopy(self.config)
+        config['presentation']['featured_case_ids'] = [item['id']]
         with patch('homepage.read_cases', return_value=[item]):
             for lang in LANGUAGES:
                 with self.subTest(lang=lang):
                     translation = messages(lang)[key]
-                    text = render_readme(self.config, [], lang)
+                    text = render_readme(config, [], lang)
                     self.assertIn(translation, text)
                     self.assertIn(page_path(item, lang), text)
                     self.assertIn(f'| 📝 {messages(lang)["Total prompts"]} | **0** |', text)
@@ -143,14 +145,47 @@ class PresentationTests(unittest.TestCase):
                 self.assertTrue(any('presentation.updated_at' in error for error in errors))
 
     def test_shared_anchors_and_case_inventory_are_preserved(self):
-        reference = set(re.findall(r'<a id="([^"]+)"',render_readme(self.config,self.prompts,'en')))
+        en_text = render_readme(self.config, self.prompts, 'en')
+        reference = set(re.findall(r'<a id="([^"]+)"', en_text))
+        core_sections = {
+            'top', 'gallery', 'categories', 'contents', 'about', 'api-quickstart',
+            'statistics', 'featured', 'all-cases', 'using', 'contribute',
+            'license', 'acknowledgements', 'star-history',
+        }
         for lang in LANGUAGES:
-            text=render_readme(self.config,self.prompts,lang)
-            self.assertEqual(set(re.findall(r'<a id="([^"]+)"',text)),reference)
+            text = render_readme(self.config, self.prompts, lang)
             anchors = re.findall(r'<a id="([^"]+)"', text)
             self.assertEqual(len(anchors), len(set(anchors)))
-            for case in self.cases:
-                if case['status']=='published': self.assertIn(page_path(case,lang),text)
+            self.assertTrue(core_sections.issubset(set(anchors)), lang)
+            if lang in DETAIL_LANGUAGES:
+                self.assertEqual(set(anchors), reference)
+                for case in self.cases:
+                    if case['status'] == 'published':
+                        self.assertIn(page_path(case, lang), text)
+            else:
+                self.assertIn('README.md#all-cases', text)
+                for category in self.config['categories']:
+                    self.assertIn(f'README.md#category-{category["id"]}', text)
+                self.assertLess(len(text), len(en_text) // 4, lang)
+
+    def test_seo_keywords_api_quickstart_featured_prompts_and_mit_license(self):
+        en_text = render_readme(self.config, self.prompts, 'en')
+        for phrase in (
+            'ChatGPT Images 2.6',
+            'GPT-Image-2.6 Flare vs Sunburst',
+            'Native GIF Prompts',
+            'SVG Vector Prompts',
+            'Markup-Guided Editing',
+            'gpt-image-2.6-flare',
+            'gpt-image-2.6-sunburst',
+            'https://api.openai.com/v1/images/generations',
+        ):
+            self.assertIn(phrase, en_text)
+        by_id = {case['id']: case for case in self.cases}
+        for case_id in self.config['presentation']['featured_case_ids']:
+            self.assertTrue(by_id[case_id]['prompt'].get('entries'), f'Featured case {case_id} must include a copyable prompt')
+        license_text = (ROOT / 'LICENSE').read_text(encoding='utf-8')
+        self.assertTrue(license_text.startswith('MIT License\n'))
 
     def test_local_navigation_is_inert_and_repository_badges_use_live_sources(self):
         for path, content in asset_outputs().items():
@@ -216,7 +251,8 @@ class PresentationTests(unittest.TestCase):
                 image_link = next(link for link in parser.links if 'img' in link['tags'])
                 self.assertEqual(image_link['href'], media['path'])
                 self.assertEqual(image_link['tags'], ['img'])
-                self.assertIn(f'### 1. [{localized(item["title"], language)}](#source-case-{item["id"]})', featured)
+                prefix = '' if language in DETAIL_LANGUAGES else 'README.md'
+                self.assertIn(f'### 1. [{localized(item["title"], language)}]({prefix}#source-case-{item["id"]})', featured)
                 self.assertLess(featured.index('src="' + media['path'] + '"'), featured.index('```'))
                 self.assertLess(featured.rfind('```'), featured.rfind(item['source']['author']))
 

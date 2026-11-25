@@ -1,4 +1,10 @@
-# Attribution / 署名
+# Attribution & License Scope / 署名与许可范围
+
+## License scope / 许可适用范围
+
+The repository's MIT [LICENSE](../LICENSE) covers the repository's code, templates, original documentation, and original decorative SVG assets. Third-party prompts, reference images, and example outputs retain their own rights and item-level terms; the repository MIT license does not grant rights to those materials.
+
+仓库根目录的 MIT [LICENSE](../LICENSE) 仅适用于仓库代码、模板、原创说明文档与原创装饰性 SVG 资源。第三方提示词、参考图与案例输出保留各自权利与逐项条款，不受本仓库 MIT 协议覆盖。
 
 ## README layout
 

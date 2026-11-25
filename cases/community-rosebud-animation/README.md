@@ -30,7 +30,7 @@ A red rosebud with water drops. The creator says it was made with ChatGPT Images
 - Checked: 2026-11-05 (UTC)
 - Original page: Accessible. Original post and its media elements opened normally in the public browser without signing in.
 - Media: Archived locally. All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.
-- [Per-file attempts and results](../../docs/MEDIA_ACCESS_2026-11-05.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

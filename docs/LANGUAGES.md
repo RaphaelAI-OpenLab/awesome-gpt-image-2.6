@@ -27,9 +27,9 @@ README 界面提供 16 个真实语言版本，每种语言都有独立生成文
 | pt-PT | [Português](../README.pt-PT.md) |
 | tr-TR | [Türkçe](../README.tr-TR.md) |
 
-**Case content is not claimed to be translated into all 16 languages.** Full case detail pages currently exist in English and Simplified Chinese. Other README editions explicitly disclose their English fallback for case titles, descriptions and detail links. Original prompts, quotations, model names, source URLs and creator names are preserved. No link points to a nonexistent translated detail page.
+**Case content is not claimed to be translated into all 16 languages.** Full case listings and standalone detail pages exist in English (`README.md`) and Simplified Chinese (`README.zh-CN.md`). The other 14 language editions provide a lightweight localized guide—translated navigation, GPT Image 2.6 / ChatGPT Images 2.6 overview, OpenAI API quickstart, live statistics, all featured cases, and a category directory linking directly to the canonical English sections in `README.md` and the localized Raphael Web Gallery—avoiding multi-megabyte duplication of untranslated English prompts. Original prompts, quotations, model names, source URLs and creator names are preserved. No link points to a nonexistent translated detail page.
 
-**不声称案例正文已经翻译成 16 种语言。** 完整案例详情目前只有英文和简体中文；其他 README 明确说明案例标题、描述与详情使用英文回退。原始提示词、引文、模型名称、来源地址和作者名称保持原样，不链接不存在的译文详情。
+**不声称案例正文已经翻译成 16 种语言。** 完整案例列表与独立详情页仅在英文（`README.md`）和简体中文（`README.zh-CN.md`）提供。其余 14 个语言版本采用轻量化本地导览结构（包含本地化导航、GPT Image 2.6 / ChatGPT Images 2.6 简介、OpenAI API 速查、实时统计、精选案例，以及直达英文规范首页分类锚点和对应语种 Raphael 网页图库的目录），避免重复堆砌数 MB 未翻译的英文提示词。原始提示词、引文、模型名称、来源地址和作者名称保持原样，不链接不存在的译文详情。
 
 ## Maintain the source / 维护生成源
 
@@ -45,7 +45,7 @@ README 界面提供 16 个真实语言版本，每种语言都有独立生成文
 
 首页 H1 使用 `Awesome {model} Prompts` 翻译键，模型名由配置填入，各语言分别表达“提示词合集”；英文仍为 `Awesome GPT Image 2.6 Prompts`，简体中文为 `GPT Image 2.6 提示词大全`。网页图库标题、截图说明、CTA 和功能对照也统一通过 16 语目录生成，当前共用官网英文 GPT Image 2.6 图库页面的真实截图。
 
-“按分类浏览”统一展示网站的“全部”和八个分类标签，数量读取 `content/web-gallery.json` 中于 2026-11-13 从 [Raphael 图库](https://raphael.app/gpt-image-2-6-prompts) 核对的快照。名称通过 16 语界面目录翻译；分类网址按已核验的语言路由生成：英语无前缀，简体中文使用 `zh`，繁体中文使用 `zh-Hant`，日语使用 `ja`；其他语言使用对应的短语言代码，两个西班牙语版本共用 `es`，两个葡萄牙语版本共用 `pt`。归因参数 `utm_term` 仍保留各 README 的完整语言标识，以便区分版本。
+“按分类浏览”默认展示本仓库全部 8 个分类及实时案例数量，英文与简体中文主 README 优先跳向页内分类锚点（`#all-cases` 与 `#category-<id>`），其余 14 个精简本地化版本跳向规范英文首页 `README.md` 的对应分类锚点，同时保留首屏醒目的 Raphael 网页图库入口。网站语言路由前缀（如 `zh`、`zh-Hant`、`ja`、`ko` 等）仍由 `scripts/browse.py` 维护，并在精简语言版的“全部案例”导览中提供对应语种的网页图库链接。
 
 `content/browse.json` 中的使用场景、风格和主题分类继续供内部案例维护和本地制作工具读取，不再显示为首页折叠导航。网站标签数量与仓库案例统计独立，分类可以交叉。
 

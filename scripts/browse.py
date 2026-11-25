@@ -2,7 +2,7 @@
 import datetime as dt
 from urllib.parse import urlsplit, urlunsplit
 
-from common import is_brand_url, md_link, read_json, tracked_url
+from common import is_brand_url, localized, md_link, read_json, tracked_url
 from i18n import ui
 
 
@@ -139,7 +139,8 @@ def gallery_url_for_language(url, language):
     return urlunsplit((parts.scheme, parts.netloc, path, parts.query, parts.fragment))
 
 
-def render_browse(config, language):
+def render_web_gallery_browse(config, language):
+    """生成带网站语言前缀的外部图库分类导航链接。"""
     gallery = read_web_gallery()
     urls = {category['id']: category['website_url'] for category in config['categories']}
     all_url = gallery_url_for_language(config['brand']['gallery_url'], language)
@@ -150,4 +151,28 @@ def render_browse(config, language):
         url = gallery_url_for_language(urls[category['id']], language)
         links.append(md_link(title + f' ({category["count"]})',
                              tracked_url(url, 'category_' + category['id'], language, config)))
+    return ' · '.join(links)
+
+
+def category_case_counts(config, cases):
+    """统计每个配置分类在当前可见案例中的数量，按数量降序排列。"""
+    counts = {category['id']: 0 for category in config['categories']}
+    for item in cases:
+        cid = item.get('category')
+        if cid in counts:
+            counts[cid] += 1
+    indexed = [(category, counts[category['id']], index) for index, category in enumerate(config['categories'])]
+    indexed.sort(key=lambda row: (-row[1], row[2]))
+    return [(category, count) for category, count, _ in indexed]
+
+
+def render_browse(config, language, cases=None, *, anchor_prefix=''):
+    """优先使用页内分类锚点导航，避免点击分类即刻跳离 GitHub。"""
+    if cases is None:
+        from source_cases import read_cases, visible
+        cases = visible(read_cases())
+    links = [md_link(ui('All', '全部', language) + f' ({len(cases)})', f'{anchor_prefix}#all-cases')]
+    for category, count in category_case_counts(config, cases):
+        title = localized(category['label'], language)
+        links.append(md_link(f'{title} ({count})', f'{anchor_prefix}#category-{category["id"]}'))
     return ' · '.join(links)

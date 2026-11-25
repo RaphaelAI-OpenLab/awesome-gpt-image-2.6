@@ -30,7 +30,7 @@ A gray cat winks before a cap labelled Robin drops onto its head. The original r
 - Checked: 2026-11-06 (UTC)
 - Original page: Unknown. The retained original source capture was reviewed offline. Current live availability was not checked.
 - Media: Archived locally. Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.
-- [Per-file attempts and results](../../docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

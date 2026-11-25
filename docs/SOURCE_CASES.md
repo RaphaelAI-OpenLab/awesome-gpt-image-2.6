@@ -18,25 +18,24 @@
 
 如果工具未返回实际模型版本，独立生成记录的 `model.family` 使用 `null`、`variant` 使用 `unspecified`、`api_model_id` 使用 `null`，页面明确显示未注明。此类记录必须关联公开来源提示词，保留真实执行平台与双语局限说明；不能用提示词来源、用户指定的模型或工具名称代替实际模型证据。它们是该提示词的执行记录，不作为已核验 GPT Image 2.6 模型输出。
 
-### 网站标签导航与内部案例分类
+### 分类导航与内部案例分类
 
-首页“按分类浏览”展示 [Raphael GPT Image 2.6 图库](https://raphael.app/gpt-image-2-6-prompts) 的“全部”和八个分类标签，并直接链接对应的网站页面。标签顺序、中英文名称及数量快照由 `content/web-gallery.json` 维护；2026-11-13 核对时总计为 130。分类可能交叉，分类数量之和不要求等于总计，也不代表本仓库案例数量。更新时重新查看网站，连同 `verified_at` 一起更新快照。
+首页“按分类浏览”默认使用页内锚点直接跳转到仓库内各分类分区（精简本地化语种页跳转到规范英文首页 `README.md` 对应分类锚点），并实时统计每个分类已发布的来源案例数；网页端图库主入口保留在首屏“在网页图库中查看”区块。
 
-网站分类地址读取 `site.config.json` 的 `categories[].website_url`，“全部”读取 `brand.gallery_url`。生成器根据 README 语言添加已核验的网站语言前缀，并添加归因参数；新增或更名标签需同步维护 16 种语言的界面译文。
+网站图库标签快照仍保存在 `content/web-gallery.json` 中，分类与主页地址读取 `site.config.json` 的 `categories[].website_url` 与 `brand.gallery_url`。
 
 `content/browse.json` 继续保存内部的使用场景、风格、主题三组分类，供案例维护和本地制作工具读取，不再生成首页分类导航。每个子类通过 `case_ids` 关联已发布案例；新增案例仍至少选择一个使用场景，风格与主题依据作品、原文提示词或来源说明填写。同一案例可属于多个子类，不按文件格式推定风格。原有 `category` 字段继续用于 README 正文分组。
 
-精选由 `site.config.json` 中 `presentation.featured_case_ids` 按稳定案例 ID 指定顺序，`featured_limit` 控制展示上限；同步维护案例数据中的 `featured` 标记。精选保留全部案例中的编号，按“素材图片 → 原始提示词 → 作者与来源”完整展开，图片与 GIF 可混合排列；未公开提示词继续明确标记，静态海报不冒充 GIF。
+精选由 `site.config.json` 中 `presentation.featured_case_ids` 按稳定案例 ID 指定顺序，`featured_limit` 控制展示上限；同步维护案例数据中的 `featured` 标记。精选优先展示带有完整可复制原始提示词的案例，保留全部案例中的编号，按“素材图片 → 原始提示词 → 作者与来源”完整展开，图片与 GIF 可混合排列；未公开提示词继续明确标记，静态海报不冒充 GIF。
 
 - `content/source-cases.json`: source-linked cases, including works without public prompts. Both languages are required. The schema is `content/source-cases.schema.json`.
 - `content/prompts.json`: complete original prompts and reproducibility metadata. This dataset keeps its existing schema. Do not copy a source-case record into it without the actual prompt and appropriate reuse terms.
-- `docs/CASE_GALLERY.md`: dated research record, including media reports and unresolved leads. It is historical context, not the live case count.
-- 待核线索见 [模型或来源待核线索](PENDING_MODEL_LEADS_2026-11-08.md) 与 [其他存量待核线索](PENDING_REMAINING_LEADS_2026-11-09.md)。两份文档仅保留收录范围内的来源记录，不代表已确认使用 2.6，也不计入已发布案例。
-- 不直接编辑自动生成的 README 或案例详情页。已发布案例展示在主 README 分类中，并保留中英文详情页。
+- 历史采集对账与逐项核查记录已归档在 Git 历史中，当前有效的文件校验值、大小、格式与来源状态统一以 `content/source-cases.json` 为准。
+- 不直接编辑自动生成的 README 或案例详情页。完整案例列表展示在英文与简体中文主 README 中，并保留中英文独立详情页；其余语种 README 作为轻量化本地导览与精选案例入口。
 
 ### README 图片与提示词展示
 
-主 README 的 16 个语言版本按用途逐条展开主合集案例，顺序为结果图片、原始提示词、作者和来源，最后显示粗体的“👉 立即尝试 →”入口。正文和精选案例的该入口统一打开 `brand.gallery_url` 指定的 Raphael 提示词图库，不预填案例提示词；按案例 ID 与 README 语言添加归因参数。正文分类与精选保留页内案例入口，来源详情链接保留完整模型依据和素材使用条件；顶部的网站标签导航进入 Raphael 图库。参考输入单独折叠展示，不混入结果图片；未入库的图片保留原始链接和缺失说明。
+主 README（英文 `README.md` 与简体中文 `README.zh-CN.md`）按用途逐条展开全部已发布案例，顺序为结果图片、原始提示词、作者和来源，最后显示粗体的“👉 立即尝试 →”入口；其余 14 种语言版本展示完整的本地化首屏、API 速查与精选案例，并通过分类汇总表链接至规范英文主文档与对应语种的 Raphael 网页图库。正文和精选案例的“立即尝试”入口统一打开 `brand.gallery_url` 指定的 Raphael 提示词图库，不预填案例提示词；按案例 ID 与 README 语言添加归因参数。正文分类与精选保留页内案例入口，来源详情链接保留完整模型依据和素材使用条件。参考输入单独折叠展示，不混入结果图片；未入库的图片保留原始链接和缺失说明。
 
 已核对的来源提示词写入案例的 `prompt.entries`，每段包含双语 `title`、保留原文的 `text` 和准确的 `url`；多轮编辑按执行顺序分段，成组 GIF 按输出分别记录。可选的双语 `prompt.note` 用于说明拼接规则、输入缺失或从源图摘录的情况。只有 `source-only` 状态允许携带原文，不把图像描述或推测补写为原始提示词。`content/prompts.json` 继续用于带完整复现元数据的独立配方，摘录原文不等于已独立复现。
 
@@ -81,8 +80,8 @@ An unverified prompt does not relax any publication requirement for the case's e
 - Each source-case media object records its original `source_url`, local `path`, `kind` (`image`, `gif`, `svg`, `poster`, `video`), bilingual alt text and `rights`. Use `role: reference` for input/reference files in `assets/references/<id>/`, and `role: output` for generated outputs. Local files also require actual `mime_type`, `bytes` and SHA-256 `sha256`; the validator checks bytes, extension and media kind.
 - Use `licensed`, `permission` or `original` only when supported. `source-attributed` records a public example archived with its exact original source and an explicit note that a redistribution license was not located; do not present it as permission or an open license. Record `rights.evidence_url` as an exact HTTPS license/permission link, the exact original source for source-attributed media, or a public-safe in-repository evidence file. Include `credit` and bilingual limitations in `note`. Do not upload private email, secrets or personal data as evidence.
 - A `link-only` object must not have a local path. Local media must have source/rights evidence, exist at the required path and be at most 10 MiB each. A static poster is not a GIF; label it correctly.
-- Keep original-page access separate from media-file access. Optional case `access` metadata records `page_status`, `media_status`, bilingual notes, check date and an internal `report_path`. A direct-media HTTP 403 does not by itself mean the post cannot open. When an ordinary public browser shows the media, use its supported save/download path; stop at actual security or access denials. See the [per-file recheck](MEDIA_ACCESS_2026-11-05.md).
-- Use `kind: video` for MP4 animations, including X attachments labelled GIF by the interface. Local MP4 files use a repository download link, not image markup. Prefer a separately recorded local poster for image previews. Never mislabel MP4 as an original GIF. The [2026-11-05 media report](MEDIA_RIGHTS_2026-11-05.md) distinguishes archived media, unknown licensing and actual HTTP 403 failures.
+- Keep original-page access separate from media-file access. Optional case `access` metadata records `page_status`, `media_status`, bilingual notes, check date and an internal `report_path`. A direct-media HTTP 403 does not by itself mean the post cannot open. When an ordinary public browser shows the media, use its supported save/download path; stop at actual security or access denials. Per-file checksums, sizes, MIME types and access notes are stored in `content/source-cases.json` (earlier point-in-time audit logs are preserved in Git history).
+- Use `kind: video` for MP4 animations, including X attachments labelled GIF by the interface. Local MP4 files use a repository download link, not image markup. Prefer a separately recorded local poster for image previews. Never mislabel MP4 as an original GIF. Archived media, unknown licensing and actual access blocks are explicitly distinguished in `content/source-cases.json`.
 - View image pixels and play GIFs before describing their visual quality. Verify SVGs have no scripts, embedded secrets or external resource dependencies. Do not claim a playback/render check that was not run.
 - For complete prompt entries, keep preview/reference files local too and record applicable rights. A third-party preview with permission/licensing must have a `rights.license_url`; attribution alone is insufficient.
 

@@ -12,7 +12,7 @@
 [![自动校验](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![欢迎贡献](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> 🎨 GPT Image 2.6 创意提示词与案例精选合集。
+> 🎨 GPT Image 2.6（ChatGPT Images 2.6）创意提示词与视觉案例精选合集，涵盖 Flare 与 Sunburst、原生 GIF 提示词、SVG 矢量提示词与标注引导局部编辑。
 
 > ⚠️ **版权声明**：本仓库收录公开来源的提示词与案例，以及独立生成的图片，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml)，我们将立即移除。
 
@@ -54,13 +54,14 @@
 
 ## 🏷️ 按分类浏览
 
-[全部 (130)](https://raphael.app/zh/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_all&utm_term=zh-CN) · [GIF 动图 (79)](https://raphael.app/zh/gpt-image-2-6-prompts/gif-animation?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_gif-animation&utm_term=zh-CN) · [品牌商品 (7)](https://raphael.app/zh/gpt-image-2-6-prompts/brand-products?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_brand-products&utm_term=zh-CN) · [角色一致性 (20)](https://raphael.app/zh/gpt-image-2-6-prompts/characters-consistency?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_characters-consistency&utm_term=zh-CN) · [海报排版 (6)](https://raphael.app/zh/gpt-image-2-6-prompts/posters-typography?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_posters-typography&utm_term=zh-CN) · [局部编辑 (10)](https://raphael.app/zh/gpt-image-2-6-prompts/markup-edits?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_markup-edits&utm_term=zh-CN) · [信息图 (8)](https://raphael.app/zh/gpt-image-2-6-prompts/infographics?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_infographics&utm_term=zh-CN) · [SVG 素材 (3)](https://raphael.app/zh/gpt-image-2-6-prompts/svg-design-assets?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_svg-design-assets&utm_term=zh-CN) · [室内建筑 (2)](https://raphael.app/zh/gpt-image-2-6-prompts/interiors-architecture?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_interiors-architecture&utm_term=zh-CN)
+[全部 (158)](#all-cases) · [GIF 与动画 (89)](#category-gif-animation) · [角色与一致性 (26)](#category-characters-consistency) · [标注与局部编辑 (11)](#category-markup-edits) · [海报与文字排版 (9)](#category-posters-typography) · [品牌与商品 (8)](#category-brand-products) · [信息图 (8)](#category-infographics) · [SVG 与设计素材 (4)](#category-svg-design-assets) · [室内与建筑 (3)](#category-interiors-architecture)
 
 <a id="contents"></a>
 
 ## 📖 目录
 
-- [什么是 GPT Image 2.6？](#about)
+- [什么是 GPT Image 2.6（ChatGPT Images 2.6）？](#about)
+- [OpenAI API 速查（Flare 与 Sunburst）](#api-quickstart)
 - [统计数据](#statistics)
 - [精选案例](#featured)
 - [全部案例](#all-cases)
@@ -73,11 +74,74 @@
 
 <a id="about"></a>
 
-## 🤔 什么是 GPT Image 2.6？
+## 🤔 什么是 GPT Image 2.6（ChatGPT Images 2.6）？
 
-OpenAI 于 2026 年 11 月 4 日发布 Images 2.6。本合集记录 Sunburst 与 Flare 版本的图片生成、编辑，以及官方展示的 SVG 与 GIF 工作流；具体支持情况按每个案例记录，不作推定。
+OpenAI 于 2026 年 11 月 4 日发布 Images 2.6（ChatGPT Images 2.6 / GPT Image 2.6），提供 `gpt-image-2.6-sunburst` 与 `gpt-image-2.6-flare` 两个 API 模型版本。本合集整理了可复制的图像生成、标注引导局部编辑、原生 GIF 动图与 SVG 矢量提示词及案例；具体版本支持情况按每个案例记录，不作推定。
 
 [官方发布说明](https://openai.com/index/introducing-images-2-6/) · [模型文档](https://developers.openai.com/api/docs/guides/image-generation)
+
+### GPT-Image-2.6 Flare vs Sunburst 与核心工作流
+
+| 版本 / 工作流 | 适用场景 | 查看案例 |
+| --- | --- | --- |
+| GPT-Image-2.6 Sunburst（`gpt-image-2.6-sunburst`） | 高细节画面、复杂排版与精准文字渲染、多轮角色一致性、原生 GIF 与 SVG 输出 | [精选案例](#featured) |
+| GPT-Image-2.6 Flare（`gpt-image-2.6-flare`） | 低延迟快速迭代、草图探索、批量高吞吐出图、局部标注编辑、GIF 与 SVG 输出 | [全部案例](#all-cases) |
+| 原生 GIF 提示词（Native GIF Prompts） | 无缝循环动图（`output_format: gif`，2–16 帧），适合表情包、产品演示与动态分镜 | [GIF 与动画](#category-gif-animation) |
+| SVG 矢量提示词（SVG Vector Prompts） | 清晰可编辑的矢量 Logo、图标、界面概念稿与设计素材（`output_format: svg`） | [SVG 与设计素材](#category-svg-design-assets) |
+| 标注引导局部编辑（Markup-Guided Editing） | 在参考图上画圈或标注，精准完成局部换色、物件替换与多语言版式本地化 | [标注与局部编辑](#category-markup-edits) |
+
+<a id="api-quickstart"></a>
+
+## ⚡ OpenAI API 速查（Flare 与 Sunburst）
+
+从本合集复制任意提示词，即可直接通过 OpenAI Images API 调用（追求速度选 `gpt-image-2.6-flare`，追求高细节选 `gpt-image-2.6-sunburst`）。
+
+```python
+import base64
+from openai import OpenAI
+
+client = OpenAI()  # Reads OPENAI_API_KEY from environment
+
+# 1) High-detail still image with GPT-Image-2.6 Sunburst (or "gpt-image-2.6-flare" for speed)
+image = client.images.generate(
+    model="gpt-image-2.6-sunburst",
+    prompt="Editorial studio photo of a cobalt ceramic vase on warm oak, soft morning light",
+    size="1024x1024",
+    quality="high",
+)
+
+# 2) Native looping GIF prompt (output_format="gif", 2-16 frames)
+gif = client.images.generate(
+    model="gpt-image-2.6-flare",
+    prompt="A tiny lantern-carrying monkey in a snowy pine forest at dusk, seamless loop animation",
+    output_format="gif",
+    frame_count=8,
+    frame_duration_ms=150,
+)
+with open("loop.gif", "wb") as f:
+    f.write(base64.b64decode(gif.data[0].b64_json))
+
+# 3) Editable SVG vector prompt (output_format="svg")
+svg = client.images.generate(
+    model="gpt-image-2.6-sunburst",
+    prompt="Minimalist bakery logo 'Field & Flour', clean vector silhouette, warm balanced negative space",
+    output_format="svg",
+)
+with open("logo.svg", "wb") as f:
+    f.write(base64.b64decode(svg.data[0].b64_json))
+```
+
+```bash
+curl https://api.openai.com/v1/images/generations \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -d '{
+    "model": "gpt-image-2.6-flare",
+    "prompt": "Minimalist geometric bakery logo on cream paper, clean vector aesthetic",
+    "size": "1024x1024",
+    "output_format": "svg"
+  }'
+```
 
 <a id="statistics"></a>
 
@@ -175,23 +239,34 @@ A small red-domed observatory on a rocky bluff against a locked circular composi
 
 ---
 
-<a id="featured-case-launch-picsart"></a>
+<a id="featured-case-docs-bakery-svg"></a>
 
-### 37. [彩色玻璃鲸鱼](#source-case-launch-picsart)
+### 66. [面包店 SVG 标志](#source-case-docs-bakery-svg)
 
 <div align="center">
-<a href="assets/examples/launch-picsart/source-01.webp"><img src="assets/examples/launch-picsart/source-01.webp" alt="鲸鱼图" width="700" /></a><br /><sub>鲸鱼图</sub>
+<a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG 标志" width="700" /></a><br /><sub>Flare SVG 标志</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg" alt="Sunburst SVG 标志" width="700" /></a><br /><sub>Sunburst SVG 标志</sub>
 </div>
 
 **原始提示词**
 
-**提示词未公开**
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
 
-**作者**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
 
-**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [来源详情](cases/launch-picsart/README.zh-CN.md)
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=zh-CN)**
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [来源详情](cases/docs-bakery-svg/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-svg&utm_term=zh-CN)**
 
 ---
 
@@ -390,23 +465,40 @@ A cozy pixel-art greenhouse at dusk: mint roof panes, terra-cotta pots and a tin
 
 ---
 
-<a id="featured-case-launch-town"></a>
+<a id="featured-case-docs-vase-markup"></a>
 
-### 74. [Monty 打字状态动画](#source-case-launch-town)
+### 55. [标注花瓶后局部换色](#source-case-docs-vase-markup)
 
 <div align="center">
-<a href="assets/examples/launch-town/source-01.webp"><img src="assets/examples/launch-town/source-01.webp" alt="动画海报" width="700" /></a><br /><sub>动画海报</sub>
+<a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp" alt="将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）" width="700" /></a><br /><sub>将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Flare 输出）</sub>
 </div>
+
+<div align="center">
+<a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp" alt="将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）" width="700" /></a><br /><sub>将餐桌花瓶改为钴蓝色并移除红色标记的厨房图像（GPT Image 2.6 Sunburst 输出）</sub>
+</div>
+
+**参考图**
+
+参考 / 输入图，不是生成结果。
+
+<div align="center">
+<a href="assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp"><img src="assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp" alt="参考输入图：餐桌上条纹花瓶被红圈标记的厨房照片" width="700" /></a><br /><sub>参考输入图：餐桌上条纹花瓶被红圈标记的厨房照片</sub>
+</div>
+
 
 **原始提示词**
 
-**提示词未公开**
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
 
-**作者**: [Town](https://openai.com/index/introducing-images-2-6/)
+[原提示词见来源](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
-**原始来源**: [官方发布演示](https://openai.com/index/introducing-images-2-6/) · [来源详情](cases/launch-town/README.zh-CN.md)
+**作者**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
-**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=zh-CN)**
+**原始来源**: [官方文档](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [来源详情](cases/docs-vase-markup/README.zh-CN.md)
+
+**[👉 立即尝试 →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-vase-markup&utm_term=zh-CN)**
 
 ---
 
@@ -5486,8 +5578,6 @@ Japanese Youth MV / Japanese Summer Pop / Youthful Cinematic Montage。
 
 ---
 
-[检索记录、媒体报道与待核实线索](docs/CASE_GALLERY.md)
-
 <a id="collection"></a>
 
 ## 📝 完整提示词
@@ -6363,7 +6453,7 @@ Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
 
 来源案例写入 content/source-cases.json，完整提示词写入 content/prompts.json。生成器维护索引与中英文详情页。
 
-[贡献指南](CONTRIBUTING.md) · [案例与素材维护指南](docs/SOURCE_CASES.md) · [维护者填充指南](docs/FILLING_GUIDE.zh-CN.md)
+[贡献指南](CONTRIBUTING.md) · [案例与素材维护指南](docs/SOURCE_CASES.md) · [多语言说明](docs/LANGUAGES.md)
 
 <a id="license"></a>
 
@@ -6371,7 +6461,7 @@ Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
 
 代码、原创说明与装饰性 SVG 占位图采用 MIT。第三方提示词及素材保留各自条款，逐项记录来源与使用状态。改编的 README 结构另见下方署名。
 
-[仓库许可证](LICENSE)
+[仓库许可证](LICENSE) · [署名说明](docs/ATTRIBUTION.md)
 
 <a id="acknowledgements"></a>
 

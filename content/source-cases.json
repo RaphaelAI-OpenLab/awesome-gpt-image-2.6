@@ -202,7 +202,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": true
   },
   {
     "id": "docs-lantern-gif",
@@ -1213,7 +1213,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": false
+    "featured": true
   },
   {
     "id": "docs-spanish-edit",
@@ -3135,7 +3135,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": false
   },
   {
     "id": "launch-picsart",
@@ -3194,7 +3194,7 @@
     },
     "added_at": "2026-11-05",
     "verified_at": "2026-11-05",
-    "featured": true
+    "featured": false
   },
   {
     "id": "launch-fal",
@@ -3607,7 +3607,7 @@
         "en": "No media URL was exposed by the blocked page. No direct-media request was made, so media availability remains unknown.",
         "zh-CN": "被拦截页面未提供媒体地址，未发起直接媒体请求，素材可获取性仍未知。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -3657,7 +3657,7 @@
         "en": "No media URL was exposed by the blocked page. No direct-media request was made, so media availability remains unknown.",
         "zh-CN": "被拦截页面未提供媒体地址，未发起直接媒体请求，素材可获取性仍未知。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -3752,7 +3752,7 @@
         "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
         "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -3847,7 +3847,7 @@
         "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
         "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -4008,7 +4008,7 @@
         "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
         "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -4103,7 +4103,7 @@
         "en": "All recorded media files are now archived locally. Earlier direct HTTP 403 results did not mean the original post was inaccessible; normal browser saving succeeded.",
         "zh-CN": "已记录素材均已存入仓库。此前直接 HTTP 请求返回 403，不等于原帖打不开；本次正常浏览器保存成功。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-05.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -6920,7 +6920,7 @@
         "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
         "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7012,7 +7012,7 @@
         "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
         "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7104,7 +7104,7 @@
         "en": "Byte-identical archived originals were format-, metadata- and visually checked. Link-only items have no repository media copy. No real-time playback claim is made.",
         "zh-CN": "已核对原始存档字节、格式、元数据及画面。仅链接项目不含仓库素材副本；不声称已实时播放。"
       },
-      "report_path": "docs/MEDIA_ACCESS_2026-11-09_COMMUNITY_ANIMATION.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7187,7 +7187,7 @@
         "en": "Original bytes, SHA-256, sizes and actual formats were checked. Every raster frame was decoded and visually reviewed; the unchanged SVG was structurally checked and rendered for review. No new timed playback or model generation.",
         "zh-CN": "核对原字节、SHA-256、大小及真实格式，逐帧解码并目视检查；原SVG作结构检查并渲染复核。未重新实时播放或执行模型生成。"
       },
-      "report_path": "docs/MORDEN_AI_GARAGE_RECOVERY_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7274,7 +7274,7 @@
         "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
         "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
       },
-      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7347,7 +7347,7 @@
         "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
         "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
       },
-      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7420,7 +7420,7 @@
         "en": "All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.",
         "zh-CN": "留存原文件均核对哈希、完整解码并目视审核，不发布私有质检派生图。MaxVideoAI编辑的共同输入仅在生成案例中保存一次。"
       },
-      "report_path": "docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7493,7 +7493,7 @@
         "en": "Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.",
         "zh-CN": "这三个工作流的四份留存原件已解码、核对哈希和大小并目视检查。设置截图仅作为辅助证据，未再次下载媒体。"
       },
-      "report_path": "docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7566,7 +7566,7 @@
         "en": "Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.",
         "zh-CN": "这三个工作流的四份留存原件已解码、核对哈希和大小并目视检查。设置截图仅作为辅助证据，未再次下载媒体。"
       },
-      "report_path": "docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7661,7 +7661,7 @@
         "en": "Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.",
         "zh-CN": "这三个工作流的四份留存原件已解码、核对哈希和大小并目视检查。设置截图仅作为辅助证据，未再次下载媒体。"
       },
-      "report_path": "docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7744,7 +7744,7 @@
         "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
         "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
       },
-      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7827,7 +7827,7 @@
         "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
         "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
       },
-      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -7929,7 +7929,7 @@
         "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
         "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
       },
-      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8039,7 +8039,7 @@
         "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
         "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
       },
-      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8122,7 +8122,7 @@
         "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
         "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
       },
-      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8205,7 +8205,7 @@
         "en": "Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.",
         "zh-CN": "可正常访问的原件已对应准确页面地址、再次取回逐字节比对、解码并目视检查；仅链接的例外逐文件说明。未独立复现生成。"
       },
-      "report_path": "docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8278,7 +8278,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8352,7 +8352,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8426,7 +8426,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8500,7 +8500,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8588,7 +8588,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8856,7 +8856,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -8929,7 +8929,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -9002,7 +9002,7 @@
         "en": "Exact current article asset URLs returned byte-identical originals. Formats and all GIF frames were decoded and visually inspected. Any source-only exception is explained per file.",
         "zh-CN": "当前原文中的准确素材地址均返回与留存文件逐字节相同的原件，已核对格式并查看所有 GIF 帧；仅链接的例外逐文件说明。"
       },
-      "report_path": "docs/NYLE_TEMAE_ZUNBEHO_KOKONE_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -9104,7 +9104,7 @@
         "en": "Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.",
         "zh-CN": "本批八个文件返回HTTP200，与留存哈希及字节数一致。所有视频帧及封面已解码并目视检查。被拒参考图继续仅链接，无法取得的合集视频流不收录。"
       },
-      "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -9177,7 +9177,7 @@
         "en": "Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.",
         "zh-CN": "本批八个文件返回HTTP200，与留存哈希及字节数一致。所有视频帧及封面已解码并目视检查。被拒参考图继续仅链接，无法取得的合集视频流不收录。"
       },
-      "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {
@@ -9360,7 +9360,7 @@
         "en": "Eight files across this batch returned HTTP200 and matched their retained hashes and byte sizes. All video frames and the poster were decoded and visually reviewed. The denied reference remains link-only; inaccessible montage streams are excluded.",
         "zh-CN": "本批八个文件返回HTTP200，与留存哈希及字节数一致。所有视频帧及封面已解码并目视检查。被拒参考图继续仅链接，无法取得的合集视频流不收录。"
       },
-      "report_path": "docs/KIKI_EXISTING_WORKS_AUDIT_2026-11-08.md"
+      "report_path": "docs/SOURCE_CASES.md"
     }
   },
   {

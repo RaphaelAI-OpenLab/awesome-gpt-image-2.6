@@ -24,7 +24,7 @@ The comparison contains a pink birthday cake on the left and a GPT Image 2.5 Sun
 - Checked: 2026-11-05 (UTC)
 - Original page: Accessible. The 2026-11-05 collection record maps the original post to this exact file. On 2026-11-08, the original composite pixels and their printed model labels were checked offline; the X post was not reopened.
 - Media: Archived locally. All retained original files were hash-checked, decoded and visually reviewed. No private QA derivative is published. The MaxVideoAI edit reference remains stored once in its generation case.
-- [Per-file attempts and results](../../docs/DESIGNARENA_PROVIDERS_RECOVERY_AUDIT_2026-11-08.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

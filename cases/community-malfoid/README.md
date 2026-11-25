@@ -24,7 +24,7 @@ The author says ChatGPT Image 2.6 animated a static illustration. Prompt and var
 - Checked: 2026-11-05 (UTC)
 - Original page: Blocked in this browser. The exact original post shows Reddit's network-security block in this browser. Numeric HTTP status was not exposed; this is not evidence that the post is deleted or globally unavailable.
 - Media: Unknown. No media URL was exposed by the blocked page. No direct-media request was made, so media availability remains unknown.
-- [Per-file attempts and results](../../docs/MEDIA_ACCESS_2026-11-05.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

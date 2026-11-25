@@ -12,7 +12,7 @@
 [![Validation CI](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/actions/workflows/validate.yml)
 [![Contributions welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> 🎨 A curated collection of creative prompts and visual examples for GPT Image 2.6.
+> 🎨 A curated collection of GPT Image 2.6 & ChatGPT Images 2.6 prompts and visual examples — covering Flare & Sunburst, native GIF prompts, SVG vector prompts, and markup-guided editing.
 
 > ⚠️ **Copyright notice**: This collection includes prompts and examples from public sources and independently generated images for educational purposes only. If you believe any content infringes your rights, please [open an issue](https://github.com/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts/issues/new?template=report-problem.yml), and we will remove it immediately.
 
@@ -54,13 +54,14 @@ Free generation uses the basic mode. Other models have their own credit and plan
 
 ## 🏷️ Browse by category
 
-[All (130)](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_all&utm_term=en) · [GIF animation (79)](https://raphael.app/gpt-image-2-6-prompts/gif-animation?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_gif-animation&utm_term=en) · [Brand & products (7)](https://raphael.app/gpt-image-2-6-prompts/brand-products?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_brand-products&utm_term=en) · [Character consistency (20)](https://raphael.app/gpt-image-2-6-prompts/characters-consistency?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_characters-consistency&utm_term=en) · [Posters & type (6)](https://raphael.app/gpt-image-2-6-prompts/posters-typography?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_posters-typography&utm_term=en) · [Markup edits (10)](https://raphael.app/gpt-image-2-6-prompts/markup-edits?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_markup-edits&utm_term=en) · [Infographics (8)](https://raphael.app/gpt-image-2-6-prompts/infographics?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_infographics&utm_term=en) · [SVG assets (3)](https://raphael.app/gpt-image-2-6-prompts/svg-design-assets?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_svg-design-assets&utm_term=en) · [Interiors (2)](https://raphael.app/gpt-image-2-6-prompts/interiors-architecture?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=category_interiors-architecture&utm_term=en)
+[All (158)](#all-cases) · [GIF & animation (89)](#category-gif-animation) · [Characters & consistency (26)](#category-characters-consistency) · [Markup & targeted edits (11)](#category-markup-edits) · [Posters & typography (9)](#category-posters-typography) · [Brand & product visuals (8)](#category-brand-products) · [Infographics (8)](#category-infographics) · [SVG & design assets (4)](#category-svg-design-assets) · [Interiors & architecture (3)](#category-interiors-architecture)
 
 <a id="contents"></a>
 
 ## 📖 Contents
 
-- [What is GPT Image 2.6?](#about)
+- [What is GPT Image 2.6 (ChatGPT Images 2.6)?](#about)
+- [OpenAI API Quickstart (Flare & Sunburst)](#api-quickstart)
 - [Statistics](#statistics)
 - [Featured cases](#featured)
 - [All cases](#all-cases)
@@ -73,11 +74,74 @@ Free generation uses the basic mode. Other models have their own credit and plan
 
 <a id="about"></a>
 
-## 🤔 What is GPT Image 2.6?
+## 🤔 What is GPT Image 2.6 (ChatGPT Images 2.6)?
 
-OpenAI introduced Images 2.6 on November 4, 2026. This collection covers the Sunburst and Flare model variants, image creation and editing, plus documented SVG and GIF workflows. Variant support is recorded per case rather than assumed.
+OpenAI introduced Images 2.6 (ChatGPT Images 2.6 / GPT Image 2.6) on November 4, 2026, with two API model variants — `gpt-image-2.6-sunburst` and `gpt-image-2.6-flare`. This collection organizes copyable prompts and visual examples for image generation, markup-guided editing, native GIF animation prompts, and SVG vector prompts. Variant support is recorded per case rather than assumed.
 
 [Official announcement](https://openai.com/index/introducing-images-2-6/) · [Model documentation](https://developers.openai.com/api/docs/guides/image-generation)
+
+### GPT-Image-2.6 Flare vs Sunburst & Key Workflows
+
+| Workflow / Variant | Best for | Explore examples |
+| --- | --- | --- |
+| GPT-Image-2.6 Sunburst (`gpt-image-2.6-sunburst`) | Higher detail, complex layouts, exact typography, multi-step character consistency, native GIF & SVG outputs | [Featured cases](#featured) |
+| GPT-Image-2.6 Flare (`gpt-image-2.6-flare`) | Low-latency rapid iteration, quick drafts, high-throughput generation, markup edits, GIF & SVG outputs | [All cases](#all-cases) |
+| Native GIF Prompts | Seamless looping animated GIFs (`output_format: gif`, 2–16 frames) for stickers, demos, and storyboards | [GIF & animation](#category-gif-animation) |
+| SVG Vector Prompts | Clean editable vector logos, icons, UI concepts, and design assets (`output_format: svg`) | [SVG & design assets](#category-svg-design-assets) |
+| Markup-Guided Editing | Circle or annotate a reference photo to recolor objects, swap items, or localize layouts accurately | [Markup & targeted edits](#category-markup-edits) |
+
+<a id="api-quickstart"></a>
+
+## ⚡ OpenAI API Quickstart (Flare & Sunburst)
+
+Copy a prompt from this collection and run it directly with the OpenAI Images API (`gpt-image-2.6-flare` for speed or `gpt-image-2.6-sunburst` for higher detail).
+
+```python
+import base64
+from openai import OpenAI
+
+client = OpenAI()  # Reads OPENAI_API_KEY from environment
+
+# 1) High-detail still image with GPT-Image-2.6 Sunburst (or "gpt-image-2.6-flare" for speed)
+image = client.images.generate(
+    model="gpt-image-2.6-sunburst",
+    prompt="Editorial studio photo of a cobalt ceramic vase on warm oak, soft morning light",
+    size="1024x1024",
+    quality="high",
+)
+
+# 2) Native looping GIF prompt (output_format="gif", 2-16 frames)
+gif = client.images.generate(
+    model="gpt-image-2.6-flare",
+    prompt="A tiny lantern-carrying monkey in a snowy pine forest at dusk, seamless loop animation",
+    output_format="gif",
+    frame_count=8,
+    frame_duration_ms=150,
+)
+with open("loop.gif", "wb") as f:
+    f.write(base64.b64decode(gif.data[0].b64_json))
+
+# 3) Editable SVG vector prompt (output_format="svg")
+svg = client.images.generate(
+    model="gpt-image-2.6-sunburst",
+    prompt="Minimalist bakery logo 'Field & Flour', clean vector silhouette, warm balanced negative space",
+    output_format="svg",
+)
+with open("logo.svg", "wb") as f:
+    f.write(base64.b64decode(svg.data[0].b64_json))
+```
+
+```bash
+curl https://api.openai.com/v1/images/generations \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -d '{
+    "model": "gpt-image-2.6-flare",
+    "prompt": "Minimalist geometric bakery logo on cream paper, clean vector aesthetic",
+    "size": "1024x1024",
+    "output_format": "svg"
+  }'
+```
 
 <a id="statistics"></a>
 
@@ -175,23 +239,34 @@ A small red-domed observatory on a rocky bluff against a locked circular composi
 
 ---
 
-<a id="featured-case-launch-picsart"></a>
+<a id="featured-case-docs-bakery-svg"></a>
 
-### 37. [Stained-glass whale](#source-case-launch-picsart)
+### 66. [Bakery SVG logo](#source-case-docs-bakery-svg)
 
 <div align="center">
-<a href="assets/examples/launch-picsart/source-01.webp"><img src="assets/examples/launch-picsart/source-01.webp" alt="Source image 1" width="700" /></a><br /><sub>Source image 1</sub>
+<a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-flare.svg" alt="Flare SVG logo" width="700" /></a><br /><sub>Flare SVG logo</sub>
+</div>
+
+<div align="center">
+<a href="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg"><img src="assets/examples/docs-bakery-svg/field-and-flour-gpt-image-2-6-sunburst.svg" alt="Sunburst SVG logo" width="700" /></a><br /><sub>Sunburst SVG logo</sub>
 </div>
 
 **Original prompt**
 
-**Prompt not public**
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
 
-**Author**: [Picsart](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api)
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
 
-**Original source**: [Official launch demo](https://openai.com/index/introducing-images-2-6/#more-ways-to-create-and-edit-in-the-api) · [Source details](cases/launch-picsart/README.md)
+**Author**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output)
 
-**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-picsart&utm_term=en)**
+**Original source**: [Official documentation](https://developers.openai.com/api/docs/guides/image-prompting#generate-svg-output) · [Source details](cases/docs-bakery-svg/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-bakery-svg&utm_term=en)**
 
 ---
 
@@ -390,23 +465,40 @@ A cozy pixel-art greenhouse at dusk: mint roof panes, terra-cotta pots and a tin
 
 ---
 
-<a id="featured-case-launch-town"></a>
+<a id="featured-case-docs-vase-markup"></a>
 
-### 74. [Monty typing indicator animation](#source-case-launch-town)
+### 55. [Recolor a marked vase](#source-case-docs-vase-markup)
 
 <div align="center">
-<a href="assets/examples/launch-town/source-01.webp"><img src="assets/examples/launch-town/source-01.webp" alt="Static poster 1" width="700" /></a><br /><sub>Static poster 1</sub>
+<a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-flare.webp" alt="GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table" width="700" /></a><br /><sub>GPT Image 2.6 Flare output: Flare edit of the kitchen with a blue vase and dried stems on the table</sub>
 </div>
+
+<div align="center">
+<a href="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp"><img src="assets/examples/docs-vase-markup/markup-vase-gpt-image-2-6-sunburst.webp" alt="GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed" width="700" /></a><br /><sub>GPT Image 2.6 Sunburst output: Sunburst edit of the kitchen with the same vase in cobalt blue and the red circle removed</sub>
+</div>
+
+**Reference images**
+
+Reference/input image, not a generated output.
+
+<div align="center">
+<a href="assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp"><img src="assets/references/docs-vase-markup/markup-vase-input-gpt-image-2-6.webp" alt="Reference input: Kitchen photo with a red circle around the striped vase on the dining table" width="700" /></a><br /><sub>Reference input: Kitchen photo with a red circle around the striped vase on the dining table</sub>
+</div>
+
 
 **Original prompt**
 
-**Prompt not public**
+```text
+Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Keep its shape, the dried stems, and the rest of the kitchen unchanged. Remove the red circle from the finished photo.
+```
 
-**Author**: [Town](https://openai.com/index/introducing-images-2-6/)
+[Original prompt at source](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
-**Original source**: [Official launch demo](https://openai.com/index/introducing-images-2-6/) · [Source details](cases/launch-town/README.md)
+**Author**: [OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup)
 
-**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_launch-town&utm_term=en)**
+**Original source**: [Official documentation](https://developers.openai.com/api/docs/guides/image-prompting#guide-an-edit-with-markup) · [Source details](cases/docs-vase-markup/README.md)
+
+**[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_docs-vase-markup&utm_term=en)**
 
 ---
 
@@ -5486,8 +5578,6 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 ---
 
-[Search log, media report and unresolved leads](docs/CASE_GALLERY.md)
-
 <a id="collection"></a>
 
 ## 📝 Full prompts
@@ -6363,7 +6453,7 @@ The complete source prompt was used unchanged without source images. Evidence an
 
 Add source cases to content/source-cases.json and complete prompts to content/prompts.json. The generator builds the index and bilingual detail pages.
 
-[Contribution guide](CONTRIBUTING.md) · [Source case and media guide](docs/SOURCE_CASES.md) · [Maintainer guide (Chinese)](docs/FILLING_GUIDE.zh-CN.md)
+[Contribution guide](CONTRIBUTING.md) · [Source case and media guide](docs/SOURCE_CASES.md) · [Language guide](docs/LANGUAGES.md)
 
 <a id="license"></a>
 
@@ -6371,7 +6461,7 @@ Add source cases to content/source-cases.json and complete prompts to content/pr
 
 Code, original documentation and decorative SVG placeholders use MIT. Third-party prompts and media retain their own terms and have item-level provenance and reuse status. The adapted README layout is credited separately below.
 
-[Repository license](LICENSE)
+[Repository license](LICENSE) · [Attribution notes](docs/ATTRIBUTION.md)
 
 <a id="acknowledgements"></a>
 

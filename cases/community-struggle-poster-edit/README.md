@@ -28,7 +28,7 @@ Two stages of one editing workflow: rocket/AI evolution title, then gear/Image 2
 - Checked: 2026-11-08 (UTC)
 - Original page: Accessible. The existing original article returned HTTP 200. Its own hands-on section maps this specific workflow, prompt and media to a creator-reported Images 2.6 test; the variant remains unspecified.
 - Media: Partially archived. Normally accessible originals were matched to exact page URLs, re-fetched for byte comparison, decoded and visually inspected. Link-only exceptions, if any, are explained per file. No generation was independently reproduced.
-- [Per-file attempts and results](../../docs/WEEL_STRUGGLE_SOURCE_AUDIT_2026-11-08.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 

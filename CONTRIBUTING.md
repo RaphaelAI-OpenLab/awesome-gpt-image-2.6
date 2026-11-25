@@ -46,7 +46,7 @@ python3 scripts/build_readme.py --check
 
 The generated README and case pages should be committed with the dataset and assets. Do not edit generated files directly.
 
-详细中文操作见 [填充指南](docs/FILLING_GUIDE.zh-CN.md)。
+详细中文维护说明见 [来源案例与本地素材指南](docs/SOURCE_CASES.md)。
 
 ## Attribution / 来源
 

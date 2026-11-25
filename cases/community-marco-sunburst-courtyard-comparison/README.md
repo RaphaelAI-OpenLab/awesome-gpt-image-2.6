@@ -24,7 +24,7 @@ Two courtyard portraits compare the same styled subject and location. The origin
 - Checked: 2026-11-08 (UTC)
 - Original page: Blocked in this browser. The current direct original-post request returned HTTP 403. No retry or alternate access route was used. Verification uses the retained 5 November original browser article capture, including author, caption, post URL and exact attachment URLs; this is not a live-access success.
 - Media: Archived locally. Four retained source originals across these three workflows were decoded, hash/size checked and visually inspected. The settings screenshot is supporting evidence only. No media was downloaded again.
-- [Per-file attempts and results](../../docs/MARCO_RETAINED_SOURCE_AUDIT_2026-11-08.md)
+- [Per-file attempts and results](../../docs/SOURCE_CASES.md)
 
 ## Original prompt
 
