@@ -155,10 +155,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Prompts insgesamt | **156** |
 | ⭐ Ausgewählt | **12** |
-| 🗂️ Materialien im CMS | **16** |
-| 🔄 Zuletzt aktualisiert | **2026-11-26 UTC 08:09:20** |
+| 🗂️ Materialien im CMS | **20** |
+| 🔄 Zuletzt aktualisiert | **2026-11-26 UTC 13:54:37** |
 
-<!-- cms-stats 16 2026-11-26T08:09:20Z -->
+<!-- cms-stats 20 2026-11-26T13:54:37Z -->
 
 <a id="featured"></a>
 
