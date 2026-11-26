@@ -155,10 +155,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Tổng số prompt | **156** |
 | ⭐ Nổi bật | **12** |
-| 🗂️ Tổng số tư liệu trong CMS | **13** |
-| 🔄 Cập nhật lần cuối | **2026-11-26 UTC 04:04:20** |
+| 🗂️ Tổng số tư liệu trong CMS | **16** |
+| 🔄 Cập nhật lần cuối | **2026-11-26 UTC 08:09:20** |
 
-<!-- cms-stats 13 2026-11-26T04:04:20Z -->
+<!-- cms-stats 16 2026-11-26T08:09:20Z -->
 
 <a id="featured"></a>
 
