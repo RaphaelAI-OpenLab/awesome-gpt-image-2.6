@@ -69,6 +69,7 @@ Tạo ảnh miễn phí sử dụng chế độ cơ bản. Yêu cầu về tín 
 - [Thống kê](#statistics)
 - [Trường hợp nổi bật](#featured)
 - [Tất cả trường hợp](#all-cases)
+- [Mới thêm gần đây](#cms-latest)
 - [Câu lệnh đầy đủ](README.md#collection)
 - [Cách sử dụng](#using)
 - [Đóng góp](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Tổng số prompt | **156** |
 | ⭐ Nổi bật | **12** |
-| 🗂️ Tổng số tư liệu trong CMS | **36** |
-| 🔄 Cập nhật lần cuối | **2026-11-27 UTC 00:35:33** |
+| 🗂️ Tổng số tư liệu trong CMS | **44** |
+| 🔄 Cập nhật lần cuối | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Phiên bản ngôn ngữ này gồm phần giới thiệu đã dịch, hướng 
 **[👉 Xem toàn bộ bộ sưu tập bằng tiếng Anh (đủ 158 ví dụ) →](README.md#all-cases)**
 
 [Mở thư viện web Raphael tiếng Việt ↗](https://raphael.app/vi/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=vi-VN)
+
+<a id="cms-latest"></a>
+
+## 🆕 Mới thêm gần đây (44)
+
+[Mới thêm gần đây (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

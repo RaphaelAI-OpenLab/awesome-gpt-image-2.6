@@ -66,6 +66,7 @@ class CollectionTests(unittest.TestCase):
                 self.assertIn(case['source']['url'], generated[ROOT / route])
 
     def test_displayed_images_are_local_except_approved_identity_badges(self):
+        from cms_materials import is_approved_cms_media_url
         approved_badges = {
             'https://awesome.re/badge.svg',
             'https://img.shields.io/github/stars/RaphaelAI-OpenLab/awesome-gpt-image-2.6-prompts?style=social',
@@ -79,6 +80,8 @@ class CollectionTests(unittest.TestCase):
             for source in sources:
                 if path.parent == ROOT and source in approved_badges:
                     self.assertIn(source, text.split('\n---', 1)[0])
+                    continue
+                if is_approved_cms_media_url(source, self.config):
                     continue
                 self.assertNotRegex(source, r'^(?:https?:|//)')
                 self.assertTrue((path.parent / source).is_file(), source)

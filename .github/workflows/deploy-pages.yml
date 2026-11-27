@@ -7,8 +7,14 @@ on:
       - 'site.config.json'
       - 'content/source-cases.json'
       - 'content/prompts.json'
+      - 'content/cms-materials.json'
+      - 'scripts/cms_materials.py'
       - 'scripts/build_pages.py'
       - '.github/workflows/deploy-pages.yml'
+  workflow_run:
+    workflows: ['Sync CMS materials & stats']
+    types: [completed]
+    branches: ['main']
   workflow_dispatch:
 
 permissions:
@@ -22,9 +28,12 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'

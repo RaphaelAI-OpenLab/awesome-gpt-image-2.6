@@ -69,6 +69,7 @@ Neden web sitesinde oluşturmalısınız?
 - [İstatistikler](#statistics)
 - [Öne çıkan örnekler](#featured)
 - [Tüm örnekler](#all-cases)
+- [Son eklenenler](#cms-latest)
 - [Tam istemler](README.md#collection)
 - [Nasıl kullanılır?](#using)
 - [Katkıda bulunun](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Toplam istem | **156** |
 | ⭐ Öne çıkanlar | **12** |
-| 🗂️ CMS materyal sayısı | **36** |
-| 🔄 Son güncelleme | **2026-11-27 UTC 00:35:33** |
+| 🗂️ CMS materyal sayısı | **44** |
+| 🔄 Son güncelleme | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Bu yerelleştirilmiş sürüm çevrilmiş genel bakışı, API hızlı başlang�
 **[👉 İngilizce tam koleksiyonu görüntüle (tüm 158 örnek) →](README.md#all-cases)**
 
 [Raphael Türkçe web galerisini aç ↗](https://raphael.app/tr/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=tr-TR)
+
+<a id="cms-latest"></a>
+
+## 🆕 Son eklenenler (44)
+
+[Son eklenenler (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

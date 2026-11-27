@@ -6,6 +6,7 @@ from presentation import language_nav, repo_badges
 from common import GENERATED_MARKER, localized, md_link, md_text, published, repo_url, tracked_url
 from source_cases import read_cases, render_inline_case, visible
 from browse import category_case_counts, gallery_url_for_language, render_browse
+from cms_materials import read_cms_materials, render_cms_home_section
 from sync_cms_stats import cms_rows, stats_marker
 
 FULL_README_LANGUAGES = DETAIL_LANGUAGES
@@ -62,6 +63,7 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
     c = lambda en, cn=None: ui(en, cn, language)
     cases = visible(read_cases())
     full = published(prompts)
+    cms_items = read_cms_materials()
     full_edition = language in FULL_README_LANGUAGES
     case_prefix = '' if full_edition else 'README.md'
     brand = config['brand']
@@ -152,6 +154,7 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
         ('#statistics', 'Statistics', '统计数据'),
         ('#featured', 'Featured cases', '精选案例'),
         ('#all-cases', 'All cases', '全部案例'),
+        *((('#cms-latest', 'Recently added', '最近收录'),) if cms_items else ()),
         (case_prefix + '#collection' if full else '#collection', 'Full prompts', '完整提示词'),
         ('#using', 'How to use', '如何使用'),
         ('#contribute', 'Contribute', '如何贡献'),
@@ -260,6 +263,8 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
                 tracked_url(localized_gallery_url, 'localized_all_cases', language, config),
             ), '',
         ]
+
+    lines += render_cms_home_section(config, cms_items, language)
 
     lines += heading('using', '📚 How to use', '📚 如何使用')
     lines += [

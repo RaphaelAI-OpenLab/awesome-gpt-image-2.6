@@ -26,6 +26,10 @@
     "utm_medium": "repository",
     "utm_campaign": "gpt_image_2_6_launch"
   },
+  "cms": {
+    "collection": "materials",
+    "media_base_url": "https://awesome.raphael.app/materials/"
+  },
   "presentation": {
     "updated_at": "2026-11-23T09:59:39Z",
     "featured_limit": 12,

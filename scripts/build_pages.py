@@ -9,6 +9,7 @@ import html
 import json
 from pathlib import Path
 
+from cms_materials import read_cms_materials
 from common import ROOT, load_data, published, repo_url, tracked_url
 from source_cases import read_cases, video_preview_path, visible
 
@@ -70,6 +71,30 @@ def build_dataset(config: dict, cases: list[dict], prompts: list[dict]) -> list[
             "thumb": raw_base + preview if preview else "",
             "github_url": f"{repo_base}cases/{item['id']}/README.md",
             "anchor_url": f"https://github.com/{owner}/{slug}#case-{item['id']}",
+        })
+    curated_with_prompt = {
+        item["id"] for item in cases if any(e.get("text", "").strip() for e in item["prompt"].get("entries", []))
+    }
+    for item in read_cms_materials():
+        if item.get("matched_curated_case_id") in curated_with_prompt:
+            continue
+        prompt_text = str(item.get("prompt") or "").strip()
+        records.append({
+            "id": item["id"],
+            "title": item["title"],
+            "title_zh": item["title"],
+            "category": item["category"],
+            "category_label": cat_labels.get(item["category"], item["category"]),
+            "variants": ["unspecified"],
+            "source_type": "cms-community",
+            "author": item.get("author") or "Community",
+            "featured": False,
+            "has_prompt": bool(prompt_text),
+            "prompt": prompt_text,
+            "media_kind": "image" if item.get("image_url") else "",
+            "thumb": item.get("image_url") or "",
+            "github_url": f"{repo_base}cases/{item['id']}/README.md",
+            "anchor_url": f"{repo_base}cases/{item['id']}/README.md",
         })
     return records
 

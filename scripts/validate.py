@@ -195,6 +195,15 @@ def validate_config(config, errors: list[str]) -> None:
             errors.append("cross_promo.title: enabled campaign needs both language titles")
         if promo["image_path"]:
             check_asset(promo["image_path"], "cross_promo.image_path", errors, allow_remote=False)
+    if "cms" in config:
+        cms_cfg = config["cms"]
+        if not isinstance(cms_cfg, dict):
+            errors.append("site.config.json.cms: expected an object")
+        else:
+            if not re.fullmatch(r"[A-Za-z0-9_]+", str(cms_cfg.get("collection", ""))):
+                errors.append("cms.collection: invalid collection identifier")
+            if cms_cfg.get("media_base_url") is not None and not is_https_url(cms_cfg["media_base_url"]):
+                errors.append("cms.media_base_url: expected an HTTPS URL")
 
 
 def validate_prompts(config: dict, prompts: list[dict], errors: list[str], warnings: list[str], *, release: bool) -> None:
@@ -521,6 +530,8 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         if not is_supported_source(item):
             errors.append(f"{item['id']}: 本仓库仅收录原创生成、官方、社媒与论坛、内容发布社区及 GitHub 来源")
     validate_prompts(config, prompts, errors, warnings, release=release)
+    from cms_materials import validate_cms_materials
+    validate_cms_materials(config, cases, prompts, errors)
     for asset in ("assets/hero/raphael-gpt-image-2-6-hero-v1.png", "assets/gallery-placeholder.svg", "assets/media-placeholder-en.svg", "assets/media-placeholder-zh-CN.svg"):
         check_asset(asset, asset, errors, allow_remote=False)
     if release:

@@ -69,6 +69,7 @@
 - [통계](#statistics)
 - [주요 사례](#featured)
 - [모든 사례](#all-cases)
+- [최근 추가](#cms-latest)
 - [전체 프롬프트](README.md#collection)
 - [사용 방법](#using)
 - [기여하기](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 전체 프롬프트 | **156** |
 | ⭐ 추천 | **12** |
-| 🗂️ CMS 자료 수 | **36** |
-| 🔄 마지막 업데이트 | **2026-11-27 UTC 00:35:33** |
+| 🗂️ CMS 자료 수 | **44** |
+| 🔄 마지막 업데이트 | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 **[👉 영어 메인 페이지에서 전체 158개 사례 보기 →](README.md#all-cases)**
 
 [Raphael 한국어 웹 갤러리 열기 ↗](https://raphael.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=ko-KR)
+
+<a id="cms-latest"></a>
+
+## 🆕 최근 추가 (44)
+
+[최근 추가 (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

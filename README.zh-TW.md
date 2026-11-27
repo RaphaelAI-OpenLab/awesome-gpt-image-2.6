@@ -69,6 +69,7 @@
 - [統計資料](#statistics)
 - [精選案例](#featured)
 - [所有案例](#all-cases)
+- [最近新增](#cms-latest)
 - [完整提示詞](README.md#collection)
 - [使用方式](#using)
 - [參與貢獻](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 提示詞總數 | **156** |
 | ⭐ 精選 | **12** |
-| 🗂️ CMS 素材總數 | **36** |
-| 🔄 最後更新 | **2026年11月27日星期五 UTC 00:35:33** |
+| 🗂️ CMS 素材總數 | **44** |
+| 🔄 最後更新 | **2026年11月27日星期五 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 **[👉 在英文主文件查看全部 158 個案例 →](README.md#all-cases)**
 
 [開啟 Raphael 繁體中文網頁圖庫 ↗](https://raphael.app/zh-Hant/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=zh-TW)
+
+<a id="cms-latest"></a>
+
+## 🆕 最近新增 (44)
+
+[最近新增 (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

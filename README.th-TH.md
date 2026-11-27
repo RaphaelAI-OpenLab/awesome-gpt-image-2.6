@@ -69,6 +69,7 @@
 - [สถิติ](#statistics)
 - [กรณีตัวอย่างเด่น](#featured)
 - [กรณีตัวอย่างทั้งหมด](#all-cases)
+- [เพิ่มล่าสุด](#cms-latest)
 - [พรอมป์ต์ฉบับเต็ม](README.md#collection)
 - [วิธีใช้](#using)
 - [ร่วมพัฒนา](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 พรอมป์ต์ทั้งหมด | **156** |
 | ⭐ คัดสรร | **12** |
-| 🗂️ จำนวนสื่อใน CMS | **36** |
-| 🔄 อัปเดตล่าสุด | **2026-11-27 UTC 00:35:33** |
+| 🗂️ จำนวนสื่อใน CMS | **44** |
+| 🔄 อัปเดตล่าสุด | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 **[👉 ดูคอลเลกชันฉบับเต็มภาษาอังกฤษ (ครบทั้ง 158 เคส) →](README.md#all-cases)**
 
 [เปิดเว็บแกลเลอรี Raphael ภาษาไทย ↗](https://raphael.app/th/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=th-TH)
+
+<a id="cms-latest"></a>
+
+## 🆕 เพิ่มล่าสุด (44)
+
+[เพิ่มล่าสุด (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

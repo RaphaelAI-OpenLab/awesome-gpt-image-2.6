@@ -69,6 +69,7 @@ La generazione gratuita usa la modalità di base. I crediti e i piani richiesti 
 - [Statistiche](#statistics)
 - [Casi in evidenza](#featured)
 - [Tutti i casi](#all-cases)
+- [Aggiunti di recente](#cms-latest)
 - [Prompt completi](README.md#collection)
 - [Come si usa](#using)
 - [Contribuisci](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Prompt totali | **156** |
 | ⭐ In evidenza | **12** |
-| 🗂️ Risorse nel CMS | **36** |
-| 🔄 Ultimo aggiornamento | **2026-11-27 UTC 00:35:33** |
+| 🗂️ Risorse nel CMS | **44** |
+| 🔄 Ultimo aggiornamento | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Questa edizione localizzata include la panoramica tradotta, la guida rapida API,
 **[👉 Visualizza la raccolta completa in inglese (tutti i 158 casi) →](README.md#all-cases)**
 
 [Apri la galleria web Raphael in italiano ↗](https://raphael.app/it/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=it-IT)
+
+<a id="cms-latest"></a>
+
+## 🆕 Aggiunti di recente (44)
+
+[Aggiunti di recente (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

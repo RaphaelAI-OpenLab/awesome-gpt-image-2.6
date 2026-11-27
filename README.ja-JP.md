@@ -69,6 +69,7 @@ Webサイトで作成するメリットは？
 - [統計](#statistics)
 - [注目の事例](#featured)
 - [すべての事例](#all-cases)
+- [最近の追加](#cms-latest)
 - [完全なプロンプト](README.md#collection)
 - [使い方](#using)
 - [貢献する](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 プロンプト総数 | **156** |
 | ⭐ 厳選 | **12** |
-| 🗂️ CMS 素材数 | **36** |
-| 🔄 最終更新 | **2026-11-27 UTC 00:35:33** |
+| 🗂️ CMS 素材数 | **44** |
+| 🔄 最終更新 | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 **[👉 英語版メインページで全 158 件の作例を見る →](README.md#all-cases)**
 
 [Raphael 日本語 Web ギャラリーを開く ↗](https://raphael.app/ja/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=ja-JP)
+
+<a id="cms-latest"></a>
+
+## 🆕 最近の追加 (44)
+
+[最近の追加 (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

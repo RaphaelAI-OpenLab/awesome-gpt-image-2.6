@@ -275,6 +275,10 @@ def outputs(config: dict, prompts: list[dict]) -> dict[Path, str]:
     for item in visible(read_cases()):
         for language in DETAIL_LANGUAGES:
             result[ROOT / page_path(item, language)] = render_detail(item, language)
+    from cms_materials import cms_page_path, read_cms_materials, render_cms_detail
+    for item in read_cms_materials():
+        for language in DETAIL_LANGUAGES:
+            result[ROOT / cms_page_path(item, language)] = render_cms_detail(item, config, language)
     from presentation import asset_outputs
     result.update(asset_outputs())
     return result

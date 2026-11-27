@@ -69,6 +69,7 @@
 - [आँकड़े](#statistics)
 - [चुनिंदा उदाहरण](#featured)
 - [सभी उदाहरण](#all-cases)
+- [हाल में जोड़े गए](#cms-latest)
 - [पूर्ण प्रॉम्प्ट](README.md#collection)
 - [उपयोग कैसे करें](#using)
 - [योगदान दें](#contribute)
@@ -155,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 कुल प्रॉम्प्ट | **156** |
 | ⭐ चुनिंदा | **12** |
-| 🗂️ CMS सामग्री की संख्या | **36** |
-| 🔄 अंतिम अपडेट | **2026-11-27 UTC 00:35:33** |
+| 🗂️ CMS सामग्री की संख्या | **44** |
+| 🔄 अंतिम अपडेट | **2026-11-27 UTC 08:32:12** |
 
-<!-- cms-stats 36 2026-11-27T00:35:33Z -->
+<!-- cms-stats 44 2026-11-27T08:32:12Z -->
 
 <a id="featured"></a>
 
@@ -552,6 +553,12 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 **[👉 अंग्रेज़ी में पूरा संग्रह देखें (सभी 158 उदाहरण) →](README.md#all-cases)**
 
 [Raphael हिंदी वेब गैलरी खोलें ↗](https://raphael.app/hi/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=hi-IN)
+
+<a id="cms-latest"></a>
+
+## 🆕 हाल में जोड़े गए (44)
+
+[हाल में जोड़े गए (44) →](README.md#cms-latest)
 
 <a id="using"></a>
 

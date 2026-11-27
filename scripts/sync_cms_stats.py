@@ -30,6 +30,16 @@ def stats_marker(stats: CmsStats | None) -> str:
 
 
 def read_cms_stats() -> CmsStats | None:
+    cms_file = ROOT / "content" / "cms-materials.json"
+    if cms_file.is_file():
+        try:
+            store = json.loads(cms_file.read_text(encoding="utf-8"))
+            synced_at = store.get("synced_at")
+            total = store.get("total_cms_records")
+            if isinstance(total, int) and not isinstance(total, bool) and isinstance(synced_at, str) and synced_at:
+                return CmsStats(total, datetime.fromisoformat(synced_at))
+        except (OSError, ValueError, TypeError):
+            pass
     readme = ROOT / filename("en")
     match = MARKER.search(readme.read_text(encoding="utf-8")) if readme.exists() else None
     if match is None or match[1] == "pending":
