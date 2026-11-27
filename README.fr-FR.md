@@ -58,7 +58,7 @@ La génération gratuite utilise le mode de base. Les crédits et abonnements re
 
 ## 🏷️ Parcourir par catégorie
 
-[Tout (194)](README.md#all-cases) · [GIF et animation (90)](README.md#category-gif-animation) · [Personnages et cohérence (27)](README.md#category-characters-consistency) · [Infographies (16)](README.md#category-infographics) · [Visuels de marque et de produit (15)](README.md#category-brand-products) · [Affiches et typographie (14)](README.md#category-posters-typography) · [SVG et ressources graphiques (13)](README.md#category-svg-design-assets) · [Annotations et retouches ciblées (11)](README.md#category-markup-edits) · [Intérieurs et architecture (8)](README.md#category-interiors-architecture)
+[Tout (199)](README.md#all-cases) · [GIF et animation (90)](README.md#category-gif-animation) · [Personnages et cohérence (27)](README.md#category-characters-consistency) · [Infographies (21)](README.md#category-infographics) · [Visuels de marque et de produit (15)](README.md#category-brand-products) · [Affiches et typographie (14)](README.md#category-posters-typography) · [SVG et ressources graphiques (13)](README.md#category-svg-design-assets) · [Annotations et retouches ciblées (11)](README.md#category-markup-edits) · [Intérieurs et architecture (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Total des prompts | **156** |
 | ⭐ Sélection | **12** |
-| 🗂️ Ressources dans le CMS | **44** |
-| 🔄 Dernière mise à jour | **2026-11-27 UTC 08:32:12** |
+| 🗂️ Ressources dans le CMS | **49** |
+| 🔄 Dernière mise à jour | **2026-11-27 UTC 13:51:59** |
 
-<!-- cms-stats 44 2026-11-27T08:32:12Z -->
+<!-- cms-stats 49 2026-11-27T13:51:59Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Les aperçus vidéo sont la première image fixe ; ouvrez le fichier lié pour v
 
 ## 📋 Tous les cas
 
-Cette édition localisée inclut la présentation traduite, le démarrage rapide de l'API, les statistiques en direct et tous les cas à la une. Pour éviter de dupliquer des prompts anglais non traduits dans 14 fichiers, parcourez l'index complet des 194 exemples par catégorie ci-dessous ou ouvrez la galerie web localisée.
+Cette édition localisée inclut la présentation traduite, le démarrage rapide de l'API, les statistiques en direct et tous les cas à la une. Pour éviter de dupliquer des prompts anglais non traduits dans 14 fichiers, parcourez l'index complet des 199 exemples par catégorie ci-dessous ou ouvrez la galerie web localisée.
 
 | Catégorie | Exemples | Voir les exemples |
 | --- | ---: | --- |
 | GIF et animation | **90** | [Lire en anglais](README.md#category-gif-animation) |
 | Personnages et cohérence | **27** | [Lire en anglais](README.md#category-characters-consistency) |
-| Infographies | **16** | [Lire en anglais](README.md#category-infographics) |
+| Infographies | **21** | [Lire en anglais](README.md#category-infographics) |
 | Visuels de marque et de produit | **15** | [Lire en anglais](README.md#category-brand-products) |
 | Affiches et typographie | **14** | [Lire en anglais](README.md#category-posters-typography) |
 | SVG et ressources graphiques | **13** | [Lire en anglais](README.md#category-svg-design-assets) |
 | Annotations et retouches ciblées | **11** | [Lire en anglais](README.md#category-markup-edits) |
 | Intérieurs et architecture | **8** | [Lire en anglais](README.md#category-interiors-architecture) |
 
-**[👉 Voir la collection complète en anglais (les 194 exemples) →](README.md#all-cases)**
+**[👉 Voir la collection complète en anglais (les 199 exemples) →](README.md#all-cases)**
 
 [Ouvrir la galerie web Raphael en français ↗](https://raphael.app/fr/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=fr-FR)
 
 <a id="cms-latest"></a>
 
-## 🆕 Ajouts récents (44)
+## 🆕 Ajouts récents (49)
 
-[Ajouts récents (44) →](README.md#cms-latest)
+[Ajouts récents (49) →](README.md#cms-latest)
 
 <a id="using"></a>
 

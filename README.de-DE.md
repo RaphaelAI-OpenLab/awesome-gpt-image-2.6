@@ -58,7 +58,7 @@ Die kostenlose Bilderzeugung nutzt den Basismodus. Die erforderlichen Credits un
 
 ## 🏷️ Nach Kategorie durchstöbern
 
-[Alle (194)](README.md#all-cases) · [GIF & Animation (90)](README.md#category-gif-animation) · [Figuren & Konsistenz (27)](README.md#category-characters-consistency) · [Infografiken (16)](README.md#category-infographics) · [Marken- & Produktvisualisierungen (15)](README.md#category-brand-products) · [Poster & Typografie (14)](README.md#category-posters-typography) · [SVG & Designressourcen (13)](README.md#category-svg-design-assets) · [Markierungen & gezielte Bearbeitungen (11)](README.md#category-markup-edits) · [Innenräume & Architektur (8)](README.md#category-interiors-architecture)
+[Alle (199)](README.md#all-cases) · [GIF & Animation (90)](README.md#category-gif-animation) · [Figuren & Konsistenz (27)](README.md#category-characters-consistency) · [Infografiken (21)](README.md#category-infographics) · [Marken- & Produktvisualisierungen (15)](README.md#category-brand-products) · [Poster & Typografie (14)](README.md#category-posters-typography) · [SVG & Designressourcen (13)](README.md#category-svg-design-assets) · [Markierungen & gezielte Bearbeitungen (11)](README.md#category-markup-edits) · [Innenräume & Architektur (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Prompts insgesamt | **156** |
 | ⭐ Ausgewählt | **12** |
-| 🗂️ Materialien im CMS | **44** |
-| 🔄 Zuletzt aktualisiert | **2026-11-27 UTC 08:32:12** |
+| 🗂️ Materialien im CMS | **49** |
+| 🔄 Zuletzt aktualisiert | **2026-11-27 UTC 13:51:59** |
 
-<!-- cms-stats 44 2026-11-27T08:32:12Z -->
+<!-- cms-stats 49 2026-11-27T13:51:59Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Videovorschauen zeigen das erste Standbild; öffne die verlinkte Datei für die 
 
 ## 📋 Alle Beispiele
 
-Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnellstart, aktuelle Statistiken und alle vorgestellten Beispiele. Um unübersetzte englische Prompts nicht 14-fach zu duplizieren, nutze unten das vollständige Kategorienverzeichnis aller 194 Beispiele oder öffne die lokalisierte Web-Galerie.
+Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnellstart, aktuelle Statistiken und alle vorgestellten Beispiele. Um unübersetzte englische Prompts nicht 14-fach zu duplizieren, nutze unten das vollständige Kategorienverzeichnis aller 199 Beispiele oder öffne die lokalisierte Web-Galerie.
 
 | Kategorie | Beispiele | Beispiele ansehen |
 | --- | ---: | --- |
 | GIF & Animation | **90** | [Auf Englisch lesen](README.md#category-gif-animation) |
 | Figuren & Konsistenz | **27** | [Auf Englisch lesen](README.md#category-characters-consistency) |
-| Infografiken | **16** | [Auf Englisch lesen](README.md#category-infographics) |
+| Infografiken | **21** | [Auf Englisch lesen](README.md#category-infographics) |
 | Marken- & Produktvisualisierungen | **15** | [Auf Englisch lesen](README.md#category-brand-products) |
 | Poster & Typografie | **14** | [Auf Englisch lesen](README.md#category-posters-typography) |
 | SVG & Designressourcen | **13** | [Auf Englisch lesen](README.md#category-svg-design-assets) |
 | Markierungen & gezielte Bearbeitungen | **11** | [Auf Englisch lesen](README.md#category-markup-edits) |
 | Innenräume & Architektur | **8** | [Auf Englisch lesen](README.md#category-interiors-architecture) |
 
-**[👉 Vollständige Sammlung auf Englisch ansehen (alle 194 Beispiele) →](README.md#all-cases)**
+**[👉 Vollständige Sammlung auf Englisch ansehen (alle 199 Beispiele) →](README.md#all-cases)**
 
 [Lokalisierte Raphael-Web-Galerie öffnen ↗](https://raphael.app/de/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=de-DE)
 
 <a id="cms-latest"></a>
 
-## 🆕 Kürzlich hinzugefügt (44)
+## 🆕 Kürzlich hinzugefügt (49)
 
-[Kürzlich hinzugefügt (44) →](README.md#cms-latest)
+[Kürzlich hinzugefügt (49) →](README.md#cms-latest)
 
 <a id="using"></a>
 
