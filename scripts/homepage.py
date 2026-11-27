@@ -6,7 +6,7 @@ from presentation import language_nav, repo_badges
 from common import GENERATED_MARKER, localized, md_link, md_text, published, repo_url, tracked_url
 from source_cases import read_cases, render_inline_case, visible
 from browse import category_case_counts, gallery_url_for_language, render_browse
-from cms_materials import read_cms_materials, render_cms_home_section
+from cms_materials import read_cms_materials, render_cms_category_table, render_cms_home_section, uncurated_cms_materials
 from sync_cms_stats import cms_rows, stats_marker
 
 FULL_README_LANGUAGES = DETAIL_LANGUAGES
@@ -64,6 +64,8 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
     cases = visible(read_cases())
     full = published(prompts)
     cms_items = read_cms_materials()
+    cms_unique = uncurated_cms_materials(cases, cms_items)
+    combined_cases = cases + cms_unique
     full_edition = language in FULL_README_LANGUAGES
     case_prefix = '' if full_edition else 'README.md'
     brand = config['brand']
@@ -145,7 +147,7 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
             lines += [f"![{md_text(localized(promo['title'], language))}]({promo['image_path']})", '']
 
     lines += heading('categories', '🏷️ Browse by category', '🏷️ 按分类浏览')
-    lines += [render_browse(config, language, cases, anchor_prefix=case_prefix)]
+    lines += [render_browse(config, language, combined_cases, anchor_prefix=case_prefix)]
 
     lines += [''] + heading('contents', '📖 Contents', '📖 目录')
     toc = [
@@ -229,11 +231,14 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
         for category in config['categories']:
             lines += [f'<a id="category-{category["id"]}"></a>', '', '### ' + localized(category['label'], language), '']
             group = [x for x in cases if x['category'] == category['id']]
+            cms_group = [x for x in cms_unique if x['category'] == category['id']]
             if group:
                 for item in group:
                     number += 1
                     lines += [render_inline_case(item, language, number, config).rstrip(), '', '---', '']
-            else:
+            if cms_group:
+                lines += render_cms_category_table(cms_group, language)
+            if not group and not cms_group:
                 lines += [c('No source-linked cases in this category yet.', '此分类尚无来源案例。'), '']
         if full:
             lines += heading('collection', '📝 Full prompts', '📝 完整提示词')
@@ -244,18 +249,18 @@ def render_home(config, prompts, language, render_prompt, cms_stats):
             c(
                 'This localized edition includes the translated overview, API quickstart, live statistics, and all featured cases. To avoid duplicating untranslated English prompts across 14 files, browse the full {count}-case index by category below or open the localized web gallery.',
                 '本语言版本提供本地化简介、API 速查、实时统计与全部精选案例。为避免在 14 个文件中重复堆砌未翻译的英文提示词，请在下方按分类跳转查看完整 {count} 个案例，或前往本地化网页图库。',
-            ).format(count=len(cases)), '',
+            ).format(count=len(combined_cases)), '',
             '| ' + c('Category', '分类') + ' | ' + c('Cases', '案例数') + ' | ' + c('Explore examples', '查看案例') + ' |',
             '| --- | ---: | --- |',
         ]
-        for category, count in category_case_counts(config, cases):
+        for category, count in category_case_counts(config, combined_cases):
             cat_id = category['id']
             cat_label = localized(category['label'], language)
             lines.append(f'| {md_text(cat_label)} | **{count}** | {md_link(c("Read in English", "查看英文版"), f"README.md#category-{cat_id}")} |')
         lines += [
             '',
             '**' + md_link(
-                '👉 ' + c('Read the full collection in English (all {count} cases) →', '在英文主文档查看全部 {count} 个案例 →').format(count=len(cases)),
+                '👉 ' + c('Read the full collection in English (all {count} cases) →', '在英文主文档查看全部 {count} 个案例 →').format(count=len(combined_cases)),
                 'README.md#all-cases',
             ) + '**', '',
             md_link(

@@ -58,7 +58,7 @@
 
 ## 🏷️ 依分類瀏覽
 
-[全部 (158)](README.md#all-cases) · [GIF 與動畫 (89)](README.md#category-gif-animation) · [角色與一致性 (26)](README.md#category-characters-consistency) · [標註與局部編輯 (11)](README.md#category-markup-edits) · [海報與文字排版 (9)](README.md#category-posters-typography) · [品牌與產品視覺 (8)](README.md#category-brand-products) · [資訊圖表 (8)](README.md#category-infographics) · [SVG 與設計素材 (4)](README.md#category-svg-design-assets) · [室內設計與建築 (3)](README.md#category-interiors-architecture)
+[全部 (194)](README.md#all-cases) · [GIF 與動畫 (90)](README.md#category-gif-animation) · [角色與一致性 (27)](README.md#category-characters-consistency) · [資訊圖表 (16)](README.md#category-infographics) · [品牌與產品視覺 (15)](README.md#category-brand-products) · [海報與文字排版 (14)](README.md#category-posters-typography) · [SVG 與設計素材 (13)](README.md#category-svg-design-assets) · [標註與局部編輯 (11)](README.md#category-markup-edits) · [室內設計與建築 (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 所有案例
 
-本語言版本提供本地化簡介、API 速查、即時統計與全部精選案例。為避免在 14 個檔案中重複堆砌未翻譯的英文提示詞，請在下方依分類前往完整 158 個案例，或開啟本地化網頁圖庫。
+本語言版本提供本地化簡介、API 速查、即時統計與全部精選案例。為避免在 14 個檔案中重複堆砌未翻譯的英文提示詞，請在下方依分類前往完整 194 個案例，或開啟本地化網頁圖庫。
 
 | 分類 | 案例數 | 查看案例 |
 | --- | ---: | --- |
-| GIF 與動畫 | **89** | [閱讀英文版](README.md#category-gif-animation) |
-| 角色與一致性 | **26** | [閱讀英文版](README.md#category-characters-consistency) |
+| GIF 與動畫 | **90** | [閱讀英文版](README.md#category-gif-animation) |
+| 角色與一致性 | **27** | [閱讀英文版](README.md#category-characters-consistency) |
+| 資訊圖表 | **16** | [閱讀英文版](README.md#category-infographics) |
+| 品牌與產品視覺 | **15** | [閱讀英文版](README.md#category-brand-products) |
+| 海報與文字排版 | **14** | [閱讀英文版](README.md#category-posters-typography) |
+| SVG 與設計素材 | **13** | [閱讀英文版](README.md#category-svg-design-assets) |
 | 標註與局部編輯 | **11** | [閱讀英文版](README.md#category-markup-edits) |
-| 海報與文字排版 | **9** | [閱讀英文版](README.md#category-posters-typography) |
-| 品牌與產品視覺 | **8** | [閱讀英文版](README.md#category-brand-products) |
-| 資訊圖表 | **8** | [閱讀英文版](README.md#category-infographics) |
-| SVG 與設計素材 | **4** | [閱讀英文版](README.md#category-svg-design-assets) |
-| 室內設計與建築 | **3** | [閱讀英文版](README.md#category-interiors-architecture) |
+| 室內設計與建築 | **8** | [閱讀英文版](README.md#category-interiors-architecture) |
 
-**[👉 在英文主文件查看全部 158 個案例 →](README.md#all-cases)**
+**[👉 在英文主文件查看全部 194 個案例 →](README.md#all-cases)**
 
 [開啟 Raphael 繁體中文網頁圖庫 ↗](https://raphael.app/zh-Hant/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=zh-TW)
 

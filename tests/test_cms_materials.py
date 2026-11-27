@@ -60,6 +60,18 @@ class CmsMaterialsTests(unittest.TestCase):
         self.assertIn("cases/cms-c6ce066a/README.md", "\n".join(render_cms_home_section(self.config, items, "en")))
         self.assertIn("README.md#cms-latest", "\n".join(render_cms_home_section(self.config, items, "ja-JP")))
 
+    def test_cms_items_increment_readme_category_counts_and_render_in_category(self):
+        from build_readme import render_readme
+        items, _ = normalize_records(self.sample_raw(), self.config, {})
+        with patch("homepage.read_cases", return_value=[]), patch("homepage.read_cms_materials", return_value=items):
+            en_text = render_readme(self.config, [], "en")
+        nav = en_text.split('<a id="categories"></a>', 1)[1].split('<a id="contents"></a>', 1)[0]
+        self.assertIn("[All (1)](#all-cases)", nav)
+        self.assertIn(f"(#category-{items[0]['category']})", nav)
+        self.assertIn(" (1)](", nav)
+        cat_section = en_text.split(f'<a id="category-{items[0]["category"]}"></a>', 1)[1]
+        self.assertIn("cases/cms-c6ce066a/README.md", cat_section)
+
     def test_sync_skips_timestamp_churn_when_unchanged(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

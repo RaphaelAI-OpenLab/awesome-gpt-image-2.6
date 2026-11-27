@@ -58,7 +58,7 @@ Die kostenlose Bilderzeugung nutzt den Basismodus. Die erforderlichen Credits un
 
 ## 🏷️ Nach Kategorie durchstöbern
 
-[Alle (158)](README.md#all-cases) · [GIF & Animation (89)](README.md#category-gif-animation) · [Figuren & Konsistenz (26)](README.md#category-characters-consistency) · [Markierungen & gezielte Bearbeitungen (11)](README.md#category-markup-edits) · [Poster & Typografie (9)](README.md#category-posters-typography) · [Marken- & Produktvisualisierungen (8)](README.md#category-brand-products) · [Infografiken (8)](README.md#category-infographics) · [SVG & Designressourcen (4)](README.md#category-svg-design-assets) · [Innenräume & Architektur (3)](README.md#category-interiors-architecture)
+[Alle (194)](README.md#all-cases) · [GIF & Animation (90)](README.md#category-gif-animation) · [Figuren & Konsistenz (27)](README.md#category-characters-consistency) · [Infografiken (16)](README.md#category-infographics) · [Marken- & Produktvisualisierungen (15)](README.md#category-brand-products) · [Poster & Typografie (14)](README.md#category-posters-typography) · [SVG & Designressourcen (13)](README.md#category-svg-design-assets) · [Markierungen & gezielte Bearbeitungen (11)](README.md#category-markup-edits) · [Innenräume & Architektur (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Videovorschauen zeigen das erste Standbild; öffne die verlinkte Datei für die 
 
 ## 📋 Alle Beispiele
 
-Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnellstart, aktuelle Statistiken und alle vorgestellten Beispiele. Um unübersetzte englische Prompts nicht 14-fach zu duplizieren, nutze unten das vollständige Kategorienverzeichnis aller 158 Beispiele oder öffne die lokalisierte Web-Galerie.
+Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnellstart, aktuelle Statistiken und alle vorgestellten Beispiele. Um unübersetzte englische Prompts nicht 14-fach zu duplizieren, nutze unten das vollständige Kategorienverzeichnis aller 194 Beispiele oder öffne die lokalisierte Web-Galerie.
 
 | Kategorie | Beispiele | Beispiele ansehen |
 | --- | ---: | --- |
-| GIF & Animation | **89** | [Auf Englisch lesen](README.md#category-gif-animation) |
-| Figuren & Konsistenz | **26** | [Auf Englisch lesen](README.md#category-characters-consistency) |
+| GIF & Animation | **90** | [Auf Englisch lesen](README.md#category-gif-animation) |
+| Figuren & Konsistenz | **27** | [Auf Englisch lesen](README.md#category-characters-consistency) |
+| Infografiken | **16** | [Auf Englisch lesen](README.md#category-infographics) |
+| Marken- & Produktvisualisierungen | **15** | [Auf Englisch lesen](README.md#category-brand-products) |
+| Poster & Typografie | **14** | [Auf Englisch lesen](README.md#category-posters-typography) |
+| SVG & Designressourcen | **13** | [Auf Englisch lesen](README.md#category-svg-design-assets) |
 | Markierungen & gezielte Bearbeitungen | **11** | [Auf Englisch lesen](README.md#category-markup-edits) |
-| Poster & Typografie | **9** | [Auf Englisch lesen](README.md#category-posters-typography) |
-| Marken- & Produktvisualisierungen | **8** | [Auf Englisch lesen](README.md#category-brand-products) |
-| Infografiken | **8** | [Auf Englisch lesen](README.md#category-infographics) |
-| SVG & Designressourcen | **4** | [Auf Englisch lesen](README.md#category-svg-design-assets) |
-| Innenräume & Architektur | **3** | [Auf Englisch lesen](README.md#category-interiors-architecture) |
+| Innenräume & Architektur | **8** | [Auf Englisch lesen](README.md#category-interiors-architecture) |
 
-**[👉 Vollständige Sammlung auf Englisch ansehen (alle 158 Beispiele) →](README.md#all-cases)**
+**[👉 Vollständige Sammlung auf Englisch ansehen (alle 194 Beispiele) →](README.md#all-cases)**
 
 [Lokalisierte Raphael-Web-Galerie öffnen ↗](https://raphael.app/de/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=de-DE)
 

@@ -58,7 +58,7 @@
 
 ## 🏷️ 카테고리별 탐색
 
-[전체 (158)](README.md#all-cases) · [GIF 및 애니메이션 (89)](README.md#category-gif-animation) · [캐릭터 및 일관성 (26)](README.md#category-characters-consistency) · [마크업 및 특정 영역 편집 (11)](README.md#category-markup-edits) · [포스터 및 타이포그래피 (9)](README.md#category-posters-typography) · [브랜드 및 제품 비주얼 (8)](README.md#category-brand-products) · [인포그래픽 (8)](README.md#category-infographics) · [SVG 및 디자인 에셋 (4)](README.md#category-svg-design-assets) · [인테리어 및 건축 (3)](README.md#category-interiors-architecture)
+[전체 (194)](README.md#all-cases) · [GIF 및 애니메이션 (90)](README.md#category-gif-animation) · [캐릭터 및 일관성 (27)](README.md#category-characters-consistency) · [인포그래픽 (16)](README.md#category-infographics) · [브랜드 및 제품 비주얼 (15)](README.md#category-brand-products) · [포스터 및 타이포그래피 (14)](README.md#category-posters-typography) · [SVG 및 디자인 에셋 (13)](README.md#category-svg-design-assets) · [마크업 및 특정 영역 편집 (11)](README.md#category-markup-edits) · [인테리어 및 건축 (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 모든 사례
 
-이 언어 버전에는 번역된 개요, API 빠른 시작, 실시간 통계 및 모든 엄선 사례가 포함되어 있습니다. 번역되지 않은 영어 프롬프트 중복을 줄이기 위해 전체 158개 사례는 아래 카테고리 링크 또는 한국어 웹 갤러리에서 확인하세요.
+이 언어 버전에는 번역된 개요, API 빠른 시작, 실시간 통계 및 모든 엄선 사례가 포함되어 있습니다. 번역되지 않은 영어 프롬프트 중복을 줄이기 위해 전체 194개 사례는 아래 카테고리 링크 또는 한국어 웹 갤러리에서 확인하세요.
 
 | 카테고리 | 사례 수 | 사례 보기 |
 | --- | ---: | --- |
-| GIF 및 애니메이션 | **89** | [영어로 읽기](README.md#category-gif-animation) |
-| 캐릭터 및 일관성 | **26** | [영어로 읽기](README.md#category-characters-consistency) |
+| GIF 및 애니메이션 | **90** | [영어로 읽기](README.md#category-gif-animation) |
+| 캐릭터 및 일관성 | **27** | [영어로 읽기](README.md#category-characters-consistency) |
+| 인포그래픽 | **16** | [영어로 읽기](README.md#category-infographics) |
+| 브랜드 및 제품 비주얼 | **15** | [영어로 읽기](README.md#category-brand-products) |
+| 포스터 및 타이포그래피 | **14** | [영어로 읽기](README.md#category-posters-typography) |
+| SVG 및 디자인 에셋 | **13** | [영어로 읽기](README.md#category-svg-design-assets) |
 | 마크업 및 특정 영역 편집 | **11** | [영어로 읽기](README.md#category-markup-edits) |
-| 포스터 및 타이포그래피 | **9** | [영어로 읽기](README.md#category-posters-typography) |
-| 브랜드 및 제품 비주얼 | **8** | [영어로 읽기](README.md#category-brand-products) |
-| 인포그래픽 | **8** | [영어로 읽기](README.md#category-infographics) |
-| SVG 및 디자인 에셋 | **4** | [영어로 읽기](README.md#category-svg-design-assets) |
-| 인테리어 및 건축 | **3** | [영어로 읽기](README.md#category-interiors-architecture) |
+| 인테리어 및 건축 | **8** | [영어로 읽기](README.md#category-interiors-architecture) |
 
-**[👉 영어 메인 페이지에서 전체 158개 사례 보기 →](README.md#all-cases)**
+**[👉 영어 메인 페이지에서 전체 194개 사례 보기 →](README.md#all-cases)**
 
 [Raphael 한국어 웹 갤러리 열기 ↗](https://raphael.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=ko-KR)
 

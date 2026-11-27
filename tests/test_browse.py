@@ -11,6 +11,7 @@ from urllib.parse import parse_qs, urlsplit
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from browse import category_case_counts, gallery_url_for_language, read_browse, read_web_gallery, render_browse, render_web_gallery_browse, validate_browse, validate_web_gallery
 from build_readme import render_readme
+from cms_materials import uncurated_cms_materials
 from common import load_data, localized
 from i18n import DETAIL_LANGUAGES, LANGUAGES, ui
 from source_cases import read_cases, visible
@@ -49,7 +50,8 @@ class BrowseTests(unittest.TestCase):
 
     def test_each_language_has_in_page_category_anchors_and_live_counts(self):
         published_cases = visible(self.cases)
-        ordered = category_case_counts(self.config, published_cases)
+        combined_cases = published_cases + uncurated_cms_materials(published_cases)
+        ordered = category_case_counts(self.config, combined_cases)
         for language in LANGUAGES:
             with self.subTest(language=language):
                 text = render_readme(self.config, self.prompts, language)
@@ -60,7 +62,7 @@ class BrowseTests(unittest.TestCase):
                 links = re.findall(r'\[([^\]]+)\]\(([^)]+)\)', navigation)
                 self.assertEqual(len(links), 9)
                 prefix = '' if language in DETAIL_LANGUAGES else 'README.md'
-                expected = [(ui('All', '全部', language) + f' ({len(published_cases)})', f'{prefix}#all-cases')] + [
+                expected = [(ui('All', '全部', language) + f' ({len(combined_cases)})', f'{prefix}#all-cases')] + [
                     (f"{localized(category['label'], language)} ({count})", f'{prefix}#category-{category["id"]}')
                     for category, count in ordered
                 ]

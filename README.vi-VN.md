@@ -58,7 +58,7 @@ Tạo ảnh miễn phí sử dụng chế độ cơ bản. Yêu cầu về tín 
 
 ## 🏷️ Duyệt theo danh mục
 
-[Tất cả (158)](README.md#all-cases) · [GIF và hoạt ảnh (89)](README.md#category-gif-animation) · [Nhân vật và tính nhất quán (26)](README.md#category-characters-consistency) · [Đánh dấu và chỉnh sửa có mục tiêu (11)](README.md#category-markup-edits) · [Áp phích và nghệ thuật chữ (9)](README.md#category-posters-typography) · [Hình ảnh thương hiệu và sản phẩm (8)](README.md#category-brand-products) · [Đồ họa thông tin (8)](README.md#category-infographics) · [SVG và tài nguyên thiết kế (4)](README.md#category-svg-design-assets) · [Nội thất và kiến trúc (3)](README.md#category-interiors-architecture)
+[Tất cả (194)](README.md#all-cases) · [GIF và hoạt ảnh (90)](README.md#category-gif-animation) · [Nhân vật và tính nhất quán (27)](README.md#category-characters-consistency) · [Đồ họa thông tin (16)](README.md#category-infographics) · [Hình ảnh thương hiệu và sản phẩm (15)](README.md#category-brand-products) · [Áp phích và nghệ thuật chữ (14)](README.md#category-posters-typography) · [SVG và tài nguyên thiết kế (13)](README.md#category-svg-design-assets) · [Đánh dấu và chỉnh sửa có mục tiêu (11)](README.md#category-markup-edits) · [Nội thất và kiến trúc (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 Tất cả trường hợp
 
-Phiên bản ngôn ngữ này gồm phần giới thiệu đã dịch, hướng dẫn API nhanh, thống kê trực tiếp và toàn bộ ví dụ nổi bật. Để tránh lặp lại prompt tiếng Anh chưa dịch ở 14 tệp, hãy duyệt danh mục đầy đủ 158 ví dụ bên dưới hoặc mở thư viện web bản địa hóa.
+Phiên bản ngôn ngữ này gồm phần giới thiệu đã dịch, hướng dẫn API nhanh, thống kê trực tiếp và toàn bộ ví dụ nổi bật. Để tránh lặp lại prompt tiếng Anh chưa dịch ở 14 tệp, hãy duyệt danh mục đầy đủ 194 ví dụ bên dưới hoặc mở thư viện web bản địa hóa.
 
 | Danh mục | Số ví dụ | Xem ví dụ |
 | --- | ---: | --- |
-| GIF và hoạt ảnh | **89** | [Đọc bằng tiếng Anh](README.md#category-gif-animation) |
-| Nhân vật và tính nhất quán | **26** | [Đọc bằng tiếng Anh](README.md#category-characters-consistency) |
+| GIF và hoạt ảnh | **90** | [Đọc bằng tiếng Anh](README.md#category-gif-animation) |
+| Nhân vật và tính nhất quán | **27** | [Đọc bằng tiếng Anh](README.md#category-characters-consistency) |
+| Đồ họa thông tin | **16** | [Đọc bằng tiếng Anh](README.md#category-infographics) |
+| Hình ảnh thương hiệu và sản phẩm | **15** | [Đọc bằng tiếng Anh](README.md#category-brand-products) |
+| Áp phích và nghệ thuật chữ | **14** | [Đọc bằng tiếng Anh](README.md#category-posters-typography) |
+| SVG và tài nguyên thiết kế | **13** | [Đọc bằng tiếng Anh](README.md#category-svg-design-assets) |
 | Đánh dấu và chỉnh sửa có mục tiêu | **11** | [Đọc bằng tiếng Anh](README.md#category-markup-edits) |
-| Áp phích và nghệ thuật chữ | **9** | [Đọc bằng tiếng Anh](README.md#category-posters-typography) |
-| Hình ảnh thương hiệu và sản phẩm | **8** | [Đọc bằng tiếng Anh](README.md#category-brand-products) |
-| Đồ họa thông tin | **8** | [Đọc bằng tiếng Anh](README.md#category-infographics) |
-| SVG và tài nguyên thiết kế | **4** | [Đọc bằng tiếng Anh](README.md#category-svg-design-assets) |
-| Nội thất và kiến trúc | **3** | [Đọc bằng tiếng Anh](README.md#category-interiors-architecture) |
+| Nội thất và kiến trúc | **8** | [Đọc bằng tiếng Anh](README.md#category-interiors-architecture) |
 
-**[👉 Xem toàn bộ bộ sưu tập bằng tiếng Anh (đủ 158 ví dụ) →](README.md#all-cases)**
+**[👉 Xem toàn bộ bộ sưu tập bằng tiếng Anh (đủ 194 ví dụ) →](README.md#all-cases)**
 
 [Mở thư viện web Raphael tiếng Việt ↗](https://raphael.app/vi/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=vi-VN)
 

@@ -62,6 +62,41 @@ def read_cms_materials() -> list[dict]:
     return [item for item in items if isinstance(item, dict)]
 
 
+def uncurated_cms_materials(cases: list[dict], cms_items: list[dict] | None = None) -> list[dict]:
+    """Return CMS items not already covered by a published curated source-case."""
+    items = read_cms_materials() if cms_items is None else cms_items
+    curated_ids = {item["id"] for item in cases if item.get("id")}
+    return [item for item in items if item.get("matched_curated_case_id") not in curated_ids]
+
+
+def render_cms_category_table(items: list[dict], language: str) -> list[str]:
+    """Render compact per-category CMS index rows inside #category-* sections."""
+    if not items:
+        return []
+    c = lambda en, cn=None: ui(en, cn, language)
+    zh = language == "zh-CN"
+    choose = lambda en, cn: cn if zh else en
+    lines = [
+        f"#### {c('CMS materials', 'CMS 素材总数')} ({len(items)})",
+        "",
+        f"| {c('Added', '收录日期')} | {c('Example', '案例')} | {c('Author', '作者')} | {c('Original source', '原始来源')} |",
+        "| --- | --- | --- | --- |",
+    ]
+    for item in items:
+        detail_route = cms_page_path(item, language)
+        title_link = md_link(item["title"], detail_route)
+        author_cell = md_link(item["author"], item["author_url"]) if item.get("author") and item.get("author_url") else md_text(item.get("author") or "—")
+        links = []
+        if item.get("source_url"):
+            links.append(md_link(choose("Post", "原帖"), item["source_url"]))
+        if item.get("image_url"):
+            links.append(md_link("R2", item["image_url"]))
+        source_cell = " · ".join(links) if links else "—"
+        lines.append(f"| {item['added_at']} | {title_link} | {author_cell} | {source_cell} |")
+    lines.append("")
+    return lines
+
+
 def cms_page_path(item: dict, language: str) -> str:
     return f"cases/{item['id']}/{filename(detail_language(language))}"
 

@@ -58,7 +58,7 @@ Webサイトで作成するメリットは？
 
 ## 🏷️ カテゴリーから探す
 
-[すべて (158)](README.md#all-cases) · [GIF・アニメーション (89)](README.md#category-gif-animation) · [キャラクターと一貫性 (26)](README.md#category-characters-consistency) · [マークアップ・部分編集 (11)](README.md#category-markup-edits) · [ポスター・タイポグラフィ (9)](README.md#category-posters-typography) · [ブランド・製品ビジュアル (8)](README.md#category-brand-products) · [インフォグラフィック (8)](README.md#category-infographics) · [SVG・デザイン素材 (4)](README.md#category-svg-design-assets) · [インテリア・建築 (3)](README.md#category-interiors-architecture)
+[すべて (194)](README.md#all-cases) · [GIF・アニメーション (90)](README.md#category-gif-animation) · [キャラクターと一貫性 (27)](README.md#category-characters-consistency) · [インフォグラフィック (16)](README.md#category-infographics) · [ブランド・製品ビジュアル (15)](README.md#category-brand-products) · [ポスター・タイポグラフィ (14)](README.md#category-posters-typography) · [SVG・デザイン素材 (13)](README.md#category-svg-design-assets) · [マークアップ・部分編集 (11)](README.md#category-markup-edits) · [インテリア・建築 (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 すべての事例
 
-この言語版には翻訳済みの概要、API クイックスタート、最新統計、すべての注目作例を収録しています。未翻訳の英語プロンプトの重複を避けるため、全 158 件の一覧は下のカテゴリ別リンクまたは日本語 Web ギャラリーからご覧ください。
+この言語版には翻訳済みの概要、API クイックスタート、最新統計、すべての注目作例を収録しています。未翻訳の英語プロンプトの重複を避けるため、全 194 件の一覧は下のカテゴリ別リンクまたは日本語 Web ギャラリーからご覧ください。
 
 | カテゴリー | 件数 | 作例を見る |
 | --- | ---: | --- |
-| GIF・アニメーション | **89** | [英語で読む](README.md#category-gif-animation) |
-| キャラクターと一貫性 | **26** | [英語で読む](README.md#category-characters-consistency) |
+| GIF・アニメーション | **90** | [英語で読む](README.md#category-gif-animation) |
+| キャラクターと一貫性 | **27** | [英語で読む](README.md#category-characters-consistency) |
+| インフォグラフィック | **16** | [英語で読む](README.md#category-infographics) |
+| ブランド・製品ビジュアル | **15** | [英語で読む](README.md#category-brand-products) |
+| ポスター・タイポグラフィ | **14** | [英語で読む](README.md#category-posters-typography) |
+| SVG・デザイン素材 | **13** | [英語で読む](README.md#category-svg-design-assets) |
 | マークアップ・部分編集 | **11** | [英語で読む](README.md#category-markup-edits) |
-| ポスター・タイポグラフィ | **9** | [英語で読む](README.md#category-posters-typography) |
-| ブランド・製品ビジュアル | **8** | [英語で読む](README.md#category-brand-products) |
-| インフォグラフィック | **8** | [英語で読む](README.md#category-infographics) |
-| SVG・デザイン素材 | **4** | [英語で読む](README.md#category-svg-design-assets) |
-| インテリア・建築 | **3** | [英語で読む](README.md#category-interiors-architecture) |
+| インテリア・建築 | **8** | [英語で読む](README.md#category-interiors-architecture) |
 
-**[👉 英語版メインページで全 158 件の作例を見る →](README.md#all-cases)**
+**[👉 英語版メインページで全 194 件の作例を見る →](README.md#all-cases)**
 
 [Raphael 日本語 Web ギャラリーを開く ↗](https://raphael.app/ja/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=ja-JP)
 

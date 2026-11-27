@@ -54,7 +54,7 @@ Free generation uses the basic mode. Other models have their own credit and plan
 
 ## 🏷️ Browse by category
 
-[All (158)](#all-cases) · [GIF & animation (89)](#category-gif-animation) · [Characters & consistency (26)](#category-characters-consistency) · [Markup & targeted edits (11)](#category-markup-edits) · [Posters & typography (9)](#category-posters-typography) · [Brand & product visuals (8)](#category-brand-products) · [Infographics (8)](#category-infographics) · [SVG & design assets (4)](#category-svg-design-assets) · [Interiors & architecture (3)](#category-interiors-architecture)
+[All (194)](#all-cases) · [GIF & animation (90)](#category-gif-animation) · [Characters & consistency (27)](#category-characters-consistency) · [Infographics (16)](#category-infographics) · [Brand & product visuals (15)](#category-brand-products) · [Posters & typography (14)](#category-posters-typography) · [SVG & design assets (13)](#category-svg-design-assets) · [Markup & targeted edits (11)](#category-markup-edits) · [Interiors & architecture (8)](#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -807,6 +807,18 @@ n=10
 
 ---
 
+#### CMS materials (7)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-26 | [撞色涂鸦街头穿搭](cases/cms-94293ef5/README.md) | [@Xaroon_x](https://x.com/Xaroon_x) | [Post](https://x.com/Xaroon_x/status/2055513132643303935) · [R2](https://awesome.raphael.app/materials/4e544197-6999-465d-abf1-bbdc43404e9b.jpg) |
+| 2026-11-26 | [1970s Vintage Slide Portrait](cases/cms-ffb9439a/README.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Post](https://x.com/Naiknelofar788/status/2124000845410730443) · [R2](https://awesome.raphael.app/materials/3d0e4184-a79d-42c7-88e9-cba83fd53d73.jpg) |
+| 2026-11-25 | [Japanese Watercolor Fashion Illustration](cases/cms-18a15c56/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2125586366348345532) · [R2](https://awesome.raphael.app/materials/70c6e7d2-939b-4779-a7cc-c3b01f91559c.jpg) |
+| 2026-11-25 | [Ultra-Realistic Cinematic Fashion Portrait](cases/cms-d5756684/README.md) | [@saniaspeaks_](https://x.com/saniaspeaks_) | [Post](https://x.com/saniaspeaks_/status/2119391748426469769) · [R2](https://awesome.raphael.app/materials/b5190288-26c3-4525-92fa-760e9ce4a244.jpg) |
+| 2026-11-25 | [复古影棚人像](cases/cms-53b7efd6/README.md) | [@mehvishs25](https://x.com/mehvishs25) | [Post](https://x.com/mehvishs25/status/2123408161449418956) · [R2](https://awesome.raphael.app/materials/0fbc14af-136b-472f-8118-551027ec93f4.jpg) |
+| 2026-11-25 | [电影感街头时尚人像](cases/cms-b23c2093/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2118925189329420653) · [R2](https://awesome.raphael.app/materials/67be904b-90cf-46e2-bcf8-8c579bd705b8.jpg) |
+| 2026-11-25 | [黑白照相亭拼贴](cases/cms-e2f7c7fa/README.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Post](https://x.com/Naiknelofar788/status/2120134373630722228) · [R2](https://awesome.raphael.app/materials/908a2de5-d834-468c-95b0-9221b990eb87.jpg) |
+
 <a id="category-posters-typography"></a>
 
 ### Posters & typography
@@ -1123,6 +1135,16 @@ n=6，9:16竪版。
 
 ---
 
+#### CMS materials (5)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-26 | [立冬宋式封面（工作模式）](cases/cms-c70f047a/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2118893793797914959) · [R2](https://awesome.raphael.app/materials/ea33e2af-9a43-46d9-85d8-0607a85d23e6.jpg) |
+| 2026-11-26 | [立冬宋式封面（聊天模式）](cases/cms-9b8aa37f/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2118893793797914959) · [R2](https://awesome.raphael.app/materials/fca56efb-2019-4819-b997-2a6fd65055bb.jpg) |
+| 2026-11-26 | [Visual DNA Wild Strawberry Botanical Poster](cases/cms-b91773f8/README.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [Post](https://x.com/Just_sharon7/status/2124201696830386391) · [R2](https://awesome.raphael.app/materials/62c37c26-1710-451e-a83d-20f5c0c63d97.jpg) |
+| 2026-11-26 | [Visual DNA Pomegranate Botanical Poster](cases/cms-cf3d07f5/README.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [Post](https://x.com/Just_sharon7/status/2124201696830386391) · [R2](https://awesome.raphael.app/materials/8deefa24-5167-4a8d-af45-05cd861a00b6.jpg) |
+| 2026-11-25 | [东京霓虹赛车海报](cases/cms-52e04192/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2124534963249009058) · [R2](https://awesome.raphael.app/materials/53670fbb-52bb-4fc5-8666-2584db8ca396.jpg) |
+
 <a id="category-infographics"></a>
 
 ### Infographics
@@ -1388,6 +1410,19 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 ---
 
+#### CMS materials (8)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-26 | [蕨叶的彩色 X 光](cases/cms-da8cb788/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/017f5f99-c312-4f21-a238-b6bba8946ee1.jpg) |
+| 2026-11-26 | [圆形种荚的彩色 X 光](cases/cms-ceb74c25/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/d16411cf-320e-42f7-86cd-b5242fe6ea7b.jpg) |
+| 2026-11-26 | [紫鸢尾的彩色 X 光](cases/cms-70de75d1/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/8b39fe88-5d0f-40b9-b4dc-cba24eae471c.jpg) |
+| 2026-11-26 | [银杏枝的彩色 X 光](cases/cms-754b3754/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/db3d85bb-db30-4021-9b42-eea062dacd92.jpg) |
+| 2026-11-26 | [马蹄莲的彩色 X 光](cases/cms-33a6f2a3/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/5d9f65f9-0916-4995-af10-cf1e0703cf6c.jpg) |
+| 2026-11-26 | [虞美人花的彩色 X 光](cases/cms-b1ffe239/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/7aa1f6e0-0248-4d8c-a96d-616419dcf95d.jpg) |
+| 2026-11-26 | [蒲公英的彩色 X 光](cases/cms-b8e67b2e/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/1c2fa375-4ccf-4bac-a03e-2bacc9418a10.jpg) |
+| 2026-11-26 | [酸浆果实的彩色 X 光](cases/cms-63b92f16/README.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [Post](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/1dcc1f1d-985a-4895-ab79-315092c2c40c.jpg) |
+
 <a id="category-interiors-architecture"></a>
 
 ### Interiors & architecture
@@ -1487,6 +1522,16 @@ Follow the red markup on this photo. Each number marks a spot and the legend box
 **[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-sunburst-dust-detail&utm_term=en)**
 
 ---
+
+#### CMS materials (5)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-27 | [维港夜景阳台自拍](cases/cms-9d336cff/README.md) | [@VibeEverything](https://x.com/VibeEverything) | [Post](https://x.com/VibeEverything/status/2120470049672826952) · [R2](https://awesome.raphael.app/materials/ee723dcc-f3da-45bc-9690-5b25ea5491a7.jpg) |
+| 2026-11-27 | [电梯镜面全身自拍](cases/cms-829fb924/README.md) | [@simonecanciello](https://x.com/simonecanciello) | [Post](https://x.com/simonecanciello/status/2120189335194706023) · [R2](https://awesome.raphael.app/materials/69ef97fe-973d-4575-ad60-cc9abaee530f.jpg) |
+| 2026-11-27 | [卧室超广角俯拍自拍](cases/cms-4c58d26c/README.md) | [@johnAGI168](https://x.com/johnAGI168) | [Post](https://x.com/johnAGI168/status/2118247837683044650) · [R2](https://awesome.raphael.app/materials/68c1903b-2027-40b4-a8e0-bf453a0a8a4d.jpg) |
+| 2026-11-25 | [夏日时尚大片](cases/cms-c1778327/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2124189756578033684) · [R2](https://awesome.raphael.app/materials/63cd9757-db62-4a80-8230-71b62caf1fc4.jpg) |
+| 2026-11-25 | [现实照片与想象世界](cases/cms-10315e4b/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2122379105413013674) · [R2](https://awesome.raphael.app/materials/95f53dd0-38d9-4c34-bfe5-970106069d5a.jpg) |
 
 <a id="category-characters-consistency"></a>
 
@@ -2369,6 +2414,12 @@ Original prompt wording is preserved.  See the precise source and item-level med
 
 ---
 
+#### CMS materials (1)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-27 | [翠鸟入水捕猎](cases/cms-c6ce066a/README.md) | [@NovaXCode](https://x.com/NovaXCode) | [Post](https://x.com/NovaXCode/status/2118381855166881928) · [R2](https://awesome.raphael.app/materials/15bc5239-2b24-4534-bba1-33239f1c38d5.jpg) |
+
 <a id="category-markup-edits"></a>
 
 ### Markup & targeted edits
@@ -2867,6 +2918,20 @@ Place the UI mockup in an iPhone frame.
 **[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_community-struggle-code-lightning-svg&utm_term=en)**
 
 ---
+
+#### CMS materials (9)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-27 | [粉色拉面手绘贴纸卡](cases/cms-46c05547/README.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [Post](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/335d2afb-cd94-495b-a74b-321dc888fdf1.jpg) |
+| 2026-11-27 | [冰淇淋圣代手绘贴纸卡](cases/cms-94611a32/README.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [Post](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/a7e97460-c61c-4dd8-a1bd-78a430d962c5.jpg) |
+| 2026-11-27 | [绣球花园手绘贴纸卡](cases/cms-0ec3add5/README.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [Post](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/03b4d878-b31f-4151-9e90-2b91b1db58e0.jpg) |
+| 2026-11-27 | [蒲公英草地上的母鸡贴纸卡](cases/cms-bc20b771/README.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [Post](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/09231bd8-df20-4b72-bc0d-5a8117eefe49.jpg) |
+| 2026-11-26 | [Fanta Orange Winter Beverage Poster](cases/cms-fd3ee717/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2125636346048053529) · [R2](https://awesome.raphael.app/materials/d65c0d2d-58eb-4cde-9e0f-8286087713fb.jpg) |
+| 2026-11-26 | [International City Travel Art Print Collection](cases/cms-c0d2e01e/README.md) | [@Aiwithkami](https://x.com/Aiwithkami) | [Post](https://x.com/Aiwithkami/status/2124401464932184540) · [R2](https://awesome.raphael.app/materials/1871f02c-94f6-4aa0-8f08-f99c53fc0ad4.jpg) |
+| 2026-11-25 | [Dreamlike Miniature City](cases/cms-12bf03ac/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2121291447706255657) · [R2](https://awesome.raphael.app/materials/dd983876-2868-43b4-ae57-e4d767b7ef11.jpg) |
+| 2026-11-25 | [旅行明信片](cases/cms-d7d4465b/README.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [Post](https://x.com/Naiknelofar788/status/2124723328414048351) · [R2](https://awesome.raphael.app/materials/ec6cc3bb-7fb2-4e5c-8ad5-aea345b23398.jpg) |
+| 2026-11-25 | [手工微缩城市](cases/cms-9f2801ae/README.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [Post](https://x.com/Goodmanprotocol/status/2120887954801635549) · [R2](https://awesome.raphael.app/materials/4110836a-1978-4090-be92-22374f2114d1.jpg) |
 
 <a id="category-gif-animation"></a>
 
@@ -5578,6 +5643,12 @@ Original prompt wording is preserved.  See the precise source and item-level med
 **[👉 Try now →](https://raphael.app/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=case_gallery_social-orange-office-cat-expression-grid&utm_term=en)**
 
 ---
+
+#### CMS materials (1)
+
+| Added | Example | Author | Original source |
+| --- | --- | --- | --- |
+| 2026-11-26 | [16 帧像素精灵图循环动画提示词（GPT Image 2.5）](cases/cms-ee50d17d/README.md) | [@higgsfield](https://x.com/higgsfield) | [Post](https://x.com/higgsfield/status/2097501257581965739) · [R2](https://awesome.raphael.app/materials/1997a000-1237-4c03-a981-30f12c81066c.jpg) |
 
 <a id="collection"></a>
 

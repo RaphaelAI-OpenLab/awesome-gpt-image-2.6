@@ -58,7 +58,7 @@
 
 ## 🏷️ श्रेणी के अनुसार देखें
 
-[सभी (158)](README.md#all-cases) · [GIF और ऐनिमेशन (89)](README.md#category-gif-animation) · [पात्र और एकरूपता (26)](README.md#category-characters-consistency) · [चिह्नांकन और लक्षित संपादन (11)](README.md#category-markup-edits) · [पोस्टर और टाइपोग्राफ़ी (9)](README.md#category-posters-typography) · [ब्रांड और उत्पाद के दृश्य (8)](README.md#category-brand-products) · [इन्फ़ोग्राफ़िक्स (8)](README.md#category-infographics) · [SVG और डिज़ाइन संसाधन (4)](README.md#category-svg-design-assets) · [आंतरिक सज्जा और वास्तुकला (3)](README.md#category-interiors-architecture)
+[सभी (194)](README.md#all-cases) · [GIF और ऐनिमेशन (90)](README.md#category-gif-animation) · [पात्र और एकरूपता (27)](README.md#category-characters-consistency) · [इन्फ़ोग्राफ़िक्स (16)](README.md#category-infographics) · [ब्रांड और उत्पाद के दृश्य (15)](README.md#category-brand-products) · [पोस्टर और टाइपोग्राफ़ी (14)](README.md#category-posters-typography) · [SVG और डिज़ाइन संसाधन (13)](README.md#category-svg-design-assets) · [चिह्नांकन और लक्षित संपादन (11)](README.md#category-markup-edits) · [आंतरिक सज्जा और वास्तुकला (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 सभी उदाहरण
 
-इस स्थानीयकृत संस्करण में अनुवादित परिचय, API क्विकस्टार्ट, लाइव आँकड़े और सभी चुनिंदा उदाहरण शामिल हैं। 14 फ़ाइलों में अनूदित न हुए अंग्रेज़ी प्रॉम्प्ट की पुनरावृत्ति से बचने के लिए नीचे श्रेणी के अनुसार सभी 158 उदाहरण देखें या स्थानीयकृत वेब गैलरी खोलें।
+इस स्थानीयकृत संस्करण में अनुवादित परिचय, API क्विकस्टार्ट, लाइव आँकड़े और सभी चुनिंदा उदाहरण शामिल हैं। 14 फ़ाइलों में अनूदित न हुए अंग्रेज़ी प्रॉम्प्ट की पुनरावृत्ति से बचने के लिए नीचे श्रेणी के अनुसार सभी 194 उदाहरण देखें या स्थानीयकृत वेब गैलरी खोलें।
 
 | श्रेणी | उदाहरण | उदाहरण देखें |
 | --- | ---: | --- |
-| GIF और ऐनिमेशन | **89** | [अंग्रेज़ी में पढ़ें](README.md#category-gif-animation) |
-| पात्र और एकरूपता | **26** | [अंग्रेज़ी में पढ़ें](README.md#category-characters-consistency) |
+| GIF और ऐनिमेशन | **90** | [अंग्रेज़ी में पढ़ें](README.md#category-gif-animation) |
+| पात्र और एकरूपता | **27** | [अंग्रेज़ी में पढ़ें](README.md#category-characters-consistency) |
+| इन्फ़ोग्राफ़िक्स | **16** | [अंग्रेज़ी में पढ़ें](README.md#category-infographics) |
+| ब्रांड और उत्पाद के दृश्य | **15** | [अंग्रेज़ी में पढ़ें](README.md#category-brand-products) |
+| पोस्टर और टाइपोग्राफ़ी | **14** | [अंग्रेज़ी में पढ़ें](README.md#category-posters-typography) |
+| SVG और डिज़ाइन संसाधन | **13** | [अंग्रेज़ी में पढ़ें](README.md#category-svg-design-assets) |
 | चिह्नांकन और लक्षित संपादन | **11** | [अंग्रेज़ी में पढ़ें](README.md#category-markup-edits) |
-| पोस्टर और टाइपोग्राफ़ी | **9** | [अंग्रेज़ी में पढ़ें](README.md#category-posters-typography) |
-| ब्रांड और उत्पाद के दृश्य | **8** | [अंग्रेज़ी में पढ़ें](README.md#category-brand-products) |
-| इन्फ़ोग्राफ़िक्स | **8** | [अंग्रेज़ी में पढ़ें](README.md#category-infographics) |
-| SVG और डिज़ाइन संसाधन | **4** | [अंग्रेज़ी में पढ़ें](README.md#category-svg-design-assets) |
-| आंतरिक सज्जा और वास्तुकला | **3** | [अंग्रेज़ी में पढ़ें](README.md#category-interiors-architecture) |
+| आंतरिक सज्जा और वास्तुकला | **8** | [अंग्रेज़ी में पढ़ें](README.md#category-interiors-architecture) |
 
-**[👉 अंग्रेज़ी में पूरा संग्रह देखें (सभी 158 उदाहरण) →](README.md#all-cases)**
+**[👉 अंग्रेज़ी में पूरा संग्रह देखें (सभी 194 उदाहरण) →](README.md#all-cases)**
 
 [Raphael हिंदी वेब गैलरी खोलें ↗](https://raphael.app/hi/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=hi-IN)
 

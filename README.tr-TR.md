@@ -58,7 +58,7 @@ Neden web sitesinde oluşturmalısınız?
 
 ## 🏷️ Kategoriye göre göz atın
 
-[Tümü (158)](README.md#all-cases) · [GIF ve animasyon (89)](README.md#category-gif-animation) · [Karakterler ve tutarlılık (26)](README.md#category-characters-consistency) · [İşaretleme ve hedefli düzenlemeler (11)](README.md#category-markup-edits) · [Afişler ve tipografi (9)](README.md#category-posters-typography) · [Marka ve ürün görselleri (8)](README.md#category-brand-products) · [İnfografikler (8)](README.md#category-infographics) · [SVG ve tasarım varlıkları (4)](README.md#category-svg-design-assets) · [İç mekân ve mimari (3)](README.md#category-interiors-architecture)
+[Tümü (194)](README.md#all-cases) · [GIF ve animasyon (90)](README.md#category-gif-animation) · [Karakterler ve tutarlılık (27)](README.md#category-characters-consistency) · [İnfografikler (16)](README.md#category-infographics) · [Marka ve ürün görselleri (15)](README.md#category-brand-products) · [Afişler ve tipografi (14)](README.md#category-posters-typography) · [SVG ve tasarım varlıkları (13)](README.md#category-svg-design-assets) · [İşaretleme ve hedefli düzenlemeler (11)](README.md#category-markup-edits) · [İç mekân ve mimari (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Video önizlemeleri ilk sabit karedir; hareketi görmek için bağlantılı dosy
 
 ## 📋 Tüm örnekler
 
-Bu yerelleştirilmiş sürüm çevrilmiş genel bakışı, API hızlı başlangıcını, canlı istatistikleri ve öne çıkan tüm örnekleri içerir. Çevrilmemiş İngilizce istemlerin 14 dosyada tekrarlanmasını önlemek için aşağıdaki kategorilerden tüm 158 örneğe geçin veya yerelleştirilmiş web galerisini açın.
+Bu yerelleştirilmiş sürüm çevrilmiş genel bakışı, API hızlı başlangıcını, canlı istatistikleri ve öne çıkan tüm örnekleri içerir. Çevrilmemiş İngilizce istemlerin 14 dosyada tekrarlanmasını önlemek için aşağıdaki kategorilerden tüm 194 örneğe geçin veya yerelleştirilmiş web galerisini açın.
 
 | Kategori | Örnek sayısı | Örnekleri incele |
 | --- | ---: | --- |
-| GIF ve animasyon | **89** | [İngilizce okuyun](README.md#category-gif-animation) |
-| Karakterler ve tutarlılık | **26** | [İngilizce okuyun](README.md#category-characters-consistency) |
+| GIF ve animasyon | **90** | [İngilizce okuyun](README.md#category-gif-animation) |
+| Karakterler ve tutarlılık | **27** | [İngilizce okuyun](README.md#category-characters-consistency) |
+| İnfografikler | **16** | [İngilizce okuyun](README.md#category-infographics) |
+| Marka ve ürün görselleri | **15** | [İngilizce okuyun](README.md#category-brand-products) |
+| Afişler ve tipografi | **14** | [İngilizce okuyun](README.md#category-posters-typography) |
+| SVG ve tasarım varlıkları | **13** | [İngilizce okuyun](README.md#category-svg-design-assets) |
 | İşaretleme ve hedefli düzenlemeler | **11** | [İngilizce okuyun](README.md#category-markup-edits) |
-| Afişler ve tipografi | **9** | [İngilizce okuyun](README.md#category-posters-typography) |
-| Marka ve ürün görselleri | **8** | [İngilizce okuyun](README.md#category-brand-products) |
-| İnfografikler | **8** | [İngilizce okuyun](README.md#category-infographics) |
-| SVG ve tasarım varlıkları | **4** | [İngilizce okuyun](README.md#category-svg-design-assets) |
-| İç mekân ve mimari | **3** | [İngilizce okuyun](README.md#category-interiors-architecture) |
+| İç mekân ve mimari | **8** | [İngilizce okuyun](README.md#category-interiors-architecture) |
 
-**[👉 İngilizce tam koleksiyonu görüntüle (tüm 158 örnek) →](README.md#all-cases)**
+**[👉 İngilizce tam koleksiyonu görüntüle (tüm 194 örnek) →](README.md#all-cases)**
 
 [Raphael Türkçe web galerisini aç ↗](https://raphael.app/tr/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=tr-TR)
 

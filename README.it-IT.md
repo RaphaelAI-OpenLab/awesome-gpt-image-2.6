@@ -58,7 +58,7 @@ La generazione gratuita usa la modalità di base. I crediti e i piani richiesti 
 
 ## 🏷️ Sfoglia per categoria
 
-[Tutti (158)](README.md#all-cases) · [GIF e animazione (89)](README.md#category-gif-animation) · [Personaggi e coerenza (26)](README.md#category-characters-consistency) · [Annotazioni e modifiche mirate (11)](README.md#category-markup-edits) · [Poster e tipografia (9)](README.md#category-posters-typography) · [Immagini per marchi e prodotti (8)](README.md#category-brand-products) · [Infografiche (8)](README.md#category-infographics) · [SVG e risorse grafiche (4)](README.md#category-svg-design-assets) · [Interni e architettura (3)](README.md#category-interiors-architecture)
+[Tutti (194)](README.md#all-cases) · [GIF e animazione (90)](README.md#category-gif-animation) · [Personaggi e coerenza (27)](README.md#category-characters-consistency) · [Infografiche (16)](README.md#category-infographics) · [Immagini per marchi e prodotti (15)](README.md#category-brand-products) · [Poster e tipografia (14)](README.md#category-posters-typography) · [SVG e risorse grafiche (13)](README.md#category-svg-design-assets) · [Annotazioni e modifiche mirate (11)](README.md#category-markup-edits) · [Interni e architettura (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Le anteprime video mostrano il primo fotogramma; apri il file collegato per vede
 
 ## 📋 Tutti i casi
 
-Questa edizione localizzata include la panoramica tradotta, la guida rapida API, le statistiche live e tutti i casi in evidenza. Per evitare di duplicare prompt inglesi non tradotti in 14 file, esplora l'indice completo di 158 casi per categoria qui sotto oppure apri la galleria web localizzata.
+Questa edizione localizzata include la panoramica tradotta, la guida rapida API, le statistiche live e tutti i casi in evidenza. Per evitare di duplicare prompt inglesi non tradotti in 14 file, esplora l'indice completo di 194 casi per categoria qui sotto oppure apri la galleria web localizzata.
 
 | Categoria | Casi | Esplora esempi |
 | --- | ---: | --- |
-| GIF e animazione | **89** | [Leggi in inglese](README.md#category-gif-animation) |
-| Personaggi e coerenza | **26** | [Leggi in inglese](README.md#category-characters-consistency) |
+| GIF e animazione | **90** | [Leggi in inglese](README.md#category-gif-animation) |
+| Personaggi e coerenza | **27** | [Leggi in inglese](README.md#category-characters-consistency) |
+| Infografiche | **16** | [Leggi in inglese](README.md#category-infographics) |
+| Immagini per marchi e prodotti | **15** | [Leggi in inglese](README.md#category-brand-products) |
+| Poster e tipografia | **14** | [Leggi in inglese](README.md#category-posters-typography) |
+| SVG e risorse grafiche | **13** | [Leggi in inglese](README.md#category-svg-design-assets) |
 | Annotazioni e modifiche mirate | **11** | [Leggi in inglese](README.md#category-markup-edits) |
-| Poster e tipografia | **9** | [Leggi in inglese](README.md#category-posters-typography) |
-| Immagini per marchi e prodotti | **8** | [Leggi in inglese](README.md#category-brand-products) |
-| Infografiche | **8** | [Leggi in inglese](README.md#category-infographics) |
-| SVG e risorse grafiche | **4** | [Leggi in inglese](README.md#category-svg-design-assets) |
-| Interni e architettura | **3** | [Leggi in inglese](README.md#category-interiors-architecture) |
+| Interni e architettura | **8** | [Leggi in inglese](README.md#category-interiors-architecture) |
 
-**[👉 Visualizza la raccolta completa in inglese (tutti i 158 casi) →](README.md#all-cases)**
+**[👉 Visualizza la raccolta completa in inglese (tutti i 194 casi) →](README.md#all-cases)**
 
 [Apri la galleria web Raphael in italiano ↗](https://raphael.app/it/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=it-IT)
 

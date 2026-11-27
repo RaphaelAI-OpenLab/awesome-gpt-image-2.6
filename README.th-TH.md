@@ -58,7 +58,7 @@
 
 ## 🏷️ ดูตามหมวดหมู่
 
-[ทั้งหมด (158)](README.md#all-cases) · [GIF และแอนิเมชัน (89)](README.md#category-gif-animation) · [ตัวละครและความสม่ำเสมอ (26)](README.md#category-characters-consistency) · [การทำเครื่องหมายและการแก้ไขเฉพาะจุด (11)](README.md#category-markup-edits) · [โปสเตอร์และการจัดวางตัวอักษร (9)](README.md#category-posters-typography) · [ภาพสำหรับแบรนด์และผลิตภัณฑ์ (8)](README.md#category-brand-products) · [อินโฟกราฟิก (8)](README.md#category-infographics) · [SVG และทรัพยากรงานออกแบบ (4)](README.md#category-svg-design-assets) · [การตกแต่งภายในและสถาปัตยกรรม (3)](README.md#category-interiors-architecture)
+[ทั้งหมด (194)](README.md#all-cases) · [GIF และแอนิเมชัน (90)](README.md#category-gif-animation) · [ตัวละครและความสม่ำเสมอ (27)](README.md#category-characters-consistency) · [อินโฟกราฟิก (16)](README.md#category-infographics) · [ภาพสำหรับแบรนด์และผลิตภัณฑ์ (15)](README.md#category-brand-products) · [โปสเตอร์และการจัดวางตัวอักษร (14)](README.md#category-posters-typography) · [SVG และทรัพยากรงานออกแบบ (13)](README.md#category-svg-design-assets) · [การทำเครื่องหมายและการแก้ไขเฉพาะจุด (11)](README.md#category-markup-edits) · [การตกแต่งภายในและสถาปัตยกรรม (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -537,20 +537,20 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 กรณีตัวอย่างทั้งหมด
 
-ฉบับภาษานี้ประกอบด้วยภาพรวมที่แปลแล้ว คู่มือเริ่มต้นเร็ว API สถิติล่าสุด และเคสเด่นทั้งหมด เพื่อไม่ให้มีพรอมต์ภาษาอังกฤษซ้ำซ้อนกัน 14 ไฟล์ กรุณาเลือกดูดัชนีครบ 158 เคสตามหมวดหมู่ด้านล่างหรือเปิดแกลเลอรีบนเว็บ
+ฉบับภาษานี้ประกอบด้วยภาพรวมที่แปลแล้ว คู่มือเริ่มต้นเร็ว API สถิติล่าสุด และเคสเด่นทั้งหมด เพื่อไม่ให้มีพรอมต์ภาษาอังกฤษซ้ำซ้อนกัน 14 ไฟล์ กรุณาเลือกดูดัชนีครบ 194 เคสตามหมวดหมู่ด้านล่างหรือเปิดแกลเลอรีบนเว็บ
 
 | หมวดหมู่ | จำนวนเคส | ดูตัวอย่าง |
 | --- | ---: | --- |
-| GIF และแอนิเมชัน | **89** | [อ่านเป็นภาษาอังกฤษ](README.md#category-gif-animation) |
-| ตัวละครและความสม่ำเสมอ | **26** | [อ่านเป็นภาษาอังกฤษ](README.md#category-characters-consistency) |
+| GIF และแอนิเมชัน | **90** | [อ่านเป็นภาษาอังกฤษ](README.md#category-gif-animation) |
+| ตัวละครและความสม่ำเสมอ | **27** | [อ่านเป็นภาษาอังกฤษ](README.md#category-characters-consistency) |
+| อินโฟกราฟิก | **16** | [อ่านเป็นภาษาอังกฤษ](README.md#category-infographics) |
+| ภาพสำหรับแบรนด์และผลิตภัณฑ์ | **15** | [อ่านเป็นภาษาอังกฤษ](README.md#category-brand-products) |
+| โปสเตอร์และการจัดวางตัวอักษร | **14** | [อ่านเป็นภาษาอังกฤษ](README.md#category-posters-typography) |
+| SVG และทรัพยากรงานออกแบบ | **13** | [อ่านเป็นภาษาอังกฤษ](README.md#category-svg-design-assets) |
 | การทำเครื่องหมายและการแก้ไขเฉพาะจุด | **11** | [อ่านเป็นภาษาอังกฤษ](README.md#category-markup-edits) |
-| โปสเตอร์และการจัดวางตัวอักษร | **9** | [อ่านเป็นภาษาอังกฤษ](README.md#category-posters-typography) |
-| ภาพสำหรับแบรนด์และผลิตภัณฑ์ | **8** | [อ่านเป็นภาษาอังกฤษ](README.md#category-brand-products) |
-| อินโฟกราฟิก | **8** | [อ่านเป็นภาษาอังกฤษ](README.md#category-infographics) |
-| SVG และทรัพยากรงานออกแบบ | **4** | [อ่านเป็นภาษาอังกฤษ](README.md#category-svg-design-assets) |
-| การตกแต่งภายในและสถาปัตยกรรม | **3** | [อ่านเป็นภาษาอังกฤษ](README.md#category-interiors-architecture) |
+| การตกแต่งภายในและสถาปัตยกรรม | **8** | [อ่านเป็นภาษาอังกฤษ](README.md#category-interiors-architecture) |
 
-**[👉 ดูคอลเลกชันฉบับเต็มภาษาอังกฤษ (ครบทั้ง 158 เคส) →](README.md#all-cases)**
+**[👉 ดูคอลเลกชันฉบับเต็มภาษาอังกฤษ (ครบทั้ง 194 เคส) →](README.md#all-cases)**
 
 [เปิดเว็บแกลเลอรี Raphael ภาษาไทย ↗](https://raphael.app/th/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=th-TH)
 
