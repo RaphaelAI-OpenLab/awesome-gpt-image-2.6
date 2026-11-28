@@ -58,7 +58,7 @@
 
 ## 🏷️ 카테고리별 탐색
 
-[전체 (199)](README.md#all-cases) · [GIF 및 애니메이션 (90)](README.md#category-gif-animation) · [캐릭터 및 일관성 (27)](README.md#category-characters-consistency) · [인포그래픽 (21)](README.md#category-infographics) · [브랜드 및 제품 비주얼 (15)](README.md#category-brand-products) · [포스터 및 타이포그래피 (14)](README.md#category-posters-typography) · [SVG 및 디자인 에셋 (13)](README.md#category-svg-design-assets) · [마크업 및 특정 영역 편집 (11)](README.md#category-markup-edits) · [인테리어 및 건축 (8)](README.md#category-interiors-architecture)
+[전체 (202)](README.md#all-cases) · [GIF 및 애니메이션 (90)](README.md#category-gif-animation) · [캐릭터 및 일관성 (27)](README.md#category-characters-consistency) · [인포그래픽 (21)](README.md#category-infographics) · [브랜드 및 제품 비주얼 (16)](README.md#category-brand-products) · [포스터 및 타이포그래피 (16)](README.md#category-posters-typography) · [SVG 및 디자인 에셋 (13)](README.md#category-svg-design-assets) · [마크업 및 특정 영역 편집 (11)](README.md#category-markup-edits) · [인테리어 및 건축 (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 전체 프롬프트 | **156** |
 | ⭐ 추천 | **12** |
-| 🗂️ CMS 자료 수 | **49** |
-| 🔄 마지막 업데이트 | **2026-11-27 UTC 13:51:59** |
+| 🗂️ CMS 자료 수 | **56** |
+| 🔄 마지막 업데이트 | **2026-11-28 UTC 00:02:43** |
 
-<!-- cms-stats 49 2026-11-27T13:51:59Z -->
+<!-- cms-stats 56 2026-11-28T00:02:43Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 모든 사례
 
-이 언어 버전에는 번역된 개요, API 빠른 시작, 실시간 통계 및 모든 엄선 사례가 포함되어 있습니다. 번역되지 않은 영어 프롬프트 중복을 줄이기 위해 전체 199개 사례는 아래 카테고리 링크 또는 한국어 웹 갤러리에서 확인하세요.
+이 언어 버전에는 번역된 개요, API 빠른 시작, 실시간 통계 및 모든 엄선 사례가 포함되어 있습니다. 번역되지 않은 영어 프롬프트 중복을 줄이기 위해 전체 202개 사례는 아래 카테고리 링크 또는 한국어 웹 갤러리에서 확인하세요.
 
 | 카테고리 | 사례 수 | 사례 보기 |
 | --- | ---: | --- |
 | GIF 및 애니메이션 | **90** | [영어로 읽기](README.md#category-gif-animation) |
 | 캐릭터 및 일관성 | **27** | [영어로 읽기](README.md#category-characters-consistency) |
 | 인포그래픽 | **21** | [영어로 읽기](README.md#category-infographics) |
-| 브랜드 및 제품 비주얼 | **15** | [영어로 읽기](README.md#category-brand-products) |
-| 포스터 및 타이포그래피 | **14** | [영어로 읽기](README.md#category-posters-typography) |
+| 브랜드 및 제품 비주얼 | **16** | [영어로 읽기](README.md#category-brand-products) |
+| 포스터 및 타이포그래피 | **16** | [영어로 읽기](README.md#category-posters-typography) |
 | SVG 및 디자인 에셋 | **13** | [영어로 읽기](README.md#category-svg-design-assets) |
 | 마크업 및 특정 영역 편집 | **11** | [영어로 읽기](README.md#category-markup-edits) |
 | 인테리어 및 건축 | **8** | [영어로 읽기](README.md#category-interiors-architecture) |
 
-**[👉 영어 메인 페이지에서 전체 199개 사례 보기 →](README.md#all-cases)**
+**[👉 영어 메인 페이지에서 전체 202개 사례 보기 →](README.md#all-cases)**
 
 [Raphael 한국어 웹 갤러리 열기 ↗](https://raphael.app/ko/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=ko-KR)
 
 <a id="cms-latest"></a>
 
-## 🆕 최근 추가 (49)
+## 🆕 최근 추가 (56)
 
-[최근 추가 (49) →](README.md#cms-latest)
+[최근 추가 (56) →](README.md#cms-latest)
 
 <a id="using"></a>
 

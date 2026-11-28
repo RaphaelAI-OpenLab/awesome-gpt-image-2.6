@@ -58,7 +58,7 @@ La generación gratuita utiliza el modo básico. Los requisitos de créditos y p
 
 ## 🏷️ Explorar por categoría
 
-[Todos (199)](README.md#all-cases) · [GIF y animación (90)](README.md#category-gif-animation) · [Personajes y coherencia (27)](README.md#category-characters-consistency) · [Infografías (21)](README.md#category-infographics) · [Imágenes de marca y producto (15)](README.md#category-brand-products) · [Carteles y tipografía (14)](README.md#category-posters-typography) · [SVG y recursos de diseño (13)](README.md#category-svg-design-assets) · [Anotaciones y ediciones específicas (11)](README.md#category-markup-edits) · [Interiores y arquitectura (8)](README.md#category-interiors-architecture)
+[Todos (202)](README.md#all-cases) · [GIF y animación (90)](README.md#category-gif-animation) · [Personajes y coherencia (27)](README.md#category-characters-consistency) · [Infografías (21)](README.md#category-infographics) · [Imágenes de marca y producto (16)](README.md#category-brand-products) · [Carteles y tipografía (16)](README.md#category-posters-typography) · [SVG y recursos de diseño (13)](README.md#category-svg-design-assets) · [Anotaciones y ediciones específicas (11)](README.md#category-markup-edits) · [Interiores y arquitectura (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Prompts totales | **156** |
 | ⭐ Destacados | **12** |
-| 🗂️ Recursos en el CMS | **49** |
-| 🔄 Última actualización | **2026-11-27 UTC 13:51:59** |
+| 🗂️ Recursos en el CMS | **56** |
+| 🔄 Última actualización | **2026-11-28 UTC 00:02:43** |
 
-<!-- cms-stats 49 2026-11-27T13:51:59Z -->
+<!-- cms-stats 56 2026-11-28T00:02:43Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Las vistas previas de vídeo son el primer fotograma; abre el archivo enlazado p
 
 ## 📋 Todos los casos
 
-Esta edición localizada incluye la introducción traducida, el inicio rápido de la API, estadísticas en vivo y todos los casos destacados. Para evitar duplicar prompts en inglés sin traducir en 14 archivos, navega por el índice completo de 199 casos por categoría abajo o abre la galería web localizada.
+Esta edición localizada incluye la introducción traducida, el inicio rápido de la API, estadísticas en vivo y todos los casos destacados. Para evitar duplicar prompts en inglés sin traducir en 14 archivos, navega por el índice completo de 202 casos por categoría abajo o abre la galería web localizada.
 
 | Categoría | Casos | Ver ejemplos |
 | --- | ---: | --- |
 | GIF y animación | **90** | [Leer en inglés](README.md#category-gif-animation) |
 | Personajes y coherencia | **27** | [Leer en inglés](README.md#category-characters-consistency) |
 | Infografías | **21** | [Leer en inglés](README.md#category-infographics) |
-| Imágenes de marca y producto | **15** | [Leer en inglés](README.md#category-brand-products) |
-| Carteles y tipografía | **14** | [Leer en inglés](README.md#category-posters-typography) |
+| Imágenes de marca y producto | **16** | [Leer en inglés](README.md#category-brand-products) |
+| Carteles y tipografía | **16** | [Leer en inglés](README.md#category-posters-typography) |
 | SVG y recursos de diseño | **13** | [Leer en inglés](README.md#category-svg-design-assets) |
 | Anotaciones y ediciones específicas | **11** | [Leer en inglés](README.md#category-markup-edits) |
 | Interiores y arquitectura | **8** | [Leer en inglés](README.md#category-interiors-architecture) |
 
-**[👉 Ver la colección completa en inglés (los 199 casos) →](README.md#all-cases)**
+**[👉 Ver la colección completa en inglés (los 202 casos) →](README.md#all-cases)**
 
 [Abrir la galería web de Raphael en español ↗](https://raphael.app/es/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=es-ES)
 
 <a id="cms-latest"></a>
 
-## 🆕 Añadido recientemente (49)
+## 🆕 Añadido recientemente (56)
 
-[Añadido recientemente (49) →](README.md#cms-latest)
+[Añadido recientemente (56) →](README.md#cms-latest)
 
 <a id="using"></a>
 

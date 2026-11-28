@@ -58,7 +58,7 @@ A geração gratuita utiliza o modo básico. Os créditos e planos exigidos pelo
 
 ## 🏷️ Explorar por categoria
 
-[Todos (199)](README.md#all-cases) · [GIF e animação (90)](README.md#category-gif-animation) · [Personagens e consistência (27)](README.md#category-characters-consistency) · [Infografias (21)](README.md#category-infographics) · [Imagens de marcas e produtos (15)](README.md#category-brand-products) · [Cartazes e tipografia (14)](README.md#category-posters-typography) · [SVG e recursos de design (13)](README.md#category-svg-design-assets) · [Anotações e edições pontuais (11)](README.md#category-markup-edits) · [Interiores e arquitetura (8)](README.md#category-interiors-architecture)
+[Todos (202)](README.md#all-cases) · [GIF e animação (90)](README.md#category-gif-animation) · [Personagens e consistência (27)](README.md#category-characters-consistency) · [Infografias (21)](README.md#category-infographics) · [Imagens de marcas e produtos (16)](README.md#category-brand-products) · [Cartazes e tipografia (16)](README.md#category-posters-typography) · [SVG e recursos de design (13)](README.md#category-svg-design-assets) · [Anotações e edições pontuais (11)](README.md#category-markup-edits) · [Interiores e arquitetura (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Total de prompts | **156** |
 | ⭐ Destaques | **12** |
-| 🗂️ Materiais no CMS | **49** |
-| 🔄 Última atualização | **2026-11-27 UTC 13:51:59** |
+| 🗂️ Materiais no CMS | **56** |
+| 🔄 Última atualização | **2026-11-28 UTC 00:02:43** |
 
-<!-- cms-stats 49 2026-11-27T13:51:59Z -->
+<!-- cms-stats 56 2026-11-28T00:02:43Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ As pré-visualizações de vídeo mostram o primeiro fotograma; abra o ficheiro 
 
 ## 📋 Todos os casos
 
-Esta edição localizada inclui a visão geral traduzida, o início rápido da API, estatísticas em tempo real e todos os casos em destaque. Para evitar duplicar prompts em inglês sem tradução em 14 ficheiros, navegue pelo índice completo de 199 casos por categoria abaixo ou abra a galeria web localizada.
+Esta edição localizada inclui a visão geral traduzida, o início rápido da API, estatísticas em tempo real e todos os casos em destaque. Para evitar duplicar prompts em inglês sem tradução em 14 ficheiros, navegue pelo índice completo de 202 casos por categoria abaixo ou abra a galeria web localizada.
 
 | Categoria | Casos | Explorar exemplos |
 | --- | ---: | --- |
 | GIF e animação | **90** | [Ler em inglês](README.md#category-gif-animation) |
 | Personagens e consistência | **27** | [Ler em inglês](README.md#category-characters-consistency) |
 | Infografias | **21** | [Ler em inglês](README.md#category-infographics) |
-| Imagens de marcas e produtos | **15** | [Ler em inglês](README.md#category-brand-products) |
-| Cartazes e tipografia | **14** | [Ler em inglês](README.md#category-posters-typography) |
+| Imagens de marcas e produtos | **16** | [Ler em inglês](README.md#category-brand-products) |
+| Cartazes e tipografia | **16** | [Ler em inglês](README.md#category-posters-typography) |
 | SVG e recursos de design | **13** | [Ler em inglês](README.md#category-svg-design-assets) |
 | Anotações e edições pontuais | **11** | [Ler em inglês](README.md#category-markup-edits) |
 | Interiores e arquitetura | **8** | [Ler em inglês](README.md#category-interiors-architecture) |
 
-**[👉 Ver a coleção completa em inglês (todos os 199 casos) →](README.md#all-cases)**
+**[👉 Ver a coleção completa em inglês (todos os 202 casos) →](README.md#all-cases)**
 
 [Abrir a galeria web Raphael em português ↗](https://raphael.app/pt/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=pt-PT)
 
 <a id="cms-latest"></a>
 
-## 🆕 Adicionado recentemente (49)
+## 🆕 Adicionado recentemente (56)
 
-[Adicionado recentemente (49) →](README.md#cms-latest)
+[Adicionado recentemente (56) →](README.md#cms-latest)
 
 <a id="using"></a>
 
