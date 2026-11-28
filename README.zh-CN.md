@@ -54,7 +54,7 @@
 
 ## 🏷️ 按分类浏览
 
-[全部 (202)](#all-cases) · [GIF 与动画 (90)](#category-gif-animation) · [角色与一致性 (27)](#category-characters-consistency) · [信息图 (21)](#category-infographics) · [品牌与商品 (16)](#category-brand-products) · [海报与文字排版 (16)](#category-posters-typography) · [SVG 与设计素材 (13)](#category-svg-design-assets) · [标注与局部编辑 (11)](#category-markup-edits) · [室内与建筑 (8)](#category-interiors-architecture)
+[全部 (248)](#all-cases) · [GIF 与动画 (90)](#category-gif-animation) · [角色与一致性 (40)](#category-characters-consistency) · [海报与文字排版 (35)](#category-posters-typography) · [品牌与商品 (23)](#category-brand-products) · [信息图 (21)](#category-infographics) · [SVG 与设计素材 (17)](#category-svg-design-assets) · [标注与局部编辑 (14)](#category-markup-edits) · [室内与建筑 (8)](#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -152,10 +152,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 提示词总数 | **156** |
 | ⭐ 精选 | **12** |
-| 🗂️ CMS 素材总数 | **69** |
-| 🔄 最后更新 | **2026年11月28日星期六 UTC 07:48:29** |
+| 🗂️ CMS 素材总数 | **119** |
+| 🔄 最后更新 | **2026年11月28日星期六 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -807,10 +807,17 @@ n=10
 
 ---
 
-#### CMS 素材总数 (8)
+#### CMS 素材总数 (15)
 
 | 收录日期 | 案例 | 作者 | 原始来源 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [比耶的圆眼镜 3D 肖像](cases/cms-b256ee25/README.zh-CN.md) | [@oggii_0](https://x.com/oggii_0) | [原帖](https://x.com/oggii_0/status/2122186361193341356) · [R2](https://awesome.raphael.app/materials/ad48acbc-2a3d-4997-9ba0-8e7acfb0db83.jpg) |
+| 2026-11-28 | [举手机的圆眼镜 3D 肖像](cases/cms-17df5e70/README.zh-CN.md) | [@oggii_0](https://x.com/oggii_0) | [原帖](https://x.com/oggii_0/status/2122186361193341356) · [R2](https://awesome.raphael.app/materials/d7029a66-b004-4522-83b0-79407a3b1bcc.jpg) |
+| 2026-11-28 | [短发圆眼镜 3D 肖像](cases/cms-33bb5f93/README.zh-CN.md) | [@oggii_0](https://x.com/oggii_0) | [原帖](https://x.com/oggii_0/status/2122186361193341356) · [R2](https://awesome.raphael.app/materials/9b0ec006-a376-4356-9b6e-b902d2309893.jpg) |
+| 2026-11-28 | [红伞蘑菇的云朵倒影](cases/cms-0c9584c1/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/c892086a-b27a-46aa-b7b7-b5facb0a7fb7.jpg) |
+| 2026-11-28 | [胡萝卜兔的云朵倒影](cases/cms-60153053/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/2673500a-a48b-4905-894c-bcf7a5330f13.jpg) |
+| 2026-11-28 | [熊猫的云朵倒影](cases/cms-910cea87/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/aa6f8c92-8255-4ce2-85f9-f3c0dc7bc94c.jpg) |
+| 2026-11-28 | [蝴蝶结小猫的云朵倒影](cases/cms-158dbc3b/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/66857c25-f3f9-426a-9aec-f0597ee21b99.jpg) |
 | 2026-11-27 | [彩绘玻璃风格的运河钟楼](cases/cms-604fad8d/README.zh-CN.md) | [@churvikv](https://x.com/churvikv) | [原帖](https://x.com/churvikv/status/2122700397856834038) · [R2](https://awesome.raphael.app/materials/cc0f5081-25dd-4435-b1bb-cfb8b49ecb95.jpg) |
 | 2026-11-26 | [撞色涂鸦街头穿搭](cases/cms-94293ef5/README.zh-CN.md) | [@Xaroon_x](https://x.com/Xaroon_x) | [原帖](https://x.com/Xaroon_x/status/2055513132643303935) · [R2](https://awesome.raphael.app/materials/4e544197-6999-465d-abf1-bbdc43404e9b.jpg) |
 | 2026-11-26 | [1970s Vintage Slide Portrait](cases/cms-ffb9439a/README.zh-CN.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2124000845410730443) · [R2](https://awesome.raphael.app/materials/3d0e4184-a79d-42c7-88e9-cba83fd53d73.jpg) |
@@ -1136,10 +1143,29 @@ n=6，9:16竪版。
 
 ---
 
-#### CMS 素材总数 (7)
+#### CMS 素材总数 (26)
 
 | 收录日期 | 案例 | 作者 | 原始来源 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [泰姬陵几何海报](cases/cms-655f723b/README.zh-CN.md) | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/d89e9b90-3988-423e-b8f5-a484395631d4.jpg) |
+| 2026-11-28 | [天鹅绒本能：黑豹美妆封面](cases/cms-194dca1e/README.zh-CN.md) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/6fc85b51-e660-4540-9fb1-19c3a29e1321.jpg) |
+| 2026-11-28 | [匈牙利国会大厦几何海报](cases/cms-0ada900b/README.zh-CN.md) | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/345d3853-4830-443e-9669-562a5f88fb68.jpg) |
+| 2026-11-28 | [冰境：白狐美妆封面](cases/cms-8b56b06e/README.zh-CN.md) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/8a88c3a2-cd49-40f3-acfb-f58de40ff25a.jpg) |
+| 2026-11-28 | [伦敦塔桥几何海报](cases/cms-4593e60c/README.zh-CN.md) | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/0d988186-517f-451e-81c7-03643a2528f9.jpg) |
+| 2026-11-28 | [绯红盛放：深红美妆封面](cases/cms-ca7b8b18/README.zh-CN.md) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/633248ea-552d-47bb-a9d9-d4857caf1f60.jpg) |
+| 2026-11-28 | [静雅：象牙白美妆封面](cases/cms-846dbe6f/README.zh-CN.md) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/fb515974-3891-481c-81d0-6f97b8647752.jpg) |
+| 2026-11-28 | [古城尖塔几何海报](cases/cms-e1fdeeaa/README.zh-CN.md) | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/28115121-b2e2-4632-873d-662ff55b9157.jpg) |
+| 2026-11-28 | [经纬：东方织锦](cases/cms-1a031e2a/README.zh-CN.md) | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/444add90-6828-40f5-81a5-a6952a1f9b33.jpg) |
+| 2026-11-28 | [羽谱：展翼与字形](cases/cms-48fe6df4/README.zh-CN.md) | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/c479e29c-240c-4df9-acb7-2ec4993f3c05.jpg) |
+| 2026-11-28 | [舞迹：狂草与舞者](cases/cms-fc20877d/README.zh-CN.md) | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/6ad212ea-e5ec-432a-820d-ffed510c3132.jpg) |
+| 2026-11-28 | [埃菲尔铁塔字母建筑海报](cases/cms-0df3fb6e/README.zh-CN.md) | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/a594ee0e-23dd-40ac-b560-66ba7e3447e0.jpg) |
+| 2026-11-28 | [罗马斗兽场字母建筑海报](cases/cms-8d384436/README.zh-CN.md) | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/00ca8dd4-ed33-4dc8-a08a-98bbe35df9bd.jpg) |
+| 2026-11-28 | [光隙：建筑与巨字](cases/cms-79c80b5f/README.zh-CN.md) | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/8765ccff-e390-449a-a100-33e561326289.jpg) |
+| 2026-11-28 | [大本钟字母建筑海报](cases/cms-67066aea/README.zh-CN.md) | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/d9ca43ec-d18b-4b4f-832a-26cd9896f753.jpg) |
+| 2026-11-28 | [拐杖糖圣诞老人几何海报](cases/cms-e19c2988/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2125520256022216961) · [R2](https://awesome.raphael.app/materials/cf5a3056-f1f9-4415-985c-2da7e0e8ed10.jpg) |
+| 2026-11-28 | [冬日驯鹿几何海报](cases/cms-b52fff1f/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2125520256022216961) · [R2](https://awesome.raphael.app/materials/6dd5e86c-2d0b-4c98-8c8a-fdabfcd8c850.jpg) |
+| 2026-11-28 | [泰姬陵字母建筑海报](cases/cms-789591a8/README.zh-CN.md) | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/fc525e7a-a499-44d1-84c9-7efad48a68de.jpg) |
+| 2026-11-28 | [圣诞女孩与礼物几何海报](cases/cms-be9b50a0/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2125520256022216961) · [R2](https://awesome.raphael.app/materials/5ac81b0c-3908-4b28-9f65-91230da44c3d.jpg) |
 | 2026-11-27 | [粉色花束撕纸拼贴](cases/cms-0b84b257/README.zh-CN.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2122624949466923407) · [R2](https://awesome.raphael.app/materials/938b7744-70ae-4160-ae04-d797abdd340a.jpg) |
 | 2026-11-27 | [复古收音机撕纸拼贴](cases/cms-ed159d79/README.zh-CN.md) | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2122624949466923407) · [R2](https://awesome.raphael.app/materials/fcab077d-37bb-435a-b6cb-859bb213eee3.jpg) |
 | 2026-11-26 | [立冬宋式封面（工作模式）](cases/cms-c70f047a/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118893793797914959) · [R2](https://awesome.raphael.app/materials/ea33e2af-9a43-46d9-85d8-0607a85d23e6.jpg) |
@@ -2422,10 +2448,23 @@ Shot on a 35mm prime lens at f/2.2 with gentle highlight halation and fine organ
 
 ---
 
-#### CMS 素材总数 (1)
+#### CMS 素材总数 (14)
 
 | 收录日期 | 案例 | 作者 | 原始来源 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [唐风襦裙江南相册（6）](cases/cms-7852db85/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/77ad8e52-2e97-4c56-8818-e0a7f0c3d2f9.jpg) |
+| 2026-11-28 | [唐风襦裙江南相册（5）](cases/cms-ac4148d4/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/1d37f538-04bb-4def-84a1-555bb7e7ec43.jpg) |
+| 2026-11-28 | [唐风襦裙江南相册（4）](cases/cms-7f338143/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/e6e7d395-6f5a-45b4-9f38-fa959fdd9495.jpg) |
+| 2026-11-28 | [唐风襦裙江南相册（3）](cases/cms-95e0bc1f/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/a581b0a9-197d-4c29-8832-fa59eae89e74.jpg) |
+| 2026-11-28 | [江南春日胶片肖像（5）](cases/cms-c38f7cbd/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/35808285-80eb-4cde-a2c6-dd9a5bedf5d0.jpg) |
+| 2026-11-28 | [唐风襦裙江南相册（1）](cases/cms-045364e2/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/59cd6519-e38a-4ab7-8f47-dcb9933848f3.jpg) |
+| 2026-11-28 | [唐风襦裙江南相册（2）](cases/cms-659dd17e/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/8898104d-43fa-4f2f-9104-ff60a7282367.jpg) |
+| 2026-11-28 | [江南春日胶片肖像（6）](cases/cms-1d32b737/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/5d9aab14-8379-46fc-9f12-57e5a1b11d62.jpg) |
+| 2026-11-28 | [江南春日胶片肖像（3）](cases/cms-58189fed/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/cfebc618-1008-43ed-9bef-f718c92c5c1f.jpg) |
+| 2026-11-28 | [江南春日胶片肖像（2）](cases/cms-261a9360/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/75dad7df-c9f0-4871-a44d-73f56fc3a8d8.jpg) |
+| 2026-11-28 | [江南春日胶片肖像（1）](cases/cms-7d771669/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/6d46b9a4-6d2c-437f-a0e7-883f43823c95.jpg) |
+| 2026-11-28 | [江南春日胶片肖像（4）](cases/cms-a7404044/README.zh-CN.md) | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/87684734-df5e-4d3a-bc0f-b3b9e454d3ab.jpg) |
+| 2026-11-28 | [火龙果博物志图鉴](cases/cms-54079bfb/README.zh-CN.md) | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2123882892279349442) · [R2](https://awesome.raphael.app/materials/54f2fe50-3d23-42f8-96a1-a9bf7d24d700.jpg) |
 | 2026-11-27 | [翠鸟入水捕猎](cases/cms-c6ce066a/README.zh-CN.md) | [@NovaXCode](https://x.com/NovaXCode) | [原帖](https://x.com/NovaXCode/status/2118381855166881928) · [R2](https://awesome.raphael.app/materials/15bc5239-2b24-4534-bba1-33239f1c38d5.jpg) |
 
 <a id="category-markup-edits"></a>
@@ -2813,6 +2852,14 @@ FORMAT: A6 portrait orientation, 2:3 aspect ratio, print-ready composition.
 
 ---
 
+#### CMS 素材总数 (3)
+
+| 收录日期 | 案例 | 作者 | 原始来源 |
+| --- | --- | --- | --- |
+| 2026-11-28 | [薄荷绿机车水彩](cases/cms-1a919041/README.zh-CN.md) | [@Maercihh](https://x.com/Maercihh) | [原帖](https://x.com/Maercihh/status/2124501062627598678) · [R2](https://awesome.raphael.app/materials/7c6af42a-1d7d-4235-ba31-2afdeca107b0.jpg) |
+| 2026-11-28 | [滑板车旁的街头水彩](cases/cms-fe4da855/README.zh-CN.md) | [@Maercihh](https://x.com/Maercihh) | [原帖](https://x.com/Maercihh/status/2124501062627598678) · [R2](https://awesome.raphael.app/materials/ab5536c9-131a-4bfd-b98d-bd3cd4a7bc87.jpg) |
+| 2026-11-28 | [街头小提琴水彩](cases/cms-77645fa9/README.zh-CN.md) | [@Maercihh](https://x.com/Maercihh) | [原帖](https://x.com/Maercihh/status/2124501062627598678) · [R2](https://awesome.raphael.app/materials/aa6ae4bc-2a6c-4222-bd19-db6979aeb59b.jpg) |
+
 <a id="category-svg-design-assets"></a>
 
 ### SVG 与设计素材
@@ -2927,10 +2974,14 @@ Place the UI mockup in an iPhone frame.
 
 ---
 
-#### CMS 素材总数 (9)
+#### CMS 素材总数 (13)
 
 | 收录日期 | 案例 | 作者 | 原始来源 |
 | --- | --- | --- | --- |
+| 2026-11-28 | [拱门里的圣托里尼](cases/cms-7ea61499/README.zh-CN.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/eef9e8b6-72f8-457c-b880-8db97b0fb086.jpg) |
+| 2026-11-28 | [拱门里的东京与富士山](cases/cms-1ddaf063/README.zh-CN.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/0143bb81-ed55-47e8-afbe-266d3239fa92.jpg) |
+| 2026-11-28 | [拱门里的纽约自由女神像](cases/cms-19c3d7d1/README.zh-CN.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/4e8f5984-9d73-4640-9546-fce66b97d548.jpg) |
+| 2026-11-28 | [拱门里的罗马斗兽场](cases/cms-c310c228/README.zh-CN.md) | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/2a40ec52-7e33-49bd-ad9c-9e7b71a8dc96.jpg) |
 | 2026-11-27 | [粉色拉面手绘贴纸卡](cases/cms-46c05547/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/335d2afb-cd94-495b-a74b-321dc888fdf1.jpg) |
 | 2026-11-27 | [冰淇淋圣代手绘贴纸卡](cases/cms-94611a32/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/a7e97460-c61c-4dd8-a1bd-78a430d962c5.jpg) |
 | 2026-11-27 | [绣球花园手绘贴纸卡](cases/cms-0ec3add5/README.zh-CN.md) | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/03b4d878-b31f-4151-9e90-2b91b1db58e0.jpg) |
@@ -6521,89 +6572,89 @@ Raphael web UI · GPT Image 2.6 Sunburst · 2026-11-13
 
 <a id="cms-latest"></a>
 
-## 🆕 最近收录 (69)
+## 🆕 最近收录 (119)
 
 由 GitHub Actions 从 Directus CMS 自动拉取至 `content/cms-materials.json`。图片均使用第一方 R2 外链加载不撑爆仓库，每条素材都在 `cases/cms-*/` 生成独立详情页。
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="cases/cms-0ee5b469/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/1081c59f-734d-48c6-95f8-e1c7a02029de.jpg" alt="橘猫打工人的十二款表情" width="360" /></a><br /><strong><a href="cases/cms-0ee5b469/README.zh-CN.md">橘猫打工人的十二款表情</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @karanwithai</sub><br /><sub>画一套12款橘猫打工人表情包，圆脸胖橘戴蓝领带，粗黑蜡笔线条、橙蓝配色、米白底，表情夸张搞笑，角色保持一致。按3列×4行排列，分别配字：开心、气成河豚、委屈巴巴、笑不活了、收到、啊？、累瘫了、我裂开了、先装死、蹲个后续、没眼看、下班！</sub></td>
-<td width="50%" valign="top"><a href="cases/cms-e79bc446/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/3d374842-dabe-49de-8dca-5de49bc4c3db.jpg" alt="圈选改图：圣诞帽与礼物盒" width="360" /></a><br /><strong><a href="cases/cms-e79bc446/README.zh-CN.md">圈选改图：圣诞帽与礼物盒</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @IHayato</sub><br /><sub>赤丸にサンタ帽、青丸の本はプレゼントに</sub></td>
+<td width="50%" valign="top"><a href="cases/cms-7852db85/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/77ad8e52-2e97-4c56-8818-e0a7f0c3d2f9.jpg" alt="唐风襦裙江南相册（6）" width="360" /></a><br /><strong><a href="cases/cms-7852db85/README.zh-CN.md">唐风襦裙江南相册（6）</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @DeepBlueX0</sub><br /><sub>《江南春日・女友私人相冊》× Boyfriend POV × iPhone Snapshot。  整組保持同一位二十多歲成年東亞女性，五官、髮型、身材、服裝及配飾一致。如有參考圖，僅參考面部特徵與個人氣質。  自然淡妝，白皙粉嫩的真實肌膚，身形修長，肩頸舒展。唐風高髻，點綴…</sub></td>
+<td width="50%" valign="top"><a href="cases/cms-ac4148d4/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/1d37f538-04bb-4def-84a1-555bb7e7ec43.jpg" alt="唐风襦裙江南相册（5）" width="360" /></a><br /><strong><a href="cases/cms-ac4148d4/README.zh-CN.md">唐风襦裙江南相册（5）</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @DeepBlueX0</sub><br /><sub>《江南春日・女友私人相冊》× Boyfriend POV × iPhone Snapshot。  整組保持同一位二十多歲成年東亞女性，五官、髮型、身材、服裝及配飾一致。如有參考圖，僅參考面部特徵與個人氣質。  自然淡妝，白皙粉嫩的真實肌膚，身形修長，肩頸舒展。唐風高髻，點綴…</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="cases/cms-e15401dd/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/c7b1ab1a-3311-44c2-8714-f9e68de7715e.jpg" alt="镜面电梯里的黑衣人像" width="360" /></a><br /><strong><a href="cases/cms-e15401dd/README.zh-CN.md">镜面电梯里的黑衣人像</a></strong><br /><sub>品牌与商品 · 2026-11-28 · @tadasgedgaudas</sub><br /><sub>{&quot;subject&quot;: {&quot;description&quot;: &quot;A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has…</sub></td>
-<td width="50%" valign="top"><a href="cases/cms-16454b0e/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/1ebbe9ae-d12b-4573-ae20-7b2603e89809.jpg" alt="坐在礁石上的笑容" width="360" /></a><br /><strong><a href="cases/cms-16454b0e/README.zh-CN.md">坐在礁石上的笑容</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @sonny_eacc</sub><br /><sub>上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加： ③坐姿：白衬衫扣好，坐在海边岩石上，半身构图，自然大笑。</sub></td>
+<td width="50%" valign="top"><a href="cases/cms-7f338143/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/e6e7d395-6f5a-45b4-9f38-fa959fdd9495.jpg" alt="唐风襦裙江南相册（4）" width="360" /></a><br /><strong><a href="cases/cms-7f338143/README.zh-CN.md">唐风襦裙江南相册（4）</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @DeepBlueX0</sub><br /><sub>《江南春日・女友私人相冊》× Boyfriend POV × iPhone Snapshot。  整組保持同一位二十多歲成年東亞女性，五官、髮型、身材、服裝及配飾一致。如有參考圖，僅參考面部特徵與個人氣質。  自然淡妝，白皙粉嫩的真實肌膚，身形修長，肩頸舒展。唐風高髻，點綴…</sub></td>
+<td width="50%" valign="top"><a href="cases/cms-95e0bc1f/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/a581b0a9-197d-4c29-8832-fa59eae89e74.jpg" alt="唐风襦裙江南相册（3）" width="360" /></a><br /><strong><a href="cases/cms-95e0bc1f/README.zh-CN.md">唐风襦裙江南相册（3）</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @DeepBlueX0</sub><br /><sub>《江南春日・女友私人相冊》× Boyfriend POV × iPhone Snapshot。  整組保持同一位二十多歲成年東亞女性，五官、髮型、身材、服裝及配飾一致。如有參考圖，僅參考面部特徵與個人氣質。  自然淡妝，白皙粉嫩的真實肌膚，身形修長，肩頸舒展。唐風高髻，點綴…</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="cases/cms-1de05f7a/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/3a32a590-e869-4d35-992c-6caeee2c45e9.jpg" alt="夕阳下赤脚踏浪" width="360" /></a><br /><strong><a href="cases/cms-1de05f7a/README.zh-CN.md">夕阳下赤脚踏浪</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @sonny_eacc</sub><br /><sub>上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加： ②全身：赤脚走在浅水里，低头看浪花。</sub></td>
-<td width="50%" valign="top"><a href="cases/cms-351939eb/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/2554ad00-8eb1-47a0-bf50-5d712586cbfb.jpg" alt="海风中的微笑近景" width="360" /></a><br /><strong><a href="cases/cms-351939eb/README.zh-CN.md">海风中的微笑近景</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @sonny_eacc</sub><br /><sub>上传首图作参考，保持同一成年女性的五官、发型、服装、海边夕阳和真实肤质。每次单独生成一张，分别追加： ①近景：胸口以上，拨头发，轻轻微笑。</sub></td>
+<td width="50%" valign="top"><a href="cases/cms-c38f7cbd/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/35808285-80eb-4cde-a2c6-dd9a5bedf5d0.jpg" alt="江南春日胶片肖像（5）" width="360" /></a><br /><strong><a href="cases/cms-c38f7cbd/README.zh-CN.md">江南春日胶片肖像（5）</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @DeepBlueX0</sub><br /><sub>《江南春日・隔著春天看她》× Foreground Occlusion × 35mm Film Photography。  整組照片保持同一位二十多歲成年東亞女性，五官、身材、髮型、服裝及配飾一致。肌膚白皙帶淡粉感，自然肌理，真實人體比例。  簡約宋風髮髻，點綴精巧花簪與自…</sub></td>
+<td width="50%" valign="top"><a href="cases/cms-045364e2/README.zh-CN.md"><img src="https://awesome.raphael.app/materials/59cd6519-e38a-4ab7-8f47-dcb9933848f3.jpg" alt="唐风襦裙江南相册（1）" width="360" /></a><br /><strong><a href="cases/cms-045364e2/README.zh-CN.md">唐风襦裙江南相册（1）</a></strong><br /><sub>角色与一致性 · 2026-11-28 · @DeepBlueX0</sub><br /><sub>《江南春日・女友私人相冊》× Boyfriend POV × iPhone Snapshot。  整組保持同一位二十多歲成年東亞女性，五官、髮型、身材、服裝及配飾一致。如有參考圖，僅參考面部特徵與個人氣質。  自然淡妝，白皙粉嫩的真實肌膚，身形修長，肩頸舒展。唐風高髻，點綴…</sub></td>
 </tr>
 </table>
 
 | # | 收录日期 | 案例 | 分类 | 作者 | 原始来源 |
 | ---: | --- | --- | --- | --- | --- |
-| 1 | 2026-11-28 | [橘猫打工人的十二款表情](cases/cms-0ee5b469/README.zh-CN.md) | 角色与一致性 | [@karanwithai](https://x.com/karanwithai) | [原帖](https://x.com/karanwithai/status/2118156092865994837) · [R2](https://awesome.raphael.app/materials/1081c59f-734d-48c6-95f8-e1c7a02029de.jpg) |
-| 2 | 2026-11-28 | [圈选改图：圣诞帽与礼物盒](cases/cms-e79bc446/README.zh-CN.md) | 角色与一致性 | [@IHayato](https://x.com/IHayato) | [原帖](https://x.com/IHayato/status/2118151619212890291) · [R2](https://awesome.raphael.app/materials/3d374842-dabe-49de-8dca-5de49bc4c3db.jpg) |
-| 3 | 2026-11-28 | [镜面电梯里的黑衣人像](cases/cms-e15401dd/README.zh-CN.md) | 品牌与商品 | [@tadasgedgaudas](https://x.com/tadasgedgaudas) | [原帖](https://x.com/tadasgedgaudas/status/2118284291381875124) · [R2](https://awesome.raphael.app/materials/c7b1ab1a-3311-44c2-8714-f9e68de7715e.jpg) |
-| 4 | 2026-11-28 | [坐在礁石上的笑容](cases/cms-16454b0e/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/1ebbe9ae-d12b-4573-ae20-7b2603e89809.jpg) |
-| 5 | 2026-11-28 | [夕阳下赤脚踏浪](cases/cms-1de05f7a/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/3a32a590-e869-4d35-992c-6caeee2c45e9.jpg) |
-| 6 | 2026-11-28 | [海风中的微笑近景](cases/cms-351939eb/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/2554ad00-8eb1-47a0-bf50-5d712586cbfb.jpg) |
-| 7 | 2026-11-28 | [海边夕阳下回眸](cases/cms-3d29dbdf/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/5799d1f7-a7d9-4ea8-8d65-40509527d5a1.jpg) |
-| 8 | 2026-11-28 | [喝到快乐冒泡的珍珠奶茶](cases/cms-8acbc161/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/b121240d-611a-4390-8490-429989df0e75.jpg) |
-| 9 | 2026-11-28 | [哭着也往前跑的女孩](cases/cms-fb48bab2/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/ef00e625-97a5-46bf-ad58-e15161d909b2.jpg) |
-| 10 | 2026-11-28 | [开心又害羞的眨眼表情](cases/cms-1ffcfd8f/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/cfee146e-e315-4468-8c61-f0c0b307d9d4.jpg) |
-| 11 | 2026-11-28 | [困了还想跳的红裙舞者](cases/cms-486c4d1d/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/259e3204-3481-4fd2-95b4-bc40ad960df3.jpg) |
-| 12 | 2026-11-28 | [青蓝光诗的赛博人像](cases/cms-f5f5397e/README.zh-CN.md) | 品牌与商品 | [@iamsofiaijaz](https://x.com/iamsofiaijaz) | [原帖](https://x.com/iamsofiaijaz/status/2118561513879507399) · [R2](https://awesome.raphael.app/materials/ea3a642e-d86c-4499-bae7-31360f76041e.jpg) |
-| 13 | 2026-11-28 | [居家捧茶的女子](cases/cms-343e6b2a/README.zh-CN.md) | 角色与一致性 | [@v3rt0x_](https://x.com/v3rt0x_) | [原帖](https://x.com/v3rt0x_/status/2118147596891901957) · [R2](https://awesome.raphael.app/materials/290ceba9-0299-4441-bf32-0a3b1705a9e3.jpg) |
-| 14 | 2026-11-27 | [古钥匙打开的光丝森林之门](cases/cms-acdf7ae4/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118527529208455403) · [R2](https://awesome.raphael.app/materials/841c3557-557a-453a-b097-7d1bcea79f90.jpg) |
-| 15 | 2026-11-27 | [耳机幻化的蓝紫光鲸](cases/cms-0a4ba870/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118527529208455403) · [R2](https://awesome.raphael.app/materials/06003350-2fa8-4bbb-aa81-179cfa15d8a5.jpg) |
-| 16 | 2026-11-27 | [八音盒上方的光丝蝴蝶](cases/cms-93a9a009/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118527529208455403) · [R2](https://awesome.raphael.app/materials/0b8bbe41-466c-41e3-8462-930f0eb2de97.jpg) |
-| 17 | 2026-11-27 | [茶杯里飞出的光丝鹤](cases/cms-691cc27d/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118527529208455403) · [R2](https://awesome.raphael.app/materials/dc8b4966-c356-4f28-aadb-77cb3a875e26.jpg) |
-| 18 | 2026-11-27 | [粉色花束撕纸拼贴](cases/cms-0b84b257/README.zh-CN.md) | 海报与文字排版 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2122624949466923407) · [R2](https://awesome.raphael.app/materials/938b7744-70ae-4160-ae04-d797abdd340a.jpg) |
-| 19 | 2026-11-27 | [复古收音机撕纸拼贴](cases/cms-ed159d79/README.zh-CN.md) | 海报与文字排版 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2122624949466923407) · [R2](https://awesome.raphael.app/materials/fcab077d-37bb-435a-b6cb-859bb213eee3.jpg) |
-| 20 | 2026-11-27 | [彩绘玻璃风格的运河钟楼](cases/cms-604fad8d/README.zh-CN.md) | 品牌与商品 | [@churvikv](https://x.com/churvikv) | [原帖](https://x.com/churvikv/status/2122700397856834038) · [R2](https://awesome.raphael.app/materials/cc0f5081-25dd-4435-b1bb-cfb8b49ecb95.jpg) |
-| 21 | 2026-11-27 | [粉色郁金香的象征解剖海报](cases/cms-8214056c/README.zh-CN.md) | 信息图 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124546208442069073) · [R2](https://awesome.raphael.app/materials/0badfded-0b01-4367-b106-e71e410130ee.jpg) |
-| 22 | 2026-11-27 | [卡通小熊蛋糕的象征解剖海报](cases/cms-67afca68/README.zh-CN.md) | 信息图 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124546208442069073) · [R2](https://awesome.raphael.app/materials/37fc3a69-110f-4973-9870-86a5847aafef.jpg) |
-| 23 | 2026-11-27 | [香蕉树的象征解剖海报](cases/cms-5b569108/README.zh-CN.md) | 信息图 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124546208442069073) · [R2](https://awesome.raphael.app/materials/9daec806-f749-4b32-be9d-5a921e92c837.jpg) |
-| 24 | 2026-11-27 | [草莓的象征解剖海报](cases/cms-b0511efc/README.zh-CN.md) | 信息图 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124546208442069073) · [R2](https://awesome.raphael.app/materials/e01ae1ac-afbc-4db8-946e-f3a851323911.jpg) |
-| 25 | 2026-11-27 | [金色花穗的象征解剖海报](cases/cms-f52405fe/README.zh-CN.md) | 信息图 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124546208442069073) · [R2](https://awesome.raphael.app/materials/df04aebe-3017-4c8e-97a9-ddeaf4236fc1.jpg) |
-| 26 | 2026-11-27 | [翠鸟入水捕猎](cases/cms-c6ce066a/README.zh-CN.md) | 角色与一致性 | [@NovaXCode](https://x.com/NovaXCode) | [原帖](https://x.com/NovaXCode/status/2118381855166881928) · [R2](https://awesome.raphael.app/materials/15bc5239-2b24-4534-bba1-33239f1c38d5.jpg) |
-| 27 | 2026-11-27 | [维港夜景阳台自拍](cases/cms-9d336cff/README.zh-CN.md) | 室内与建筑 | [@VibeEverything](https://x.com/VibeEverything) | [原帖](https://x.com/VibeEverything/status/2120470049672826952) · [R2](https://awesome.raphael.app/materials/ee723dcc-f3da-45bc-9690-5b25ea5491a7.jpg) |
-| 28 | 2026-11-27 | [电梯镜面全身自拍](cases/cms-829fb924/README.zh-CN.md) | 室内与建筑 | [@simonecanciello](https://x.com/simonecanciello) | [原帖](https://x.com/simonecanciello/status/2120189335194706023) · [R2](https://awesome.raphael.app/materials/69ef97fe-973d-4575-ad60-cc9abaee530f.jpg) |
-| 29 | 2026-11-27 | [卧室超广角俯拍自拍](cases/cms-4c58d26c/README.zh-CN.md) | 室内与建筑 | [@johnAGI168](https://x.com/johnAGI168) | [原帖](https://x.com/johnAGI168/status/2118247837683044650) · [R2](https://awesome.raphael.app/materials/68c1903b-2027-40b4-a8e0-bf453a0a8a4d.jpg) |
-| 30 | 2026-11-27 | [粉色拉面手绘贴纸卡](cases/cms-46c05547/README.zh-CN.md) | SVG 与设计素材 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/335d2afb-cd94-495b-a74b-321dc888fdf1.jpg) |
-| 31 | 2026-11-27 | [冰淇淋圣代手绘贴纸卡](cases/cms-94611a32/README.zh-CN.md) | SVG 与设计素材 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/a7e97460-c61c-4dd8-a1bd-78a430d962c5.jpg) |
-| 32 | 2026-11-27 | [绣球花园手绘贴纸卡](cases/cms-0ec3add5/README.zh-CN.md) | SVG 与设计素材 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/03b4d878-b31f-4151-9e90-2b91b1db58e0.jpg) |
-| 33 | 2026-11-27 | [蒲公英草地上的母鸡贴纸卡](cases/cms-bc20b771/README.zh-CN.md) | SVG 与设计素材 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124824781715624023) · [R2](https://awesome.raphael.app/materials/09231bd8-df20-4b72-bc0d-5a8117eefe49.jpg) |
-| 34 | 2026-11-27 | [月夜湖畔汉服肖像](cases/cms-af096928/README.zh-CN.md) | 角色与一致性 | [@sandmrk](https://x.com/sandmrk) | [原帖](https://x.com/sandmrk/status/2118269430014599535) · [R2](https://awesome.raphael.app/materials/8b5a22cc-50bd-4c11-90d8-b2a5052ec635.jpg) |
-| 35 | 2026-11-27 | [夕照莲池汉服肖像](cases/cms-a904e09f/README.zh-CN.md) | 品牌与商品 | [@fengnian_ai](https://x.com/fengnian_ai) | [原帖](https://x.com/fengnian_ai/status/2118386725676552194) · [R2](https://awesome.raphael.app/materials/4a223524-45ed-426f-913d-74203cde6de7.jpg) |
-| 36 | 2026-11-27 | [白帽绿耳机街拍](cases/cms-2b03e1fc/README.zh-CN.md) | 品牌与商品 | [@johnAGI168](https://x.com/johnAGI168) | [原帖](https://x.com/johnAGI168/status/2118581030781382805) · [R2](https://awesome.raphael.app/materials/fde86b35-91cb-49e5-84ac-44a66de910b4.jpg) |
-| 37 | 2026-11-27 | [金发女子手绘圣诞贺卡](cases/cms-e7ed9720/README.zh-CN.md) | 海报与文字排版 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2118562099987398753) · [R2](https://awesome.raphael.app/materials/f920c22b-9781-492a-b279-17f490076593.jpg) |
-| 38 | 2026-11-27 | [葡萄牙球员手绘圣诞贺卡](cases/cms-4c6f7c49/README.zh-CN.md) | 海报与文字排版 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2118562099987398753) · [R2](https://awesome.raphael.app/materials/0248d4c1-b169-4dab-8b48-a492b04d2526.jpg) |
-| 39 | 2026-11-27 | [90 年代闪光灯卧室肖像](cases/cms-08958a7d/README.zh-CN.md) | SVG 与设计素材 | [@AIwithSarah_](https://x.com/AIwithSarah_) | [原帖](https://x.com/AIwithSarah_/status/2118202866448077182) · [R2](https://awesome.raphael.app/materials/032abfd5-81fa-44db-b837-cdd50db97887.jpg) |
-| 40 | 2026-11-26 | [立冬宋式封面（工作模式）](cases/cms-c70f047a/README.zh-CN.md) | 海报与文字排版 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118893793797914959) · [R2](https://awesome.raphael.app/materials/ea33e2af-9a43-46d9-85d8-0607a85d23e6.jpg) |
-| 41 | 2026-11-26 | [立冬宋式封面（聊天模式）](cases/cms-9b8aa37f/README.zh-CN.md) | 海报与文字排版 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118893793797914959) · [R2](https://awesome.raphael.app/materials/fca56efb-2019-4819-b997-2a6fd65055bb.jpg) |
-| 42 | 2026-11-26 | [蕨叶的彩色 X 光](cases/cms-da8cb788/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/017f5f99-c312-4f21-a238-b6bba8946ee1.jpg) |
-| 43 | 2026-11-26 | [圆形种荚的彩色 X 光](cases/cms-ceb74c25/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/d16411cf-320e-42f7-86cd-b5242fe6ea7b.jpg) |
-| 44 | 2026-11-26 | [紫鸢尾的彩色 X 光](cases/cms-70de75d1/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/8b39fe88-5d0f-40b9-b4dc-cba24eae471c.jpg) |
-| 45 | 2026-11-26 | [银杏枝的彩色 X 光](cases/cms-754b3754/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956809909965014) · [R2](https://awesome.raphael.app/materials/db3d85bb-db30-4021-9b42-eea062dacd92.jpg) |
-| 46 | 2026-11-26 | [马蹄莲的彩色 X 光](cases/cms-33a6f2a3/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/5d9f65f9-0916-4995-af10-cf1e0703cf6c.jpg) |
-| 47 | 2026-11-26 | [虞美人花的彩色 X 光](cases/cms-b1ffe239/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/7aa1f6e0-0248-4d8c-a96d-616419dcf95d.jpg) |
-| 48 | 2026-11-26 | [蒲公英的彩色 X 光](cases/cms-b8e67b2e/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/1c2fa375-4ccf-4bac-a03e-2bacc9418a10.jpg) |
-| 49 | 2026-11-26 | [酸浆果实的彩色 X 光](cases/cms-63b92f16/README.zh-CN.md) | 信息图 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2119956797301923945) · [R2](https://awesome.raphael.app/materials/1dcc1f1d-985a-4895-ab79-315092c2c40c.jpg) |
-| 50 | 2026-11-26 | [撞色涂鸦街头穿搭](cases/cms-94293ef5/README.zh-CN.md) | 品牌与商品 | [@Xaroon_x](https://x.com/Xaroon_x) | [原帖](https://x.com/Xaroon_x/status/2055513132643303935) · [R2](https://awesome.raphael.app/materials/4e544197-6999-465d-abf1-bbdc43404e9b.jpg) |
-| 51 | 2026-11-26 | [门禁对讲屏里的和服肖像](cases/cms-102b7d38/README.zh-CN.md) | 室内与建筑 | [@kabumira862571](https://x.com/kabumira862571) | [原帖](https://x.com/kabumira862571/status/2118220107487051883) · [R2](https://awesome.raphael.app/materials/be21952d-4679-464e-bc6b-d7f244542b69.jpg) |
-| 52 | 2026-11-26 | [猫眼视角下的和服肖像](cases/cms-8e5279ec/README.zh-CN.md) | 室内与建筑 | [@kabumira862571](https://x.com/kabumira862571) | [原帖](https://x.com/kabumira862571/status/2118220107487051883) · [R2](https://awesome.raphael.app/materials/7889b062-0985-472d-85c5-ebabe9b01db4.jpg) |
-| 53 | 2026-11-26 | [16 帧像素精灵图循环动画提示词（GPT Image 2.5）](cases/cms-ee50d17d/README.zh-CN.md) | GIF 与动画 | [@higgsfield](https://x.com/higgsfield) | [原帖](https://x.com/higgsfield/status/2097501257581965739) · [R2](https://awesome.raphael.app/materials/1997a000-1237-4c03-a981-30f12c81066c.jpg) |
-| 54 | 2026-11-26 | [Visual DNA Wild Strawberry Botanical Poster](cases/cms-b91773f8/README.zh-CN.md) | 海报与文字排版 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124201696830386391) · [R2](https://awesome.raphael.app/materials/62c37c26-1710-451e-a83d-20f5c0c63d97.jpg) |
-| 55 | 2026-11-26 | [Visual DNA Pomegranate Botanical Poster](cases/cms-cf3d07f5/README.zh-CN.md) | 海报与文字排版 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124201696830386391) · [R2](https://awesome.raphael.app/materials/8deefa24-5167-4a8d-af45-05cd861a00b6.jpg) |
-| 56 | 2026-11-26 | [Fanta Orange Winter Beverage Poster](cases/cms-fd3ee717/README.zh-CN.md) | SVG 与设计素材 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2125636346048053529) · [R2](https://awesome.raphael.app/materials/d65c0d2d-58eb-4cde-9e0f-8286087713fb.jpg) |
-| 57 | 2026-11-26 | [1970s Vintage Slide Portrait](cases/cms-ffb9439a/README.zh-CN.md) | 品牌与商品 | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2124000845410730443) · [R2](https://awesome.raphael.app/materials/3d0e4184-a79d-42c7-88e9-cba83fd53d73.jpg) |
-| 58 | 2026-11-26 | [International City Travel Art Print Collection](cases/cms-c0d2e01e/README.zh-CN.md) | SVG 与设计素材 | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2124401464932184540) · [R2](https://awesome.raphael.app/materials/1871f02c-94f6-4aa0-8f08-f99c53fc0ad4.jpg) |
-| 59 | 2026-11-25 | [Japanese Watercolor Fashion Illustration](cases/cms-18a15c56/README.zh-CN.md) | 品牌与商品 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2125586366348345532) · [R2](https://awesome.raphael.app/materials/70c6e7d2-939b-4779-a7cc-c3b01f91559c.jpg) |
-| 60 | 2026-11-25 | [Dreamlike Miniature City](cases/cms-12bf03ac/README.zh-CN.md) | SVG 与设计素材 | [@Goodmanprotocol](https://x.com/Goodmanprotocol) | [原帖](https://x.com/Goodmanprotocol/status/2121291447706255657) · [R2](https://awesome.raphael.app/materials/dd983876-2868-43b4-ae57-e4d767b7ef11.jpg) |
+| 1 | 2026-11-28 | [唐风襦裙江南相册（6）](cases/cms-7852db85/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/77ad8e52-2e97-4c56-8818-e0a7f0c3d2f9.jpg) |
+| 2 | 2026-11-28 | [唐风襦裙江南相册（5）](cases/cms-ac4148d4/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/1d37f538-04bb-4def-84a1-555bb7e7ec43.jpg) |
+| 3 | 2026-11-28 | [唐风襦裙江南相册（4）](cases/cms-7f338143/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/e6e7d395-6f5a-45b4-9f38-fa959fdd9495.jpg) |
+| 4 | 2026-11-28 | [唐风襦裙江南相册（3）](cases/cms-95e0bc1f/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/a581b0a9-197d-4c29-8832-fa59eae89e74.jpg) |
+| 5 | 2026-11-28 | [江南春日胶片肖像（5）](cases/cms-c38f7cbd/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/35808285-80eb-4cde-a2c6-dd9a5bedf5d0.jpg) |
+| 6 | 2026-11-28 | [唐风襦裙江南相册（1）](cases/cms-045364e2/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/59cd6519-e38a-4ab7-8f47-dcb9933848f3.jpg) |
+| 7 | 2026-11-28 | [唐风襦裙江南相册（2）](cases/cms-659dd17e/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126659047206322406) · [R2](https://awesome.raphael.app/materials/8898104d-43fa-4f2f-9104-ff60a7282367.jpg) |
+| 8 | 2026-11-28 | [江南春日胶片肖像（6）](cases/cms-1d32b737/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/5d9aab14-8379-46fc-9f12-57e5a1b11d62.jpg) |
+| 9 | 2026-11-28 | [江南春日胶片肖像（3）](cases/cms-58189fed/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/cfebc618-1008-43ed-9bef-f718c92c5c1f.jpg) |
+| 10 | 2026-11-28 | [江南春日胶片肖像（2）](cases/cms-261a9360/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/75dad7df-c9f0-4871-a44d-73f56fc3a8d8.jpg) |
+| 11 | 2026-11-28 | [江南春日胶片肖像（1）](cases/cms-7d771669/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/6d46b9a4-6d2c-437f-a0e7-883f43823c95.jpg) |
+| 12 | 2026-11-28 | [江南春日胶片肖像（4）](cases/cms-a7404044/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2126596132361089448) · [R2](https://awesome.raphael.app/materials/87684734-df5e-4d3a-bc0f-b3b9e454d3ab.jpg) |
+| 13 | 2026-11-28 | [拱门里的圣托里尼](cases/cms-7ea61499/README.zh-CN.md) | SVG 与设计素材 | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/eef9e8b6-72f8-457c-b880-8db97b0fb086.jpg) |
+| 14 | 2026-11-28 | [拱门里的东京与富士山](cases/cms-1ddaf063/README.zh-CN.md) | SVG 与设计素材 | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/0143bb81-ed55-47e8-afbe-266d3239fa92.jpg) |
+| 15 | 2026-11-28 | [比耶的圆眼镜 3D 肖像](cases/cms-b256ee25/README.zh-CN.md) | 品牌与商品 | [@oggii_0](https://x.com/oggii_0) | [原帖](https://x.com/oggii_0/status/2122186361193341356) · [R2](https://awesome.raphael.app/materials/ad48acbc-2a3d-4997-9ba0-8e7acfb0db83.jpg) |
+| 16 | 2026-11-28 | [拱门里的纽约自由女神像](cases/cms-19c3d7d1/README.zh-CN.md) | SVG 与设计素材 | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/4e8f5984-9d73-4640-9546-fce66b97d548.jpg) |
+| 17 | 2026-11-28 | [举手机的圆眼镜 3D 肖像](cases/cms-17df5e70/README.zh-CN.md) | 品牌与商品 | [@oggii_0](https://x.com/oggii_0) | [原帖](https://x.com/oggii_0/status/2122186361193341356) · [R2](https://awesome.raphael.app/materials/d7029a66-b004-4522-83b0-79407a3b1bcc.jpg) |
+| 18 | 2026-11-28 | [拱门里的罗马斗兽场](cases/cms-c310c228/README.zh-CN.md) | SVG 与设计素材 | [@Naiknelofar788](https://x.com/Naiknelofar788) | [原帖](https://x.com/Naiknelofar788/status/2122546769049624715) · [R2](https://awesome.raphael.app/materials/2a40ec52-7e33-49bd-ad9c-9e7b71a8dc96.jpg) |
+| 19 | 2026-11-28 | [短发圆眼镜 3D 肖像](cases/cms-33bb5f93/README.zh-CN.md) | 品牌与商品 | [@oggii_0](https://x.com/oggii_0) | [原帖](https://x.com/oggii_0/status/2122186361193341356) · [R2](https://awesome.raphael.app/materials/9b0ec006-a376-4356-9b6e-b902d2309893.jpg) |
+| 20 | 2026-11-28 | [泰姬陵几何海报](cases/cms-655f723b/README.zh-CN.md) | 海报与文字排版 | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/d89e9b90-3988-423e-b8f5-a484395631d4.jpg) |
+| 21 | 2026-11-28 | [天鹅绒本能：黑豹美妆封面](cases/cms-194dca1e/README.zh-CN.md) | 海报与文字排版 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/6fc85b51-e660-4540-9fb1-19c3a29e1321.jpg) |
+| 22 | 2026-11-28 | [红伞蘑菇的云朵倒影](cases/cms-0c9584c1/README.zh-CN.md) | 品牌与商品 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/c892086a-b27a-46aa-b7b7-b5facb0a7fb7.jpg) |
+| 23 | 2026-11-28 | [匈牙利国会大厦几何海报](cases/cms-0ada900b/README.zh-CN.md) | 海报与文字排版 | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/345d3853-4830-443e-9669-562a5f88fb68.jpg) |
+| 24 | 2026-11-28 | [冰境：白狐美妆封面](cases/cms-8b56b06e/README.zh-CN.md) | 海报与文字排版 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/8a88c3a2-cd49-40f3-acfb-f58de40ff25a.jpg) |
+| 25 | 2026-11-28 | [薄荷绿机车水彩](cases/cms-1a919041/README.zh-CN.md) | 标注与局部编辑 | [@Maercihh](https://x.com/Maercihh) | [原帖](https://x.com/Maercihh/status/2124501062627598678) · [R2](https://awesome.raphael.app/materials/7c6af42a-1d7d-4235-ba31-2afdeca107b0.jpg) |
+| 26 | 2026-11-28 | [胡萝卜兔的云朵倒影](cases/cms-60153053/README.zh-CN.md) | 品牌与商品 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/2673500a-a48b-4905-894c-bcf7a5330f13.jpg) |
+| 27 | 2026-11-28 | [伦敦塔桥几何海报](cases/cms-4593e60c/README.zh-CN.md) | 海报与文字排版 | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/0d988186-517f-451e-81c7-03643a2528f9.jpg) |
+| 28 | 2026-11-28 | [滑板车旁的街头水彩](cases/cms-fe4da855/README.zh-CN.md) | 标注与局部编辑 | [@Maercihh](https://x.com/Maercihh) | [原帖](https://x.com/Maercihh/status/2124501062627598678) · [R2](https://awesome.raphael.app/materials/ab5536c9-131a-4bfd-b98d-bd3cd4a7bc87.jpg) |
+| 29 | 2026-11-28 | [绯红盛放：深红美妆封面](cases/cms-ca7b8b18/README.zh-CN.md) | 海报与文字排版 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/633248ea-552d-47bb-a9d9-d4857caf1f60.jpg) |
+| 30 | 2026-11-28 | [熊猫的云朵倒影](cases/cms-910cea87/README.zh-CN.md) | 品牌与商品 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/aa6f8c92-8255-4ce2-85f9-f3c0dc7bc94c.jpg) |
+| 31 | 2026-11-28 | [街头小提琴水彩](cases/cms-77645fa9/README.zh-CN.md) | 标注与局部编辑 | [@Maercihh](https://x.com/Maercihh) | [原帖](https://x.com/Maercihh/status/2124501062627598678) · [R2](https://awesome.raphael.app/materials/aa6ae4bc-2a6c-4222-bd19-db6979aeb59b.jpg) |
+| 32 | 2026-11-28 | [静雅：象牙白美妆封面](cases/cms-846dbe6f/README.zh-CN.md) | 海报与文字排版 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2124234296877809889) · [R2](https://awesome.raphael.app/materials/fb515974-3891-481c-81d0-6f97b8647752.jpg) |
+| 33 | 2026-11-28 | [古城尖塔几何海报](cases/cms-e1fdeeaa/README.zh-CN.md) | 海报与文字排版 | [@ZaraIrahh](https://x.com/ZaraIrahh) | [原帖](https://x.com/ZaraIrahh/status/2124087683983257695) · [R2](https://awesome.raphael.app/materials/28115121-b2e2-4632-873d-662ff55b9157.jpg) |
+| 34 | 2026-11-28 | [蝴蝶结小猫的云朵倒影](cases/cms-158dbc3b/README.zh-CN.md) | 品牌与商品 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2124744066021925290) · [R2](https://awesome.raphael.app/materials/66857c25-f3f9-426a-9aec-f0597ee21b99.jpg) |
+| 35 | 2026-11-28 | [经纬：东方织锦](cases/cms-1a031e2a/README.zh-CN.md) | 海报与文字排版 | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/444add90-6828-40f5-81a5-a6952a1f9b33.jpg) |
+| 36 | 2026-11-28 | [羽谱：展翼与字形](cases/cms-48fe6df4/README.zh-CN.md) | 海报与文字排版 | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/c479e29c-240c-4df9-acb7-2ec4993f3c05.jpg) |
+| 37 | 2026-11-28 | [舞迹：狂草与舞者](cases/cms-fc20877d/README.zh-CN.md) | 海报与文字排版 | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/6ad212ea-e5ec-432a-820d-ffed510c3132.jpg) |
+| 38 | 2026-11-28 | [火龙果博物志图鉴](cases/cms-54079bfb/README.zh-CN.md) | 角色与一致性 | [@sipteaandcoffee](https://x.com/sipteaandcoffee) | [原帖](https://x.com/sipteaandcoffee/status/2123882892279349442) · [R2](https://awesome.raphael.app/materials/54f2fe50-3d23-42f8-96a1-a9bf7d24d700.jpg) |
+| 39 | 2026-11-28 | [埃菲尔铁塔字母建筑海报](cases/cms-0df3fb6e/README.zh-CN.md) | 海报与文字排版 | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/a594ee0e-23dd-40ac-b560-66ba7e3447e0.jpg) |
+| 40 | 2026-11-28 | [新世纪福音战士旧墙海报](cases/cms-0a8ca1f8/README.zh-CN.md) | 海报与文字排版 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118602386172465509) · [R2](https://awesome.raphael.app/materials/30161aa8-ac24-44f2-9a02-63728220a75b.jpg) |
+| 41 | 2026-11-28 | [罗马斗兽场字母建筑海报](cases/cms-8d384436/README.zh-CN.md) | 海报与文字排版 | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/00ca8dd4-ed33-4dc8-a08a-98bbe35df9bd.jpg) |
+| 42 | 2026-11-28 | [光隙：建筑与巨字](cases/cms-79c80b5f/README.zh-CN.md) | 海报与文字排版 | [@MrLarus](https://x.com/MrLarus) | [原帖](https://x.com/MrLarus/status/2125257923131773007) · [R2](https://awesome.raphael.app/materials/8765ccff-e390-449a-a100-33e561326289.jpg) |
+| 43 | 2026-11-28 | [攻壳机动队旧墙海报](cases/cms-279614d9/README.zh-CN.md) | 海报与文字排版 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118602386172465509) · [R2](https://awesome.raphael.app/materials/e5ac265e-93c7-4d57-83e2-fb439fa86ba9.jpg) |
+| 44 | 2026-11-28 | [大本钟字母建筑海报](cases/cms-67066aea/README.zh-CN.md) | 海报与文字排版 | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/d9ca43ec-d18b-4b4f-832a-26cd9896f753.jpg) |
+| 45 | 2026-11-28 | [拐杖糖圣诞老人几何海报](cases/cms-e19c2988/README.zh-CN.md) | 海报与文字排版 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2125520256022216961) · [R2](https://awesome.raphael.app/materials/cf5a3056-f1f9-4415-985c-2da7e0e8ed10.jpg) |
+| 46 | 2026-11-28 | [美少女战士旧墙海报](cases/cms-166f1280/README.zh-CN.md) | 海报与文字排版 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118602386172465509) · [R2](https://awesome.raphael.app/materials/92873c04-6d71-4f99-a200-3df2122e7873.jpg) |
+| 47 | 2026-11-28 | [冬日驯鹿几何海报](cases/cms-b52fff1f/README.zh-CN.md) | 海报与文字排版 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2125520256022216961) · [R2](https://awesome.raphael.app/materials/6dd5e86c-2d0b-4c98-8c8a-fdabfcd8c850.jpg) |
+| 48 | 2026-11-28 | [泰姬陵字母建筑海报](cases/cms-789591a8/README.zh-CN.md) | 海报与文字排版 | [@Aiwithkami](https://x.com/Aiwithkami) | [原帖](https://x.com/Aiwithkami/status/2125476933056217417) · [R2](https://awesome.raphael.app/materials/fc525e7a-a499-44d1-84c9-7efad48a68de.jpg) |
+| 49 | 2026-11-28 | [圣诞女孩与礼物几何海报](cases/cms-be9b50a0/README.zh-CN.md) | 海报与文字排版 | [@Just_sharon7](https://x.com/Just_sharon7) | [原帖](https://x.com/Just_sharon7/status/2125520256022216961) · [R2](https://awesome.raphael.app/materials/5ac81b0c-3908-4b28-9f65-91230da44c3d.jpg) |
+| 50 | 2026-11-28 | [紫粉色动漫旧墙海报](cases/cms-82d54811/README.zh-CN.md) | 海报与文字排版 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118602386172465509) · [R2](https://awesome.raphael.app/materials/a67f92d6-0b8d-4cb2-973c-41e3efab594c.jpg) |
+| 51 | 2026-11-28 | [橘猫打工人的十二款表情](cases/cms-0ee5b469/README.zh-CN.md) | 角色与一致性 | [@karanwithai](https://x.com/karanwithai) | [原帖](https://x.com/karanwithai/status/2118156092865994837) · [R2](https://awesome.raphael.app/materials/1081c59f-734d-48c6-95f8-e1c7a02029de.jpg) |
+| 52 | 2026-11-28 | [圈选改图：圣诞帽与礼物盒](cases/cms-e79bc446/README.zh-CN.md) | 角色与一致性 | [@IHayato](https://x.com/IHayato) | [原帖](https://x.com/IHayato/status/2118151619212890291) · [R2](https://awesome.raphael.app/materials/3d374842-dabe-49de-8dca-5de49bc4c3db.jpg) |
+| 53 | 2026-11-28 | [镜面电梯里的黑衣人像](cases/cms-e15401dd/README.zh-CN.md) | 品牌与商品 | [@tadasgedgaudas](https://x.com/tadasgedgaudas) | [原帖](https://x.com/tadasgedgaudas/status/2118284291381875124) · [R2](https://awesome.raphael.app/materials/c7b1ab1a-3311-44c2-8714-f9e68de7715e.jpg) |
+| 54 | 2026-11-28 | [坐在礁石上的笑容](cases/cms-16454b0e/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/1ebbe9ae-d12b-4573-ae20-7b2603e89809.jpg) |
+| 55 | 2026-11-28 | [夕阳下赤脚踏浪](cases/cms-1de05f7a/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/3a32a590-e869-4d35-992c-6caeee2c45e9.jpg) |
+| 56 | 2026-11-28 | [海风中的微笑近景](cases/cms-351939eb/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/2554ad00-8eb1-47a0-bf50-5d712586cbfb.jpg) |
+| 57 | 2026-11-28 | [海边夕阳下回眸](cases/cms-3d29dbdf/README.zh-CN.md) | 角色与一致性 | [@sonny_eacc](https://x.com/sonny_eacc) | [原帖](https://x.com/sonny_eacc/status/2118216234445791408) · [R2](https://awesome.raphael.app/materials/5799d1f7-a7d9-4ea8-8d65-40509527d5a1.jpg) |
+| 58 | 2026-11-28 | [喝到快乐冒泡的珍珠奶茶](cases/cms-8acbc161/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/b121240d-611a-4390-8490-429989df0e75.jpg) |
+| 59 | 2026-11-28 | [哭着也往前跑的女孩](cases/cms-fb48bab2/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/ef00e625-97a5-46bf-ad58-e15161d909b2.jpg) |
+| 60 | 2026-11-28 | [开心又害羞的眨眼表情](cases/cms-1ffcfd8f/README.zh-CN.md) | 角色与一致性 | [@DeepBlueX0](https://x.com/DeepBlueX0) | [原帖](https://x.com/DeepBlueX0/status/2118276577322750086) · [R2](https://awesome.raphael.app/materials/cfee146e-e315-4468-8c61-f0c0b307d9d4.jpg) |
 
-上方展示最新 60 / 69 条 CMS 同步素材；完整记录请查看 [`content/cms-materials.json`](content/cms-materials.json)。
+上方展示最新 60 / 119 条 CMS 同步素材；完整记录请查看 [`content/cms-materials.json`](content/cms-materials.json)。
 
 <a id="using"></a>
 

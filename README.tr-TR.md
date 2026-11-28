@@ -58,7 +58,7 @@ Neden web sitesinde oluşturmalısınız?
 
 ## 🏷️ Kategoriye göre göz atın
 
-[Tümü (202)](README.md#all-cases) · [GIF ve animasyon (90)](README.md#category-gif-animation) · [Karakterler ve tutarlılık (27)](README.md#category-characters-consistency) · [İnfografikler (21)](README.md#category-infographics) · [Marka ve ürün görselleri (16)](README.md#category-brand-products) · [Afişler ve tipografi (16)](README.md#category-posters-typography) · [SVG ve tasarım varlıkları (13)](README.md#category-svg-design-assets) · [İşaretleme ve hedefli düzenlemeler (11)](README.md#category-markup-edits) · [İç mekân ve mimari (8)](README.md#category-interiors-architecture)
+[Tümü (248)](README.md#all-cases) · [GIF ve animasyon (90)](README.md#category-gif-animation) · [Karakterler ve tutarlılık (40)](README.md#category-characters-consistency) · [Afişler ve tipografi (35)](README.md#category-posters-typography) · [Marka ve ürün görselleri (23)](README.md#category-brand-products) · [İnfografikler (21)](README.md#category-infographics) · [SVG ve tasarım varlıkları (17)](README.md#category-svg-design-assets) · [İşaretleme ve hedefli düzenlemeler (14)](README.md#category-markup-edits) · [İç mekân ve mimari (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Toplam istem | **156** |
 | ⭐ Öne çıkanlar | **12** |
-| 🗂️ CMS materyal sayısı | **69** |
-| 🔄 Son güncelleme | **2026-11-28 UTC 07:48:29** |
+| 🗂️ CMS materyal sayısı | **119** |
+| 🔄 Son güncelleme | **2026-11-28 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Video önizlemeleri ilk sabit karedir; hareketi görmek için bağlantılı dosy
 
 ## 📋 Tüm örnekler
 
-Bu yerelleştirilmiş sürüm çevrilmiş genel bakışı, API hızlı başlangıcını, canlı istatistikleri ve öne çıkan tüm örnekleri içerir. Çevrilmemiş İngilizce istemlerin 14 dosyada tekrarlanmasını önlemek için aşağıdaki kategorilerden tüm 202 örneğe geçin veya yerelleştirilmiş web galerisini açın.
+Bu yerelleştirilmiş sürüm çevrilmiş genel bakışı, API hızlı başlangıcını, canlı istatistikleri ve öne çıkan tüm örnekleri içerir. Çevrilmemiş İngilizce istemlerin 14 dosyada tekrarlanmasını önlemek için aşağıdaki kategorilerden tüm 248 örneğe geçin veya yerelleştirilmiş web galerisini açın.
 
 | Kategori | Örnek sayısı | Örnekleri incele |
 | --- | ---: | --- |
 | GIF ve animasyon | **90** | [İngilizce okuyun](README.md#category-gif-animation) |
-| Karakterler ve tutarlılık | **27** | [İngilizce okuyun](README.md#category-characters-consistency) |
+| Karakterler ve tutarlılık | **40** | [İngilizce okuyun](README.md#category-characters-consistency) |
+| Afişler ve tipografi | **35** | [İngilizce okuyun](README.md#category-posters-typography) |
+| Marka ve ürün görselleri | **23** | [İngilizce okuyun](README.md#category-brand-products) |
 | İnfografikler | **21** | [İngilizce okuyun](README.md#category-infographics) |
-| Marka ve ürün görselleri | **16** | [İngilizce okuyun](README.md#category-brand-products) |
-| Afişler ve tipografi | **16** | [İngilizce okuyun](README.md#category-posters-typography) |
-| SVG ve tasarım varlıkları | **13** | [İngilizce okuyun](README.md#category-svg-design-assets) |
-| İşaretleme ve hedefli düzenlemeler | **11** | [İngilizce okuyun](README.md#category-markup-edits) |
+| SVG ve tasarım varlıkları | **17** | [İngilizce okuyun](README.md#category-svg-design-assets) |
+| İşaretleme ve hedefli düzenlemeler | **14** | [İngilizce okuyun](README.md#category-markup-edits) |
 | İç mekân ve mimari | **8** | [İngilizce okuyun](README.md#category-interiors-architecture) |
 
-**[👉 İngilizce tam koleksiyonu görüntüle (tüm 202 örnek) →](README.md#all-cases)**
+**[👉 İngilizce tam koleksiyonu görüntüle (tüm 248 örnek) →](README.md#all-cases)**
 
 [Raphael Türkçe web galerisini aç ↗](https://raphael.app/tr/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=tr-TR)
 
 <a id="cms-latest"></a>
 
-## 🆕 Son eklenenler (69)
+## 🆕 Son eklenenler (119)
 
-[Son eklenenler (69) →](README.md#cms-latest)
+[Son eklenenler (119) →](README.md#cms-latest)
 
 <a id="using"></a>
 

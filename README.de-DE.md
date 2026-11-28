@@ -58,7 +58,7 @@ Die kostenlose Bilderzeugung nutzt den Basismodus. Die erforderlichen Credits un
 
 ## 🏷️ Nach Kategorie durchstöbern
 
-[Alle (202)](README.md#all-cases) · [GIF & Animation (90)](README.md#category-gif-animation) · [Figuren & Konsistenz (27)](README.md#category-characters-consistency) · [Infografiken (21)](README.md#category-infographics) · [Marken- & Produktvisualisierungen (16)](README.md#category-brand-products) · [Poster & Typografie (16)](README.md#category-posters-typography) · [SVG & Designressourcen (13)](README.md#category-svg-design-assets) · [Markierungen & gezielte Bearbeitungen (11)](README.md#category-markup-edits) · [Innenräume & Architektur (8)](README.md#category-interiors-architecture)
+[Alle (248)](README.md#all-cases) · [GIF & Animation (90)](README.md#category-gif-animation) · [Figuren & Konsistenz (40)](README.md#category-characters-consistency) · [Poster & Typografie (35)](README.md#category-posters-typography) · [Marken- & Produktvisualisierungen (23)](README.md#category-brand-products) · [Infografiken (21)](README.md#category-infographics) · [SVG & Designressourcen (17)](README.md#category-svg-design-assets) · [Markierungen & gezielte Bearbeitungen (14)](README.md#category-markup-edits) · [Innenräume & Architektur (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Prompts insgesamt | **156** |
 | ⭐ Ausgewählt | **12** |
-| 🗂️ Materialien im CMS | **69** |
-| 🔄 Zuletzt aktualisiert | **2026-11-28 UTC 07:48:29** |
+| 🗂️ Materialien im CMS | **119** |
+| 🔄 Zuletzt aktualisiert | **2026-11-28 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Videovorschauen zeigen das erste Standbild; öffne die verlinkte Datei für die 
 
 ## 📋 Alle Beispiele
 
-Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnellstart, aktuelle Statistiken und alle vorgestellten Beispiele. Um unübersetzte englische Prompts nicht 14-fach zu duplizieren, nutze unten das vollständige Kategorienverzeichnis aller 202 Beispiele oder öffne die lokalisierte Web-Galerie.
+Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnellstart, aktuelle Statistiken und alle vorgestellten Beispiele. Um unübersetzte englische Prompts nicht 14-fach zu duplizieren, nutze unten das vollständige Kategorienverzeichnis aller 248 Beispiele oder öffne die lokalisierte Web-Galerie.
 
 | Kategorie | Beispiele | Beispiele ansehen |
 | --- | ---: | --- |
 | GIF & Animation | **90** | [Auf Englisch lesen](README.md#category-gif-animation) |
-| Figuren & Konsistenz | **27** | [Auf Englisch lesen](README.md#category-characters-consistency) |
+| Figuren & Konsistenz | **40** | [Auf Englisch lesen](README.md#category-characters-consistency) |
+| Poster & Typografie | **35** | [Auf Englisch lesen](README.md#category-posters-typography) |
+| Marken- & Produktvisualisierungen | **23** | [Auf Englisch lesen](README.md#category-brand-products) |
 | Infografiken | **21** | [Auf Englisch lesen](README.md#category-infographics) |
-| Marken- & Produktvisualisierungen | **16** | [Auf Englisch lesen](README.md#category-brand-products) |
-| Poster & Typografie | **16** | [Auf Englisch lesen](README.md#category-posters-typography) |
-| SVG & Designressourcen | **13** | [Auf Englisch lesen](README.md#category-svg-design-assets) |
-| Markierungen & gezielte Bearbeitungen | **11** | [Auf Englisch lesen](README.md#category-markup-edits) |
+| SVG & Designressourcen | **17** | [Auf Englisch lesen](README.md#category-svg-design-assets) |
+| Markierungen & gezielte Bearbeitungen | **14** | [Auf Englisch lesen](README.md#category-markup-edits) |
 | Innenräume & Architektur | **8** | [Auf Englisch lesen](README.md#category-interiors-architecture) |
 
-**[👉 Vollständige Sammlung auf Englisch ansehen (alle 202 Beispiele) →](README.md#all-cases)**
+**[👉 Vollständige Sammlung auf Englisch ansehen (alle 248 Beispiele) →](README.md#all-cases)**
 
 [Lokalisierte Raphael-Web-Galerie öffnen ↗](https://raphael.app/de/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=de-DE)
 
 <a id="cms-latest"></a>
 
-## 🆕 Kürzlich hinzugefügt (69)
+## 🆕 Kürzlich hinzugefügt (119)
 
-[Kürzlich hinzugefügt (69) →](README.md#cms-latest)
+[Kürzlich hinzugefügt (119) →](README.md#cms-latest)
 
 <a id="using"></a>
 

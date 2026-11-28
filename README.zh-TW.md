@@ -58,7 +58,7 @@
 
 ## 🏷️ 依分類瀏覽
 
-[全部 (202)](README.md#all-cases) · [GIF 與動畫 (90)](README.md#category-gif-animation) · [角色與一致性 (27)](README.md#category-characters-consistency) · [資訊圖表 (21)](README.md#category-infographics) · [品牌與產品視覺 (16)](README.md#category-brand-products) · [海報與文字排版 (16)](README.md#category-posters-typography) · [SVG 與設計素材 (13)](README.md#category-svg-design-assets) · [標註與局部編輯 (11)](README.md#category-markup-edits) · [室內設計與建築 (8)](README.md#category-interiors-architecture)
+[全部 (248)](README.md#all-cases) · [GIF 與動畫 (90)](README.md#category-gif-animation) · [角色與一致性 (40)](README.md#category-characters-consistency) · [海報與文字排版 (35)](README.md#category-posters-typography) · [品牌與產品視覺 (23)](README.md#category-brand-products) · [資訊圖表 (21)](README.md#category-infographics) · [SVG 與設計素材 (17)](README.md#category-svg-design-assets) · [標註與局部編輯 (14)](README.md#category-markup-edits) · [室內設計與建築 (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 提示詞總數 | **156** |
 | ⭐ 精選 | **12** |
-| 🗂️ CMS 素材總數 | **69** |
-| 🔄 最後更新 | **2026年11月28日星期六 UTC 07:48:29** |
+| 🗂️ CMS 素材總數 | **119** |
+| 🔄 最後更新 | **2026年11月28日星期六 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 所有案例
 
-本語言版本提供本地化簡介、API 速查、即時統計與全部精選案例。為避免在 14 個檔案中重複堆砌未翻譯的英文提示詞，請在下方依分類前往完整 202 個案例，或開啟本地化網頁圖庫。
+本語言版本提供本地化簡介、API 速查、即時統計與全部精選案例。為避免在 14 個檔案中重複堆砌未翻譯的英文提示詞，請在下方依分類前往完整 248 個案例，或開啟本地化網頁圖庫。
 
 | 分類 | 案例數 | 查看案例 |
 | --- | ---: | --- |
 | GIF 與動畫 | **90** | [閱讀英文版](README.md#category-gif-animation) |
-| 角色與一致性 | **27** | [閱讀英文版](README.md#category-characters-consistency) |
+| 角色與一致性 | **40** | [閱讀英文版](README.md#category-characters-consistency) |
+| 海報與文字排版 | **35** | [閱讀英文版](README.md#category-posters-typography) |
+| 品牌與產品視覺 | **23** | [閱讀英文版](README.md#category-brand-products) |
 | 資訊圖表 | **21** | [閱讀英文版](README.md#category-infographics) |
-| 品牌與產品視覺 | **16** | [閱讀英文版](README.md#category-brand-products) |
-| 海報與文字排版 | **16** | [閱讀英文版](README.md#category-posters-typography) |
-| SVG 與設計素材 | **13** | [閱讀英文版](README.md#category-svg-design-assets) |
-| 標註與局部編輯 | **11** | [閱讀英文版](README.md#category-markup-edits) |
+| SVG 與設計素材 | **17** | [閱讀英文版](README.md#category-svg-design-assets) |
+| 標註與局部編輯 | **14** | [閱讀英文版](README.md#category-markup-edits) |
 | 室內設計與建築 | **8** | [閱讀英文版](README.md#category-interiors-architecture) |
 
-**[👉 在英文主文件查看全部 202 個案例 →](README.md#all-cases)**
+**[👉 在英文主文件查看全部 248 個案例 →](README.md#all-cases)**
 
 [開啟 Raphael 繁體中文網頁圖庫 ↗](https://raphael.app/zh-Hant/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=zh-TW)
 
 <a id="cms-latest"></a>
 
-## 🆕 最近新增 (69)
+## 🆕 最近新增 (119)
 
-[最近新增 (69) →](README.md#cms-latest)
+[最近新增 (119) →](README.md#cms-latest)
 
 <a id="using"></a>
 

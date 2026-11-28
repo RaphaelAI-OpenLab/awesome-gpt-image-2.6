@@ -58,7 +58,7 @@ La generación gratuita usa el modo básico. Los requisitos de créditos y plane
 
 ## 🏷️ Explorar por categoría
 
-[Todos (202)](README.md#all-cases) · [GIF y animación (90)](README.md#category-gif-animation) · [Personajes y coherencia (27)](README.md#category-characters-consistency) · [Infografías (21)](README.md#category-infographics) · [Imágenes de marca y producto (16)](README.md#category-brand-products) · [Pósteres y tipografía (16)](README.md#category-posters-typography) · [SVG y recursos de diseño (13)](README.md#category-svg-design-assets) · [Anotaciones y ediciones específicas (11)](README.md#category-markup-edits) · [Interiores y arquitectura (8)](README.md#category-interiors-architecture)
+[Todos (248)](README.md#all-cases) · [GIF y animación (90)](README.md#category-gif-animation) · [Personajes y coherencia (40)](README.md#category-characters-consistency) · [Pósteres y tipografía (35)](README.md#category-posters-typography) · [Imágenes de marca y producto (23)](README.md#category-brand-products) · [Infografías (21)](README.md#category-infographics) · [SVG y recursos de diseño (17)](README.md#category-svg-design-assets) · [Anotaciones y ediciones específicas (14)](README.md#category-markup-edits) · [Interiores y arquitectura (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Total de prompts | **156** |
 | ⭐ Destacados | **12** |
-| 🗂️ Recursos en el CMS | **69** |
-| 🔄 Última actualización | **2026-11-28 UTC 07:48:29** |
+| 🗂️ Recursos en el CMS | **119** |
+| 🔄 Última actualización | **2026-11-28 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Las vistas previas de video son el primer cuadro; abre el archivo enlazado para 
 
 ## 📋 Todos los casos
 
-Esta edición localizada incluye la introducción traducida, el inicio rápido de la API, estadísticas en vivo y todos los casos destacados. Para evitar duplicar prompts en inglés sin traducir en 14 archivos, navega por el índice completo de 202 casos por categoría abajo o abre la galería web localizada.
+Esta edición localizada incluye la introducción traducida, el inicio rápido de la API, estadísticas en vivo y todos los casos destacados. Para evitar duplicar prompts en inglés sin traducir en 14 archivos, navega por el índice completo de 248 casos por categoría abajo o abre la galería web localizada.
 
 | Categoría | Casos | Ver ejemplos |
 | --- | ---: | --- |
 | GIF y animación | **90** | [Leer en inglés](README.md#category-gif-animation) |
-| Personajes y coherencia | **27** | [Leer en inglés](README.md#category-characters-consistency) |
+| Personajes y coherencia | **40** | [Leer en inglés](README.md#category-characters-consistency) |
+| Pósteres y tipografía | **35** | [Leer en inglés](README.md#category-posters-typography) |
+| Imágenes de marca y producto | **23** | [Leer en inglés](README.md#category-brand-products) |
 | Infografías | **21** | [Leer en inglés](README.md#category-infographics) |
-| Imágenes de marca y producto | **16** | [Leer en inglés](README.md#category-brand-products) |
-| Pósteres y tipografía | **16** | [Leer en inglés](README.md#category-posters-typography) |
-| SVG y recursos de diseño | **13** | [Leer en inglés](README.md#category-svg-design-assets) |
-| Anotaciones y ediciones específicas | **11** | [Leer en inglés](README.md#category-markup-edits) |
+| SVG y recursos de diseño | **17** | [Leer en inglés](README.md#category-svg-design-assets) |
+| Anotaciones y ediciones específicas | **14** | [Leer en inglés](README.md#category-markup-edits) |
 | Interiores y arquitectura | **8** | [Leer en inglés](README.md#category-interiors-architecture) |
 
-**[👉 Ver la colección completa en inglés (los 202 casos) →](README.md#all-cases)**
+**[👉 Ver la colección completa en inglés (los 248 casos) →](README.md#all-cases)**
 
 [Abrir la galería web de Raphael en español ↗](https://raphael.app/es/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=es-419)
 
 <a id="cms-latest"></a>
 
-## 🆕 Agregado recientemente (69)
+## 🆕 Agregado recientemente (119)
 
-[Agregado recientemente (69) →](README.md#cms-latest)
+[Agregado recientemente (119) →](README.md#cms-latest)
 
 <a id="using"></a>
 

@@ -58,7 +58,7 @@ Webサイトで作成するメリットは？
 
 ## 🏷️ カテゴリーから探す
 
-[すべて (202)](README.md#all-cases) · [GIF・アニメーション (90)](README.md#category-gif-animation) · [キャラクターと一貫性 (27)](README.md#category-characters-consistency) · [インフォグラフィック (21)](README.md#category-infographics) · [ブランド・製品ビジュアル (16)](README.md#category-brand-products) · [ポスター・タイポグラフィ (16)](README.md#category-posters-typography) · [SVG・デザイン素材 (13)](README.md#category-svg-design-assets) · [マークアップ・部分編集 (11)](README.md#category-markup-edits) · [インテリア・建築 (8)](README.md#category-interiors-architecture)
+[すべて (248)](README.md#all-cases) · [GIF・アニメーション (90)](README.md#category-gif-animation) · [キャラクターと一貫性 (40)](README.md#category-characters-consistency) · [ポスター・タイポグラフィ (35)](README.md#category-posters-typography) · [ブランド・製品ビジュアル (23)](README.md#category-brand-products) · [インフォグラフィック (21)](README.md#category-infographics) · [SVG・デザイン素材 (17)](README.md#category-svg-design-assets) · [マークアップ・部分編集 (14)](README.md#category-markup-edits) · [インテリア・建築 (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 プロンプト総数 | **156** |
 | ⭐ 厳選 | **12** |
-| 🗂️ CMS 素材数 | **69** |
-| 🔄 最終更新 | **2026-11-28 UTC 07:48:29** |
+| 🗂️ CMS 素材数 | **119** |
+| 🔄 最終更新 | **2026-11-28 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 すべての事例
 
-この言語版には翻訳済みの概要、API クイックスタート、最新統計、すべての注目作例を収録しています。未翻訳の英語プロンプトの重複を避けるため、全 202 件の一覧は下のカテゴリ別リンクまたは日本語 Web ギャラリーからご覧ください。
+この言語版には翻訳済みの概要、API クイックスタート、最新統計、すべての注目作例を収録しています。未翻訳の英語プロンプトの重複を避けるため、全 248 件の一覧は下のカテゴリ別リンクまたは日本語 Web ギャラリーからご覧ください。
 
 | カテゴリー | 件数 | 作例を見る |
 | --- | ---: | --- |
 | GIF・アニメーション | **90** | [英語で読む](README.md#category-gif-animation) |
-| キャラクターと一貫性 | **27** | [英語で読む](README.md#category-characters-consistency) |
+| キャラクターと一貫性 | **40** | [英語で読む](README.md#category-characters-consistency) |
+| ポスター・タイポグラフィ | **35** | [英語で読む](README.md#category-posters-typography) |
+| ブランド・製品ビジュアル | **23** | [英語で読む](README.md#category-brand-products) |
 | インフォグラフィック | **21** | [英語で読む](README.md#category-infographics) |
-| ブランド・製品ビジュアル | **16** | [英語で読む](README.md#category-brand-products) |
-| ポスター・タイポグラフィ | **16** | [英語で読む](README.md#category-posters-typography) |
-| SVG・デザイン素材 | **13** | [英語で読む](README.md#category-svg-design-assets) |
-| マークアップ・部分編集 | **11** | [英語で読む](README.md#category-markup-edits) |
+| SVG・デザイン素材 | **17** | [英語で読む](README.md#category-svg-design-assets) |
+| マークアップ・部分編集 | **14** | [英語で読む](README.md#category-markup-edits) |
 | インテリア・建築 | **8** | [英語で読む](README.md#category-interiors-architecture) |
 
-**[👉 英語版メインページで全 202 件の作例を見る →](README.md#all-cases)**
+**[👉 英語版メインページで全 248 件の作例を見る →](README.md#all-cases)**
 
 [Raphael 日本語 Web ギャラリーを開く ↗](https://raphael.app/ja/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=ja-JP)
 
 <a id="cms-latest"></a>
 
-## 🆕 最近の追加 (69)
+## 🆕 最近の追加 (119)
 
-[最近の追加 (69) →](README.md#cms-latest)
+[最近の追加 (119) →](README.md#cms-latest)
 
 <a id="using"></a>
 

@@ -58,7 +58,7 @@
 
 ## 🏷️ ดูตามหมวดหมู่
 
-[ทั้งหมด (202)](README.md#all-cases) · [GIF และแอนิเมชัน (90)](README.md#category-gif-animation) · [ตัวละครและความสม่ำเสมอ (27)](README.md#category-characters-consistency) · [อินโฟกราฟิก (21)](README.md#category-infographics) · [ภาพสำหรับแบรนด์และผลิตภัณฑ์ (16)](README.md#category-brand-products) · [โปสเตอร์และการจัดวางตัวอักษร (16)](README.md#category-posters-typography) · [SVG และทรัพยากรงานออกแบบ (13)](README.md#category-svg-design-assets) · [การทำเครื่องหมายและการแก้ไขเฉพาะจุด (11)](README.md#category-markup-edits) · [การตกแต่งภายในและสถาปัตยกรรม (8)](README.md#category-interiors-architecture)
+[ทั้งหมด (248)](README.md#all-cases) · [GIF และแอนิเมชัน (90)](README.md#category-gif-animation) · [ตัวละครและความสม่ำเสมอ (40)](README.md#category-characters-consistency) · [โปสเตอร์และการจัดวางตัวอักษร (35)](README.md#category-posters-typography) · [ภาพสำหรับแบรนด์และผลิตภัณฑ์ (23)](README.md#category-brand-products) · [อินโฟกราฟิก (21)](README.md#category-infographics) · [SVG และทรัพยากรงานออกแบบ (17)](README.md#category-svg-design-assets) · [การทำเครื่องหมายและการแก้ไขเฉพาะจุด (14)](README.md#category-markup-edits) · [การตกแต่งภายในและสถาปัตยกรรม (8)](README.md#category-interiors-architecture)
 
 <a id="contents"></a>
 
@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 พรอมป์ต์ทั้งหมด | **156** |
 | ⭐ คัดสรร | **12** |
-| 🗂️ จำนวนสื่อใน CMS | **69** |
-| 🔄 อัปเดตล่าสุด | **2026-11-28 UTC 07:48:29** |
+| 🗂️ จำนวนสื่อใน CMS | **119** |
+| 🔄 อัปเดตล่าสุด | **2026-11-28 UTC 16:53:38** |
 
-<!-- cms-stats 69 2026-11-28T07:48:29Z -->
+<!-- cms-stats 119 2026-11-28T16:53:38Z -->
 
 <a id="featured"></a>
 
@@ -537,28 +537,28 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 ## 📋 กรณีตัวอย่างทั้งหมด
 
-ฉบับภาษานี้ประกอบด้วยภาพรวมที่แปลแล้ว คู่มือเริ่มต้นเร็ว API สถิติล่าสุด และเคสเด่นทั้งหมด เพื่อไม่ให้มีพรอมต์ภาษาอังกฤษซ้ำซ้อนกัน 14 ไฟล์ กรุณาเลือกดูดัชนีครบ 202 เคสตามหมวดหมู่ด้านล่างหรือเปิดแกลเลอรีบนเว็บ
+ฉบับภาษานี้ประกอบด้วยภาพรวมที่แปลแล้ว คู่มือเริ่มต้นเร็ว API สถิติล่าสุด และเคสเด่นทั้งหมด เพื่อไม่ให้มีพรอมต์ภาษาอังกฤษซ้ำซ้อนกัน 14 ไฟล์ กรุณาเลือกดูดัชนีครบ 248 เคสตามหมวดหมู่ด้านล่างหรือเปิดแกลเลอรีบนเว็บ
 
 | หมวดหมู่ | จำนวนเคส | ดูตัวอย่าง |
 | --- | ---: | --- |
 | GIF และแอนิเมชัน | **90** | [อ่านเป็นภาษาอังกฤษ](README.md#category-gif-animation) |
-| ตัวละครและความสม่ำเสมอ | **27** | [อ่านเป็นภาษาอังกฤษ](README.md#category-characters-consistency) |
+| ตัวละครและความสม่ำเสมอ | **40** | [อ่านเป็นภาษาอังกฤษ](README.md#category-characters-consistency) |
+| โปสเตอร์และการจัดวางตัวอักษร | **35** | [อ่านเป็นภาษาอังกฤษ](README.md#category-posters-typography) |
+| ภาพสำหรับแบรนด์และผลิตภัณฑ์ | **23** | [อ่านเป็นภาษาอังกฤษ](README.md#category-brand-products) |
 | อินโฟกราฟิก | **21** | [อ่านเป็นภาษาอังกฤษ](README.md#category-infographics) |
-| ภาพสำหรับแบรนด์และผลิตภัณฑ์ | **16** | [อ่านเป็นภาษาอังกฤษ](README.md#category-brand-products) |
-| โปสเตอร์และการจัดวางตัวอักษร | **16** | [อ่านเป็นภาษาอังกฤษ](README.md#category-posters-typography) |
-| SVG และทรัพยากรงานออกแบบ | **13** | [อ่านเป็นภาษาอังกฤษ](README.md#category-svg-design-assets) |
-| การทำเครื่องหมายและการแก้ไขเฉพาะจุด | **11** | [อ่านเป็นภาษาอังกฤษ](README.md#category-markup-edits) |
+| SVG และทรัพยากรงานออกแบบ | **17** | [อ่านเป็นภาษาอังกฤษ](README.md#category-svg-design-assets) |
+| การทำเครื่องหมายและการแก้ไขเฉพาะจุด | **14** | [อ่านเป็นภาษาอังกฤษ](README.md#category-markup-edits) |
 | การตกแต่งภายในและสถาปัตยกรรม | **8** | [อ่านเป็นภาษาอังกฤษ](README.md#category-interiors-architecture) |
 
-**[👉 ดูคอลเลกชันฉบับเต็มภาษาอังกฤษ (ครบทั้ง 202 เคส) →](README.md#all-cases)**
+**[👉 ดูคอลเลกชันฉบับเต็มภาษาอังกฤษ (ครบทั้ง 248 เคส) →](README.md#all-cases)**
 
 [เปิดเว็บแกลเลอรี Raphael ภาษาไทย ↗](https://raphael.app/th/gpt-image-2-6-prompts?utm_source=github&utm_medium=repository&utm_campaign=gpt_image_2_6_launch&utm_content=localized_all_cases&utm_term=th-TH)
 
 <a id="cms-latest"></a>
 
-## 🆕 เพิ่มล่าสุด (69)
+## 🆕 เพิ่มล่าสุด (119)
 
-[เพิ่มล่าสุด (69) →](README.md#cms-latest)
+[เพิ่มล่าสุด (119) →](README.md#cms-latest)
 
 <a id="using"></a>
 
