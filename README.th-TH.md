@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 พรอมป์ต์ทั้งหมด | **156** |
 | ⭐ คัดสรร | **12** |
-| 🗂️ จำนวนสื่อใน CMS | **56** |
-| 🔄 อัปเดตล่าสุด | **2026-11-28 UTC 00:02:43** |
+| 🗂️ จำนวนสื่อใน CMS | **69** |
+| 🔄 อัปเดตล่าสุด | **2026-11-28 UTC 07:48:29** |
 
-<!-- cms-stats 56 2026-11-28T00:02:43Z -->
+<!-- cms-stats 69 2026-11-28T07:48:29Z -->
 
 <a id="featured"></a>
 
@@ -556,9 +556,9 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="cms-latest"></a>
 
-## 🆕 เพิ่มล่าสุด (56)
+## 🆕 เพิ่มล่าสุด (69)
 
-[เพิ่มล่าสุด (56) →](README.md#cms-latest)
+[เพิ่มล่าสุด (69) →](README.md#cms-latest)
 
 <a id="using"></a>
 

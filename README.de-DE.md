@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Prompts insgesamt | **156** |
 | ⭐ Ausgewählt | **12** |
-| 🗂️ Materialien im CMS | **56** |
-| 🔄 Zuletzt aktualisiert | **2026-11-28 UTC 00:02:43** |
+| 🗂️ Materialien im CMS | **69** |
+| 🔄 Zuletzt aktualisiert | **2026-11-28 UTC 07:48:29** |
 
-<!-- cms-stats 56 2026-11-28T00:02:43Z -->
+<!-- cms-stats 69 2026-11-28T07:48:29Z -->
 
 <a id="featured"></a>
 
@@ -556,9 +556,9 @@ Diese lokalisierte Ausgabe enthält die übersetzte Übersicht, den API-Schnells
 
 <a id="cms-latest"></a>
 
-## 🆕 Kürzlich hinzugefügt (56)
+## 🆕 Kürzlich hinzugefügt (69)
 
-[Kürzlich hinzugefügt (56) →](README.md#cms-latest)
+[Kürzlich hinzugefügt (69) →](README.md#cms-latest)
 
 <a id="using"></a>
 

@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 Total des prompts | **156** |
 | ⭐ Sélection | **12** |
-| 🗂️ Ressources dans le CMS | **56** |
-| 🔄 Dernière mise à jour | **2026-11-28 UTC 00:02:43** |
+| 🗂️ Ressources dans le CMS | **69** |
+| 🔄 Dernière mise à jour | **2026-11-28 UTC 07:48:29** |
 
-<!-- cms-stats 56 2026-11-28T00:02:43Z -->
+<!-- cms-stats 69 2026-11-28T07:48:29Z -->
 
 <a id="featured"></a>
 
@@ -556,9 +556,9 @@ Cette édition localisée inclut la présentation traduite, le démarrage rapide
 
 <a id="cms-latest"></a>
 
-## 🆕 Ajouts récents (56)
+## 🆕 Ajouts récents (69)
 
-[Ajouts récents (56) →](README.md#cms-latest)
+[Ajouts récents (69) →](README.md#cms-latest)
 
 <a id="using"></a>
 

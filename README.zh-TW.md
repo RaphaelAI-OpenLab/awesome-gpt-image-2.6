@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 提示詞總數 | **156** |
 | ⭐ 精選 | **12** |
-| 🗂️ CMS 素材總數 | **56** |
-| 🔄 最後更新 | **2026年11月28日星期六 UTC 00:02:43** |
+| 🗂️ CMS 素材總數 | **69** |
+| 🔄 最後更新 | **2026年11月28日星期六 UTC 07:48:29** |
 
-<!-- cms-stats 56 2026-11-28T00:02:43Z -->
+<!-- cms-stats 69 2026-11-28T07:48:29Z -->
 
 <a id="featured"></a>
 
@@ -556,9 +556,9 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="cms-latest"></a>
 
-## 🆕 最近新增 (56)
+## 🆕 最近新增 (69)
 
-[最近新增 (56) →](README.md#cms-latest)
+[最近新增 (69) →](README.md#cms-latest)
 
 <a id="using"></a>
 

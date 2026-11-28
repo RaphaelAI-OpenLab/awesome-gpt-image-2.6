@@ -156,10 +156,10 @@ curl https://api.openai.com/v1/images/generations \
 | --- | --- |
 | 📝 전체 프롬프트 | **156** |
 | ⭐ 추천 | **12** |
-| 🗂️ CMS 자료 수 | **56** |
-| 🔄 마지막 업데이트 | **2026-11-28 UTC 00:02:43** |
+| 🗂️ CMS 자료 수 | **69** |
+| 🔄 마지막 업데이트 | **2026-11-28 UTC 07:48:29** |
 
-<!-- cms-stats 56 2026-11-28T00:02:43Z -->
+<!-- cms-stats 69 2026-11-28T07:48:29Z -->
 
 <a id="featured"></a>
 
@@ -556,9 +556,9 @@ Recolor the striped vase inside the red circle to solid cobalt blue ceramic. Kee
 
 <a id="cms-latest"></a>
 
-## 🆕 최근 추가 (56)
+## 🆕 최근 추가 (69)
 
-[최근 추가 (56) →](README.md#cms-latest)
+[최근 추가 (69) →](README.md#cms-latest)
 
 <a id="using"></a>
 
